@@ -1,14 +1,66 @@
+import { useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { getRevenue, getRevenueStats } from '../services/api'
 
 function Revenue() {
+  const [filters, setFilters] = useState({
+    transactionDateFrom: '',
+    transactionDateTo: '',
+    transactionType: '',
+    subscriptionTier: '',
+    status: '',
+    amountMin: '',
+    amountMax: ''
+  })
+
+  const [appliedFilters, setAppliedFilters] = useState({
+    transactionDateFrom: '',
+    transactionDateTo: '',
+    transactionType: '',
+    subscriptionTier: '',
+    status: '',
+    amountMin: '',
+    amountMax: ''
+  })
+
   const { data: revenue, isLoading } = useQuery({
-    queryKey: ['revenue'],
+    queryKey: ['revenue', appliedFilters],
     queryFn: async () => {
-      const response = await getRevenue({ limit: 100 })
+      const params = { limit: 100 }
+      if (appliedFilters.transactionDateFrom) params.transactionDateFrom = appliedFilters.transactionDateFrom
+      if (appliedFilters.transactionDateTo) params.transactionDateTo = appliedFilters.transactionDateTo
+      if (appliedFilters.transactionType) params.transactionType = appliedFilters.transactionType
+      if (appliedFilters.subscriptionTier) params.tier = appliedFilters.subscriptionTier
+      if (appliedFilters.status) params.status = appliedFilters.status
+      if (appliedFilters.amountMin) params.amountMin = appliedFilters.amountMin
+      if (appliedFilters.amountMax) params.amountMax = appliedFilters.amountMax
+      
+      const response = await getRevenue(params)
       return response.data
     }
   })
+
+  const handleFilterChange = (field, value) => {
+    setFilters(prev => ({ ...prev, [field]: value }))
+  }
+
+  const applyFilters = () => {
+    setAppliedFilters(filters)
+  }
+
+  const clearFilters = () => {
+    const emptyFilters = {
+      transactionDateFrom: '',
+      transactionDateTo: '',
+      transactionType: '',
+      subscriptionTier: '',
+      status: '',
+      amountMin: '',
+      amountMax: ''
+    }
+    setFilters(emptyFilters)
+    setAppliedFilters(emptyFilters)
+  }
 
   const { data: stats } = useQuery({
     queryKey: ['revenue-stats'],
@@ -25,6 +77,105 @@ function Revenue() {
   return (
     <div>
       <h1 style={{ marginBottom: '2rem' }}>Revenue</h1>
+
+      {/* Filters */}
+      <div className="card" style={{ marginBottom: '1.5rem' }}>
+        <h3 style={{ marginBottom: '1rem' }}>Filters</h3>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1rem', marginBottom: '1rem' }}>
+          <div>
+            <label style={{ display: 'block', marginBottom: '0.25rem', fontSize: '0.875rem', fontWeight: '500' }}>Date From</label>
+            <input
+              type="date"
+              value={filters.transactionDateFrom}
+              onChange={(e) => handleFilterChange('transactionDateFrom', e.target.value)}
+              style={{ width: '100%', padding: '0.5rem', border: '1px solid #d1d5db', borderRadius: '4px' }}
+            />
+          </div>
+          <div>
+            <label style={{ display: 'block', marginBottom: '0.25rem', fontSize: '0.875rem', fontWeight: '500' }}>Date To</label>
+            <input
+              type="date"
+              value={filters.transactionDateTo}
+              onChange={(e) => handleFilterChange('transactionDateTo', e.target.value)}
+              style={{ width: '100%', padding: '0.5rem', border: '1px solid #d1d5db', borderRadius: '4px' }}
+            />
+          </div>
+          <div>
+            <label style={{ display: 'block', marginBottom: '0.25rem', fontSize: '0.875rem', fontWeight: '500' }}>Transaction Type</label>
+            <select
+              value={filters.transactionType}
+              onChange={(e) => handleFilterChange('transactionType', e.target.value)}
+              style={{ width: '100%', padding: '0.5rem', border: '1px solid #d1d5db', borderRadius: '4px' }}
+            >
+              <option value="">All</option>
+              <option value="mrr">MRR</option>
+              <option value="one_time">One-Time</option>
+              <option value="refund">Refund</option>
+            </select>
+          </div>
+          <div>
+            <label style={{ display: 'block', marginBottom: '0.25rem', fontSize: '0.875rem', fontWeight: '500' }}>Subscription Tier</label>
+            <select
+              value={filters.subscriptionTier}
+              onChange={(e) => handleFilterChange('subscriptionTier', e.target.value)}
+              style={{ width: '100%', padding: '0.5rem', border: '1px solid #d1d5db', borderRadius: '4px' }}
+            >
+              <option value="">All</option>
+              <option value="free">Free</option>
+              <option value="starter">Starter</option>
+              <option value="professional">Professional</option>
+              <option value="enterprise">Enterprise</option>
+            </select>
+          </div>
+          <div>
+            <label style={{ display: 'block', marginBottom: '0.25rem', fontSize: '0.875rem', fontWeight: '500' }}>Status</label>
+            <select
+              value={filters.status}
+              onChange={(e) => handleFilterChange('status', e.target.value)}
+              style={{ width: '100%', padding: '0.5rem', border: '1px solid #d1d5db', borderRadius: '4px' }}
+            >
+              <option value="">All</option>
+              <option value="completed">Completed</option>
+              <option value="pending">Pending</option>
+              <option value="failed">Failed</option>
+            </select>
+          </div>
+          <div>
+            <label style={{ display: 'block', marginBottom: '0.25rem', fontSize: '0.875rem', fontWeight: '500' }}>Amount Min ($)</label>
+            <input
+              type="number"
+              value={filters.amountMin}
+              onChange={(e) => handleFilterChange('amountMin', e.target.value)}
+              placeholder="Min"
+              style={{ width: '100%', padding: '0.5rem', border: '1px solid #d1d5db', borderRadius: '4px' }}
+            />
+          </div>
+          <div>
+            <label style={{ display: 'block', marginBottom: '0.25rem', fontSize: '0.875rem', fontWeight: '500' }}>Amount Max ($)</label>
+            <input
+              type="number"
+              value={filters.amountMax}
+              onChange={(e) => handleFilterChange('amountMax', e.target.value)}
+              placeholder="Max"
+              style={{ width: '100%', padding: '0.5rem', border: '1px solid #d1d5db', borderRadius: '4px' }}
+            />
+          </div>
+        </div>
+        <div style={{ display: 'flex', gap: '0.5rem' }}>
+          <button
+            onClick={applyFilters}
+            style={{ padding: '0.5rem 1rem', backgroundColor: '#3b82f6', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
+          >
+            Apply Filters
+          </button>
+          <button
+            onClick={clearFilters}
+            style={{ padding: '0.5rem 1rem', backgroundColor: '#6b7280', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
+          >
+            Clear Filters
+          </button>
+        </div>
+      </div>
 
       <div className="kpi-grid">
         <div className="kpi-card">

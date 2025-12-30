@@ -9,16 +9,87 @@ router.get('/', (req, res) => {
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 50;
     const offset = (page - 1) * limit;
+    const campaignDateFrom = req.query.campaignDateFrom;
+    const campaignDateTo = req.query.campaignDateTo;
+    const acquisitionChannel = req.query.acquisitionChannel;
+    const funnelStage = req.query.funnelStage;
+    const impressionsMin = req.query.impressionsMin;
+    const impressionsMax = req.query.impressionsMax;
+    const clicksMin = req.query.clicksMin;
+    const clicksMax = req.query.clicksMax;
+    const conversionsMin = req.query.conversionsMin;
+    const conversionsMax = req.query.conversionsMax;
+    const costMin = req.query.costMin;
+    const costMax = req.query.costMax;
 
-    const marketing = db.prepare(`
+    let query = `
       SELECT m.*, u.name as user_name, u.email as user_email
       FROM marketing m
       LEFT JOIN users u ON m.user_id = u.id
-      ORDER BY m.campaign_date DESC
-      LIMIT ? OFFSET ?
-    `).all(limit, offset);
+    `;
+    let countQuery = 'SELECT COUNT(*) as total FROM marketing m';
+    const conditions = [];
+    const params = [];
 
-    const { total } = db.prepare('SELECT COUNT(*) as total FROM marketing').get();
+    if (campaignDateFrom) {
+      conditions.push('m.campaign_date >= ?');
+      params.push(campaignDateFrom);
+    }
+    if (campaignDateTo) {
+      conditions.push('m.campaign_date <= ?');
+      params.push(campaignDateTo);
+    }
+    if (acquisitionChannel) {
+      conditions.push('m.acquisition_channel = ?');
+      params.push(acquisitionChannel);
+    }
+    if (funnelStage) {
+      conditions.push('m.funnel_stage = ?');
+      params.push(funnelStage);
+    }
+    if (impressionsMin) {
+      conditions.push('m.impressions >= ?');
+      params.push(parseInt(impressionsMin));
+    }
+    if (impressionsMax) {
+      conditions.push('m.impressions <= ?');
+      params.push(parseInt(impressionsMax));
+    }
+    if (clicksMin) {
+      conditions.push('m.clicks >= ?');
+      params.push(parseInt(clicksMin));
+    }
+    if (clicksMax) {
+      conditions.push('m.clicks <= ?');
+      params.push(parseInt(clicksMax));
+    }
+    if (conversionsMin) {
+      conditions.push('m.conversions >= ?');
+      params.push(parseInt(conversionsMin));
+    }
+    if (conversionsMax) {
+      conditions.push('m.conversions <= ?');
+      params.push(parseInt(conversionsMax));
+    }
+    if (costMin) {
+      conditions.push('m.cost >= ?');
+      params.push(parseFloat(costMin));
+    }
+    if (costMax) {
+      conditions.push('m.cost <= ?');
+      params.push(parseFloat(costMax));
+    }
+
+    if (conditions.length > 0) {
+      const whereClause = ' WHERE ' + conditions.join(' AND ');
+      query += whereClause;
+      countQuery += whereClause;
+    }
+
+    query += ' ORDER BY m.campaign_date DESC LIMIT ? OFFSET ?';
+
+    const marketing = db.prepare(query).all(...params, limit, offset);
+    const { total } = db.prepare(countQuery).get(...params);
 
     res.json({
       data: marketing,

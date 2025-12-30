@@ -1,601 +1,601 @@
-id,email,name,signup_date,subscription_tier,churn_status
-1,"edward.adams.1@example.com","Edward Adams","2024-02-11 11:42:53",professional,active
-2,"charles.garcia.2@example.com","Charles Garcia","2023-01-15 20:43:37",starter,churned
-3,"joseph.brown.3@example.com","Joseph Brown","2024-02-11 07:34:57",professional,churned
-4,"laura.carter.4@example.com","Laura Carter","2023-09-03 22:42:16",enterprise,active
-5,"michelle.clark.5@example.com","Michelle Clark","2025-05-13 11:09:10",enterprise,active
-6,"elizabeth.smith.6@example.com","Elizabeth Smith","2024-06-15 19:33:20",free,active
-7,"steven.mitchell.7@example.com","Steven Mitchell","2023-05-28 14:04:16",professional,at_risk
-8,"sandra.clark.8@example.com","Sandra Clark","2023-11-21 09:34:05",professional,active
-9,"michael.robinson.9@example.com","Michael Robinson","2025-01-07 16:28:29",professional,active
-10,"richard.young.10@example.com","Richard Young","2025-11-19 01:48:31",professional,active
-11,"jessica.lee.11@example.com","Jessica Lee","2024-07-25 01:14:07",starter,churned
-12,"betty.roberts.12@example.com","Betty Roberts","2024-01-19 19:08:49",starter,active
-13,"helen.adams.13@example.com","Helen Adams","2025-03-14 05:40:57",enterprise,churned
-14,"sandra.flores.14@example.com","Sandra Flores","2024-08-06 11:17:01",free,churned
-15,"sharon.lewis.15@example.com","Sharon Lewis","2025-11-14 12:03:17",free,active
-16,"sandra.lopez.16@example.com","Sandra Lopez","2025-10-01 04:44:42",professional,active
-17,"ruth.green.17@example.com","Ruth Green","2025-05-05 20:00:51",starter,active
-18,"sandra.rodriguez.18@example.com","Sandra Rodriguez","2023-03-28 13:38:35",starter,active
-19,"andrew.wilson.19@example.com","Andrew Wilson","2025-08-21 07:00:29",enterprise,at_risk
-20,"nancy.rivera.20@example.com","Nancy Rivera","2023-03-17 02:09:08",professional,active
-21,"michelle.robinson.21@example.com","Michelle Robinson","2025-11-10 07:42:08",professional,active
-22,"anthony.campbell.22@example.com","Anthony Campbell","2025-02-26 10:39:36",free,active
-23,"patricia.martinez.23@example.com","Patricia Martinez","2024-07-10 23:04:20",professional,churned
-24,"sarah.torres.24@example.com","Sarah Torres","2025-10-23 05:48:46",professional,at_risk
-25,"ruth.jones.25@example.com","Ruth Jones","2023-10-04 17:52:52",enterprise,active
-26,"shirley.white.26@example.com","Shirley White","2023-10-03 19:51:39",enterprise,active
-27,"donald.white.27@example.com","Donald White","2025-05-24 03:23:40",professional,active
-28,"sarah.hernandez.28@example.com","Sarah Hernandez","2024-12-14 06:10:27",professional,at_risk
-29,"daniel.king.29@example.com","Daniel King","2023-11-16 11:42:39",professional,at_risk
-30,"betty.adams.30@example.com","Betty Adams","2025-05-07 16:09:07",starter,active
-31,"edward.lopez.31@example.com","Edward Lopez","2023-08-11 09:25:56",professional,active
-32,"maria.thomas.32@example.com","Maria Thomas","2025-02-28 15:31:15",free,at_risk
-33,"susan.torres.33@example.com","Susan Torres","2023-07-22 22:29:36",professional,at_risk
-34,"ruth.wilson.34@example.com","Ruth Wilson","2023-01-01 04:22:26",starter,active
-35,"robert.adams.35@example.com","Robert Adams","2025-03-05 17:28:31",starter,active
-36,"david.nelson.36@example.com","David Nelson","2023-07-20 03:21:45",starter,active
-37,"ruth.allen.37@example.com","Ruth Allen","2023-04-20 22:48:12",enterprise,active
-38,"betty.davis.38@example.com","Betty Davis","2025-08-16 13:18:16",free,at_risk
-39,"helen.wilson.39@example.com","Helen Wilson","2024-07-23 09:50:03",professional,active
-40,"andrew.clark.40@example.com","Andrew Clark","2023-06-25 01:06:58",professional,churned
-41,"joshua.white.41@example.com","Joshua White","2023-12-20 13:53:52",starter,active
-42,"anthony.lewis.42@example.com","Anthony Lewis","2025-07-27 20:42:23",professional,active
-43,"paul.nelson.43@example.com","Paul Nelson","2023-03-30 11:46:05",starter,churned
-44,"elizabeth.lee.44@example.com","Elizabeth Lee","2023-01-05 08:03:17",starter,active
-45,"sharon.baker.45@example.com","Sharon Baker","2025-01-24 13:10:50",free,at_risk
-46,"linda.robinson.46@example.com","Linda Robinson","2025-10-28 07:49:44",free,active
-47,"thomas.thomas.47@example.com","Thomas Thomas","2024-04-03 01:40:01",professional,churned
-48,"james.harris.48@example.com","James Harris","2025-09-09 01:49:23",free,active
-49,"daniel.white.49@example.com","Daniel White","2025-06-28 15:53:53",starter,churned
-50,"kenneth.hall.50@example.com","Kenneth Hall","2023-06-09 06:46:38",enterprise,active
-51,"steven.smith.51@example.com","Steven Smith","2025-03-22 20:51:31",starter,churned
-52,"donald.scott.52@example.com","Donald Scott","2023-09-27 11:32:01",professional,churned
-53,"matthew.thompson.53@example.com","Matthew Thompson","2024-02-02 22:08:25",professional,churned
-54,"john.garcia.54@example.com","John Garcia","2024-03-11 20:32:18",starter,active
-55,"sharon.lee.55@example.com","Sharon Lee","2024-05-23 19:30:04",professional,active
-56,"steven.wilson.56@example.com","Steven Wilson","2023-10-21 18:17:36",enterprise,churned
-57,"patricia.white.57@example.com","Patricia White","2025-01-07 01:51:12",enterprise,at_risk
-58,"ronald.hill.58@example.com","Ronald Hill","2023-04-02 23:44:56",free,at_risk
-59,"george.gonzalez.59@example.com","George Gonzalez","2025-11-22 17:02:08",enterprise,active
-60,"charles.carter.60@example.com","Charles Carter","2024-01-08 03:51:31",professional,active
-61,"kevin.robinson.61@example.com","Kevin Robinson","2023-08-09 07:15:00",free,active
-62,"george.hill.62@example.com","George Hill","2024-07-20 07:25:07",free,churned
-63,"joshua.jones.63@example.com","Joshua Jones","2025-01-21 23:03:13",professional,churned
-64,"patricia.jones.64@example.com","Patricia Jones","2023-07-18 14:21:50",enterprise,active
-65,"sarah.walker.65@example.com","Sarah Walker","2025-05-01 07:44:16",starter,active
-66,"william.wilson.66@example.com","William Wilson","2024-12-03 03:46:47",free,active
-67,"jessica.martin.67@example.com","Jessica Martin","2024-02-24 09:26:07",enterprise,active
-68,"laura.walker.68@example.com","Laura Walker","2025-07-11 18:58:29",enterprise,active
-69,"donna.davis.69@example.com","Donna Davis","2025-04-10 05:46:01",enterprise,active
-70,"mark.clark.70@example.com","Mark Clark","2025-07-18 05:13:11",enterprise,churned
-71,"laura.adams.71@example.com","Laura Adams","2023-02-05 03:12:21",free,active
-72,"mark.moore.72@example.com","Mark Moore","2025-06-13 14:26:58",enterprise,active
-73,"laura.flores.73@example.com","Laura Flores","2024-06-26 20:41:17",starter,active
-74,"shirley.martinez.74@example.com","Shirley Martinez","2024-08-05 02:58:28",enterprise,churned
-75,"sharon.taylor.75@example.com","Sharon Taylor","2023-06-27 16:15:49",enterprise,at_risk
-76,"michael.thompson.76@example.com","Michael Thompson","2025-05-20 23:18:55",free,active
-77,"carol.brown.77@example.com","Carol Brown","2023-08-26 21:52:52",enterprise,active
-78,"carol.thomas.78@example.com","Carol Thomas","2025-05-24 22:12:35",free,active
-79,"karen.harris.79@example.com","Karen Harris","2023-04-09 23:22:20",professional,active
-80,"maria.wilson.80@example.com","Maria Wilson","2025-10-22 20:01:35",enterprise,active
-81,"jennifer.thompson.81@example.com","Jennifer Thompson","2023-12-21 13:45:15",free,active
-82,"laura.robinson.82@example.com","Laura Robinson","2023-05-04 09:02:07",professional,active
-83,"george.smith.83@example.com","George Smith","2024-04-16 09:30:03",enterprise,churned
-84,"donna.flores.84@example.com","Donna Flores","2025-04-15 22:25:32",professional,active
-85,"anthony.mitchell.85@example.com","Anthony Mitchell","2024-09-03 06:18:13",starter,active
-86,"jessica.scott.86@example.com","Jessica Scott","2025-05-01 01:23:02",enterprise,active
-87,"betty.brown.87@example.com","Betty Brown","2025-08-29 22:32:01",starter,active
-88,"andrew.king.88@example.com","Andrew King","2023-09-19 07:41:31",starter,active
-89,"anthony.nelson.89@example.com","Anthony Nelson","2025-06-26 09:35:25",starter,active
-90,"susan.thompson.90@example.com","Susan Thompson","2025-09-30 07:46:31",enterprise,churned
-91,"mark.allen.91@example.com","Mark Allen","2023-12-12 18:51:37",starter,active
-92,"donald.garcia.92@example.com","Donald Garcia","2025-08-28 09:56:43",starter,at_risk
-93,"barbara.thomas.93@example.com","Barbara Thomas","2025-02-05 23:22:16",enterprise,churned
-94,"william.jackson.94@example.com","William Jackson","2023-05-12 14:12:19",enterprise,active
-95,"sarah.wilson.95@example.com","Sarah Wilson","2025-02-27 06:59:19",starter,active
-96,"paul.lopez.96@example.com","Paul Lopez","2024-09-02 17:45:10",professional,active
-97,"jane.thomas.97@example.com","Jane Thomas","2025-10-14 13:38:59",starter,active
-98,"michael.baker.98@example.com","Michael Baker","2023-04-06 06:16:16",free,active
-99,"linda.adams.99@example.com","Linda Adams","2023-07-16 00:09:38",starter,active
-100,"patricia.wilson.100@example.com","Patricia Wilson","2024-09-17 17:30:23",professional,active
-101,"kenneth.hernandez.101@example.com","Kenneth Hernandez","2025-02-20 05:27:30",professional,active
-102,"jennifer.williams.102@example.com","Jennifer Williams","2025-05-21 03:32:43",starter,active
-103,"charles.thompson.103@example.com","Charles Thompson","2025-03-04 02:58:48",professional,active
-104,"daniel.rivera.104@example.com","Daniel Rivera","2025-08-01 11:53:20",professional,churned
-105,"betty.thompson.105@example.com","Betty Thompson","2023-06-10 04:12:43",starter,churned
-106,"linda.harris.106@example.com","Linda Harris","2024-09-14 02:10:01",professional,churned
-107,"jennifer.johnson.107@example.com","Jennifer Johnson","2024-08-25 05:11:43",enterprise,active
-108,"john.hill.108@example.com","John Hill","2023-12-08 09:44:58",free,active
-109,"richard.miller.109@example.com","Richard Miller","2023-01-22 08:04:27",starter,at_risk
-110,"jessica.smith.110@example.com","Jessica Smith","2025-06-14 14:09:36",free,active
-111,"elizabeth.clark.111@example.com","Elizabeth Clark","2024-07-18 20:19:09",starter,active
-112,"william.moore.112@example.com","William Moore","2025-01-02 20:10:24",starter,at_risk
-113,"daniel.hill.113@example.com","Daniel Hill","2025-08-15 08:58:24",enterprise,active
-114,"maria.walker.114@example.com","Maria Walker","2025-05-28 14:54:50",professional,at_risk
-115,"donald.garcia.115@example.com","Donald Garcia","2025-02-28 18:51:29",enterprise,churned
-116,"charles.lopez.116@example.com","Charles Lopez","2025-08-18 11:50:17",free,at_risk
-117,"donna.garcia.117@example.com","Donna Garcia","2024-04-08 15:32:04",professional,at_risk
-118,"paul.thomas.118@example.com","Paul Thomas","2023-06-03 00:59:12",professional,active
-119,"william.robinson.119@example.com","William Robinson","2025-01-29 04:58:54",free,active
-120,"susan.white.120@example.com","Susan White","2024-09-25 23:51:34",professional,at_risk
-121,"amy.scott.121@example.com","Amy Scott","2023-10-22 19:48:04",professional,active
-122,"sarah.wright.122@example.com","Sarah Wright","2025-02-06 05:22:06",professional,churned
-123,"ruth.flores.123@example.com","Ruth Flores","2025-10-05 08:36:58",professional,at_risk
-124,"sharon.brown.124@example.com","Sharon Brown","2024-05-23 11:27:58",starter,churned
-125,"mark.lewis.125@example.com","Mark Lewis","2025-07-20 01:35:24",professional,active
-126,"sharon.jackson.126@example.com","Sharon Jackson","2023-05-15 05:43:47",starter,active
-127,"maria.harris.127@example.com","Maria Harris","2025-06-14 11:47:09",enterprise,active
-128,"linda.hill.128@example.com","Linda Hill","2025-11-02 11:04:51",free,at_risk
-129,"jessica.taylor.129@example.com","Jessica Taylor","2024-03-17 04:05:06",enterprise,churned
-130,"jennifer.white.130@example.com","Jennifer White","2023-08-17 16:18:20",enterprise,active
-131,"donald.allen.131@example.com","Donald Allen","2024-03-05 00:17:03",enterprise,active
-132,"karen.brown.132@example.com","Karen Brown","2024-10-14 07:58:05",enterprise,active
-133,"linda.thompson.133@example.com","Linda Thompson","2024-05-24 01:25:55",professional,active
-134,"maria.lewis.134@example.com","Maria Lewis","2024-07-18 07:24:31",free,active
-135,"amy.miller.135@example.com","Amy Miller","2025-01-08 03:29:36",starter,active
-136,"william.davis.136@example.com","William Davis","2024-01-04 22:49:34",starter,churned
-137,"richard.scott.137@example.com","Richard Scott","2023-01-24 09:06:17",enterprise,churned
-138,"helen.nguyen.138@example.com","Helen Nguyen","2025-01-30 20:09:09",starter,active
-139,"charles.thompson.139@example.com","Charles Thompson","2024-04-07 12:59:27",enterprise,active
-140,"matthew.garcia.140@example.com","Matthew Garcia","2024-10-24 15:20:59",free,active
-141,"lisa.hill.141@example.com","Lisa Hill","2023-01-24 14:20:59",enterprise,active
-142,"jennifer.hall.142@example.com","Jennifer Hall","2025-06-08 23:53:01",starter,churned
-143,"laura.thompson.143@example.com","Laura Thompson","2024-10-28 12:23:04",professional,at_risk
-144,"joshua.thompson.144@example.com","Joshua Thompson","2023-01-28 01:50:56",professional,churned
-145,"laura.smith.145@example.com","Laura Smith","2023-05-09 12:35:09",enterprise,active
-146,"edward.davis.146@example.com","Edward Davis","2023-08-18 16:45:33",enterprise,active
-147,"susan.anderson.147@example.com","Susan Anderson","2024-06-29 14:55:47",starter,active
-148,"george.jones.148@example.com","George Jones","2023-09-10 11:12:10",professional,active
-149,"matthew.allen.149@example.com","Matthew Allen","2023-11-08 14:54:48",starter,active
-150,"michael.hall.150@example.com","Michael Hall","2023-10-02 21:15:40",free,active
-151,"andrew.wilson.151@example.com","Andrew Wilson","2025-10-21 00:50:36",free,churned
-152,"betty.lopez.152@example.com","Betty Lopez","2024-10-07 13:04:57",professional,active
-153,"emily.garcia.153@example.com","Emily Garcia","2023-07-06 07:51:35",free,active
-154,"jessica.mitchell.154@example.com","Jessica Mitchell","2025-06-15 13:13:29",professional,active
-155,"jennifer.anderson.155@example.com","Jennifer Anderson","2025-10-19 18:12:58",free,active
-156,"elizabeth.lopez.156@example.com","Elizabeth Lopez","2025-11-27 17:50:26",enterprise,churned
-157,"donna.harris.157@example.com","Donna Harris","2024-11-13 19:18:07",professional,active
-158,"patricia.thompson.158@example.com","Patricia Thompson","2023-02-13 16:16:06",professional,active
-159,"karen.miller.159@example.com","Karen Miller","2024-04-25 17:40:40",starter,active
-160,"matthew.rivera.160@example.com","Matthew Rivera","2024-10-01 04:05:33",enterprise,active
-161,"joshua.johnson.161@example.com","Joshua Johnson","2025-02-14 23:22:12",starter,at_risk
-162,"susan.rivera.162@example.com","Susan Rivera","2024-01-02 23:47:19",free,churned
-163,"sarah.mitchell.163@example.com","Sarah Mitchell","2024-02-02 15:40:21",professional,active
-164,"brian.thompson.164@example.com","Brian Thompson","2023-08-24 09:23:50",free,active
-165,"joseph.anderson.165@example.com","Joseph Anderson","2024-04-20 11:25:40",enterprise,active
-166,"lisa.wilson.166@example.com","Lisa Wilson","2023-07-01 07:01:32",starter,active
-167,"kevin.hill.167@example.com","Kevin Hill","2023-05-27 06:06:12",free,active
-168,"maria.rivera.168@example.com","Maria Rivera","2023-07-30 03:20:57",professional,active
-169,"matthew.thomas.169@example.com","Matthew Thomas","2025-10-27 17:49:05",free,at_risk
-170,"richard.miller.170@example.com","Richard Miller","2024-02-18 22:03:25",enterprise,active
-171,"elizabeth.allen.171@example.com","Elizabeth Allen","2023-12-04 12:02:33",professional,active
-172,"karen.king.172@example.com","Karen King","2025-06-16 15:01:54",free,churned
-173,"edward.clark.173@example.com","Edward Clark","2024-12-08 06:24:53",free,active
-174,"elizabeth.davis.174@example.com","Elizabeth Davis","2024-03-26 18:25:07",enterprise,active
-175,"susan.hernandez.175@example.com","Susan Hernandez","2024-10-23 06:15:54",professional,active
-176,"kevin.gonzalez.176@example.com","Kevin Gonzalez","2025-03-21 12:32:10",professional,at_risk
-177,"anthony.gonzalez.177@example.com","Anthony Gonzalez","2023-01-04 10:34:48",free,active
-178,"edward.williams.178@example.com","Edward Williams","2024-04-16 10:48:18",free,active
-179,"joseph.hill.179@example.com","Joseph Hill","2025-05-31 21:03:25",free,active
-180,"joseph.thompson.180@example.com","Joseph Thompson","2024-10-08 10:39:53",professional,active
-181,"brian.rivera.181@example.com","Brian Rivera","2025-07-12 19:19:25",starter,active
-182,"william.campbell.182@example.com","William Campbell","2023-05-25 10:22:15",starter,active
-183,"nancy.flores.183@example.com","Nancy Flores","2025-04-14 19:27:22",professional,active
-184,"sharon.adams.184@example.com","Sharon Adams","2025-03-06 23:00:29",free,active
-185,"thomas.carter.185@example.com","Thomas Carter","2023-09-08 10:25:23",starter,active
-186,"william.campbell.186@example.com","William Campbell","2023-05-12 02:30:45",starter,active
-187,"donald.walker.187@example.com","Donald Walker","2023-05-06 11:40:30",professional,active
-188,"mark.campbell.188@example.com","Mark Campbell","2023-05-15 13:50:13",starter,churned
-189,"shirley.young.189@example.com","Shirley Young","2024-12-30 02:39:53",starter,active
-190,"shirley.brown.190@example.com","Shirley Brown","2024-03-27 10:22:48",professional,active
-191,"daniel.smith.191@example.com","Daniel Smith","2025-01-20 19:08:10",enterprise,active
-192,"laura.miller.192@example.com","Laura Miller","2024-12-29 22:28:58",starter,churned
-193,"amy.martin.193@example.com","Amy Martin","2023-09-14 09:52:09",free,active
-194,"james.lee.194@example.com","James Lee","2024-06-13 13:30:29",enterprise,active
-195,"patricia.miller.195@example.com","Patricia Miller","2024-10-04 06:45:32",professional,active
-196,"emily.roberts.196@example.com","Emily Roberts","2025-07-02 17:36:59",professional,active
-197,"edward.clark.197@example.com","Edward Clark","2024-10-14 11:22:17",free,active
-198,"donald.campbell.198@example.com","Donald Campbell","2025-10-10 11:23:24",enterprise,churned
-199,"laura.lewis.199@example.com","Laura Lewis","2024-08-20 02:11:20",free,active
-200,"joseph.davis.200@example.com","Joseph Davis","2023-12-29 23:03:14",professional,active
-201,"jessica.allen.201@example.com","Jessica Allen","2025-06-01 22:16:11",professional,at_risk
-202,"john.green.202@example.com","John Green","2023-06-12 18:10:34",free,active
-203,"patricia.rodriguez.203@example.com","Patricia Rodriguez","2024-03-12 03:01:39",starter,active
-204,"donna.nelson.204@example.com","Donna Nelson","2025-09-03 19:19:19",free,active
-205,"mark.adams.205@example.com","Mark Adams","2025-08-16 13:20:32",professional,active
-206,"michelle.thompson.206@example.com","Michelle Thompson","2023-02-26 13:01:38",free,active
-207,"linda.lewis.207@example.com","Linda Lewis","2025-08-24 16:33:51",starter,active
-208,"nancy.wilson.208@example.com","Nancy Wilson","2025-09-09 15:56:55",enterprise,churned
-209,"amy.nguyen.209@example.com","Amy Nguyen","2025-11-09 02:50:06",starter,active
-210,"joshua.williams.210@example.com","Joshua Williams","2025-04-18 05:14:47",enterprise,churned
-211,"michelle.johnson.211@example.com","Michelle Johnson","2024-01-31 19:55:24",free,active
-212,"laura.wilson.212@example.com","Laura Wilson","2025-11-06 11:11:07",free,active
-213,"emily.taylor.213@example.com","Emily Taylor","2025-11-22 16:19:04",starter,active
-214,"joshua.gonzalez.214@example.com","Joshua Gonzalez","2024-12-28 11:59:38",enterprise,active
-215,"william.campbell.215@example.com","William Campbell","2024-09-13 18:54:21",enterprise,active
-216,"shirley.clark.216@example.com","Shirley Clark","2024-08-15 01:19:05",professional,active
-217,"carol.scott.217@example.com","Carol Scott","2024-08-12 04:34:04",enterprise,active
-218,"donna.adams.218@example.com","Donna Adams","2023-05-25 08:56:34",starter,at_risk
-219,"maria.martinez.219@example.com","Maria Martinez","2023-04-02 08:10:19",starter,active
-220,"donna.smith.220@example.com","Donna Smith","2024-02-08 06:10:35",professional,active
-221,"charles.johnson.221@example.com","Charles Johnson","2025-06-05 22:25:41",enterprise,churned
-222,"george.harris.222@example.com","George Harris","2025-03-06 00:16:43",professional,active
-223,"james.scott.223@example.com","James Scott","2025-05-17 19:48:36",starter,active
-224,"shirley.robinson.224@example.com","Shirley Robinson","2024-07-05 14:00:06",starter,active
-225,"david.hernandez.225@example.com","David Hernandez","2025-09-30 14:39:40",starter,active
-226,"ronald.gonzalez.226@example.com","Ronald Gonzalez","2024-06-12 06:34:27",starter,active
-227,"lisa.lopez.227@example.com","Lisa Lopez","2023-01-09 08:30:26",professional,active
-228,"matthew.martinez.228@example.com","Matthew Martinez","2024-04-11 02:03:45",free,active
-229,"linda.hill.229@example.com","Linda Hill","2023-09-01 05:28:02",starter,active
-230,"jane.martin.230@example.com","Jane Martin","2025-02-28 09:01:52",enterprise,active
-231,"carol.adams.231@example.com","Carol Adams","2025-07-22 01:07:43",enterprise,active
-232,"sandra.garcia.232@example.com","Sandra Garcia","2023-11-23 21:13:03",starter,active
-233,"john.lewis.233@example.com","John Lewis","2024-03-18 03:41:52",starter,active
-234,"matthew.lewis.234@example.com","Matthew Lewis","2025-08-06 03:14:03",free,active
-235,"george.jones.235@example.com","George Jones","2024-03-02 13:51:54",professional,active
-236,"emily.anderson.236@example.com","Emily Anderson","2024-06-02 16:27:49",starter,active
-237,"joshua.walker.237@example.com","Joshua Walker","2023-04-18 09:25:06",professional,active
-238,"sandra.carter.238@example.com","Sandra Carter","2024-08-30 11:05:06",starter,churned
-239,"daniel.williams.239@example.com","Daniel Williams","2025-05-13 17:05:07",free,active
-240,"james.hill.240@example.com","James Hill","2023-02-05 15:09:08",enterprise,active
-241,"daniel.hall.241@example.com","Daniel Hall","2024-02-24 16:18:50",free,at_risk
-242,"jane.brown.242@example.com","Jane Brown","2023-12-24 06:17:13",professional,active
-243,"michelle.brown.243@example.com","Michelle Brown","2025-10-07 14:49:30",enterprise,active
-244,"david.rivera.244@example.com","David Rivera","2024-12-11 00:24:17",starter,churned
-245,"brian.lewis.245@example.com","Brian Lewis","2025-07-23 08:48:52",starter,active
-246,"shirley.carter.246@example.com","Shirley Carter","2025-07-30 09:33:37",professional,active
-247,"anthony.robinson.247@example.com","Anthony Robinson","2025-06-18 16:54:31",professional,active
-248,"richard.lewis.248@example.com","Richard Lewis","2025-09-25 13:17:52",free,active
-249,"richard.harris.249@example.com","Richard Harris","2025-11-09 12:26:32",professional,at_risk
-250,"david.clark.250@example.com","David Clark","2024-10-13 02:33:20",professional,active
-251,"amy.lee.251@example.com","Amy Lee","2025-03-16 15:10:42",free,active
-252,"james.lee.252@example.com","James Lee","2025-04-03 20:45:58",starter,active
-253,"jane.hall.253@example.com","Jane Hall","2025-11-01 16:54:37",professional,active
-254,"shirley.adams.254@example.com","Shirley Adams","2023-06-28 04:04:40",free,at_risk
-255,"jessica.martin.255@example.com","Jessica Martin","2024-09-11 23:58:39",free,churned
-256,"kenneth.baker.256@example.com","Kenneth Baker","2025-11-05 05:45:44",enterprise,active
-257,"jennifer.mitchell.257@example.com","Jennifer Mitchell","2024-09-22 15:26:23",starter,active
-258,"ronald.gonzalez.258@example.com","Ronald Gonzalez","2023-06-27 20:35:46",enterprise,active
-259,"sharon.moore.259@example.com","Sharon Moore","2023-09-13 22:18:44",free,active
-260,"richard.martin.260@example.com","Richard Martin","2025-11-26 17:17:16",free,active
-261,"robert.lewis.261@example.com","Robert Lewis","2024-02-10 10:55:22",free,active
-262,"james.carter.262@example.com","James Carter","2023-12-20 14:18:21",starter,active
-263,"joshua.campbell.263@example.com","Joshua Campbell","2024-01-11 16:18:03",free,churned
-264,"thomas.nguyen.264@example.com","Thomas Nguyen","2023-03-31 18:28:27",professional,active
-265,"charles.adams.265@example.com","Charles Adams","2024-06-22 23:31:52",professional,active
-266,"daniel.jones.266@example.com","Daniel Jones","2025-07-01 09:11:29",professional,at_risk
-267,"joseph.martin.267@example.com","Joseph Martin","2024-04-08 10:04:22",professional,active
-268,"steven.allen.268@example.com","Steven Allen","2023-12-07 17:10:34",free,active
-269,"barbara.lopez.269@example.com","Barbara Lopez","2025-03-28 17:53:33",starter,at_risk
-270,"sandra.baker.270@example.com","Sandra Baker","2025-11-26 09:28:41",enterprise,at_risk
-271,"robert.king.271@example.com","Robert King","2023-03-16 13:33:23",professional,active
-272,"paul.lewis.272@example.com","Paul Lewis","2023-11-08 05:01:31",starter,active
-273,"maria.rodriguez.273@example.com","Maria Rodriguez","2024-10-23 10:52:29",enterprise,active
-274,"daniel.torres.274@example.com","Daniel Torres","2025-10-07 02:01:19",enterprise,active
-275,"mark.mitchell.275@example.com","Mark Mitchell","2024-08-30 10:23:59",starter,active
-276,"sharon.moore.276@example.com","Sharon Moore","2023-10-07 12:54:24",starter,active
-277,"lisa.miller.277@example.com","Lisa Miller","2023-09-13 10:48:30",enterprise,active
-278,"donald.jackson.278@example.com","Donald Jackson","2024-10-21 06:22:17",starter,active
-279,"anthony.jones.279@example.com","Anthony Jones","2024-05-16 03:13:56",free,churned
-280,"laura.lopez.280@example.com","Laura Lopez","2023-09-07 08:19:14",enterprise,at_risk
-281,"joseph.nelson.281@example.com","Joseph Nelson","2024-12-22 13:18:43",enterprise,churned
-282,"patricia.martinez.282@example.com","Patricia Martinez","2025-02-18 00:28:00",enterprise,active
-283,"ruth.moore.283@example.com","Ruth Moore","2024-07-12 06:25:12",enterprise,active
-284,"daniel.robinson.284@example.com","Daniel Robinson","2024-02-27 11:56:48",starter,active
-285,"nancy.young.285@example.com","Nancy Young","2023-10-30 08:14:52",free,active
-286,"michelle.wilson.286@example.com","Michelle Wilson","2023-04-19 15:01:37",enterprise,active
-287,"ronald.jones.287@example.com","Ronald Jones","2024-04-27 04:04:28",professional,at_risk
-288,"barbara.campbell.288@example.com","Barbara Campbell","2023-09-24 14:28:24",starter,active
-289,"david.hernandez.289@example.com","David Hernandez","2024-04-07 19:34:09",enterprise,at_risk
-290,"paul.lewis.290@example.com","Paul Lewis","2025-01-11 16:04:09",free,active
-291,"michelle.hall.291@example.com","Michelle Hall","2023-07-06 08:33:36",free,at_risk
-292,"joseph.thomas.292@example.com","Joseph Thomas","2025-10-03 18:25:07",professional,active
-293,"michael.brown.293@example.com","Michael Brown","2024-05-26 07:28:59",starter,at_risk
-294,"brian.hall.294@example.com","Brian Hall","2023-08-29 07:46:05",free,at_risk
-295,"david.lopez.295@example.com","David Lopez","2024-01-07 19:28:50",enterprise,active
-296,"paul.young.296@example.com","Paul Young","2025-11-26 02:37:23",enterprise,active
-297,"susan.moore.297@example.com","Susan Moore","2025-03-07 09:28:05",professional,active
-298,"shirley.miller.298@example.com","Shirley Miller","2023-06-12 20:21:51",free,at_risk
-299,"william.clark.299@example.com","William Clark","2025-06-05 22:24:45",professional,churned
-300,"mark.lopez.300@example.com","Mark Lopez","2025-04-03 06:33:39",enterprise,active
-301,"amy.young.301@example.com","Amy Young","2024-10-11 00:54:05",enterprise,churned
-302,"sandra.brown.302@example.com","Sandra Brown","2023-04-23 13:32:31",enterprise,at_risk
-303,"amy.hill.303@example.com","Amy Hill","2023-05-17 03:54:23",professional,active
-304,"donald.nguyen.304@example.com","Donald Nguyen","2024-03-07 04:31:07",professional,active
-305,"paul.carter.305@example.com","Paul Carter","2025-06-24 19:45:55",enterprise,active
-306,"edward.baker.306@example.com","Edward Baker","2023-06-13 13:49:14",free,active
-307,"richard.williams.307@example.com","Richard Williams","2025-01-11 22:14:26",enterprise,active
-308,"mark.torres.308@example.com","Mark Torres","2023-02-14 14:14:54",professional,active
-309,"betty.flores.309@example.com","Betty Flores","2024-03-30 01:57:16",professional,at_risk
-310,"charles.lee.310@example.com","Charles Lee","2023-10-02 16:24:46",free,active
-311,"susan.hall.311@example.com","Susan Hall","2023-10-10 20:09:20",starter,at_risk
-312,"nancy.harris.312@example.com","Nancy Harris","2024-08-17 14:58:54",professional,at_risk
-313,"sandra.brown.313@example.com","Sandra Brown","2025-08-29 14:15:05",enterprise,churned
-314,"amy.thompson.314@example.com","Amy Thompson","2025-11-24 05:56:39",free,active
-315,"betty.mitchell.315@example.com","Betty Mitchell","2025-03-22 06:59:00",free,active
-316,"linda.wilson.316@example.com","Linda Wilson","2024-10-01 01:52:34",free,active
-317,"elizabeth.taylor.317@example.com","Elizabeth Taylor","2025-05-10 12:35:08",free,active
-318,"sharon.williams.318@example.com","Sharon Williams","2024-08-09 06:16:01",starter,active
-319,"thomas.martinez.319@example.com","Thomas Martinez","2025-06-02 04:07:41",professional,active
-320,"paul.hill.320@example.com","Paul Hill","2023-03-26 21:14:07",professional,churned
-321,"michelle.jackson.321@example.com","Michelle Jackson","2025-09-09 17:07:19",enterprise,active
-322,"john.wilson.322@example.com","John Wilson","2024-08-27 00:11:20",enterprise,at_risk
-323,"richard.wilson.323@example.com","Richard Wilson","2024-03-27 18:00:33",enterprise,active
-324,"laura.smith.324@example.com","Laura Smith","2025-11-05 23:12:47",enterprise,at_risk
-325,"sharon.jackson.325@example.com","Sharon Jackson","2024-09-12 13:53:53",free,churned
-326,"joseph.clark.326@example.com","Joseph Clark","2024-03-26 13:00:42",enterprise,active
-327,"robert.davis.327@example.com","Robert Davis","2024-03-22 04:11:08",professional,at_risk
-328,"carol.harris.328@example.com","Carol Harris","2025-03-13 17:45:22",enterprise,active
-329,"jane.smith.329@example.com","Jane Smith","2024-02-05 14:02:31",enterprise,at_risk
-330,"maria.scott.330@example.com","Maria Scott","2025-06-02 11:51:37",professional,active
-331,"jane.davis.331@example.com","Jane Davis","2024-12-31 15:20:25",enterprise,active
-332,"david.allen.332@example.com","David Allen","2023-06-20 06:18:59",free,churned
-333,"amy.johnson.333@example.com","Amy Johnson","2025-05-29 14:41:20",starter,at_risk
-334,"jennifer.martinez.334@example.com","Jennifer Martinez","2024-11-09 22:34:46",enterprise,active
-335,"ronald.green.335@example.com","Ronald Green","2023-09-27 10:47:40",starter,active
-336,"kevin.rodriguez.336@example.com","Kevin Rodriguez","2024-03-31 13:31:55",free,active
-337,"emily.taylor.337@example.com","Emily Taylor","2025-02-16 01:57:51",professional,at_risk
-338,"amy.brown.338@example.com","Amy Brown","2024-11-07 10:15:47",free,active
-339,"jane.anderson.339@example.com","Jane Anderson","2024-06-14 02:10:18",professional,active
-340,"karen.carter.340@example.com","Karen Carter","2025-05-15 09:46:41",enterprise,active
-341,"joshua.anderson.341@example.com","Joshua Anderson","2023-03-23 13:22:47",professional,active
-342,"joshua.martin.342@example.com","Joshua Martin","2025-03-05 14:51:41",enterprise,active
-343,"susan.jones.343@example.com","Susan Jones","2025-07-27 16:47:00",free,active
-344,"joseph.thomas.344@example.com","Joseph Thomas","2024-08-12 19:34:16",enterprise,active
-345,"jennifer.flores.345@example.com","Jennifer Flores","2024-09-07 22:12:41",starter,active
-346,"donna.scott.346@example.com","Donna Scott","2024-12-12 05:15:19",professional,churned
-347,"brian.clark.347@example.com","Brian Clark","2025-10-20 13:20:12",free,active
-348,"kevin.thomas.348@example.com","Kevin Thomas","2025-07-11 12:43:59",starter,churned
-349,"joshua.gonzalez.349@example.com","Joshua Gonzalez","2024-11-06 09:07:10",starter,active
-350,"linda.miller.350@example.com","Linda Miller","2025-02-12 04:04:58",free,at_risk
-351,"patricia.wilson.351@example.com","Patricia Wilson","2024-05-28 01:49:16",free,active
-352,"shirley.robinson.352@example.com","Shirley Robinson","2023-05-31 01:12:26",starter,active
-353,"ronald.rivera.353@example.com","Ronald Rivera","2024-11-25 10:00:05",free,active
-354,"mark.baker.354@example.com","Mark Baker","2023-02-26 12:02:10",starter,active
-355,"karen.campbell.355@example.com","Karen Campbell","2023-10-25 00:02:21",starter,active
-356,"joseph.lee.356@example.com","Joseph Lee","2023-04-11 17:38:04",professional,active
-357,"michael.green.357@example.com","Michael Green","2025-01-12 10:32:55",enterprise,active
-358,"karen.nguyen.358@example.com","Karen Nguyen","2024-01-31 15:05:59",enterprise,churned
-359,"michael.harris.359@example.com","Michael Harris","2023-09-18 22:42:05",starter,active
-360,"robert.garcia.360@example.com","Robert Garcia","2025-01-10 16:24:56",free,at_risk
-361,"daniel.carter.361@example.com","Daniel Carter","2023-04-21 02:00:23",professional,active
-362,"george.rodriguez.362@example.com","George Rodriguez","2025-05-10 15:52:02",free,churned
-363,"donna.mitchell.363@example.com","Donna Mitchell","2023-08-13 10:05:18",enterprise,active
-364,"carol.robinson.364@example.com","Carol Robinson","2025-07-05 22:53:02",professional,active
-365,"sharon.johnson.365@example.com","Sharon Johnson","2025-02-23 08:39:52",enterprise,active
-366,"brian.lee.366@example.com","Brian Lee","2024-02-05 21:18:15",free,active
-367,"steven.flores.367@example.com","Steven Flores","2025-08-04 10:34:38",starter,active
-368,"barbara.miller.368@example.com","Barbara Miller","2023-03-05 01:03:04",starter,active
-369,"helen.lopez.369@example.com","Helen Lopez","2025-11-22 01:02:20",enterprise,active
-370,"michael.baker.370@example.com","Michael Baker","2023-01-15 03:57:07",enterprise,active
-371,"carol.young.371@example.com","Carol Young","2025-07-26 02:32:28",professional,active
-372,"kenneth.martin.372@example.com","Kenneth Martin","2025-05-07 11:29:28",free,churned
-373,"joshua.lee.373@example.com","Joshua Lee","2025-07-31 14:41:36",free,at_risk
-374,"anthony.hall.374@example.com","Anthony Hall","2023-07-13 13:07:53",professional,churned
-375,"donald.brown.375@example.com","Donald Brown","2023-03-23 21:41:48",free,churned
-376,"ronald.green.376@example.com","Ronald Green","2023-02-15 17:31:56",enterprise,at_risk
-377,"sandra.rodriguez.377@example.com","Sandra Rodriguez","2024-05-27 03:13:34",free,active
-378,"andrew.nguyen.378@example.com","Andrew Nguyen","2023-06-12 12:33:30",starter,active
-379,"joseph.taylor.379@example.com","Joseph Taylor","2023-11-18 16:21:55",starter,churned
-380,"joseph.mitchell.380@example.com","Joseph Mitchell","2024-09-09 11:20:40",free,active
-381,"edward.rivera.381@example.com","Edward Rivera","2025-04-03 11:18:55",professional,churned
-382,"kevin.robinson.382@example.com","Kevin Robinson","2024-03-14 22:36:02",free,active
-383,"karen.clark.383@example.com","Karen Clark","2025-01-21 19:27:58",free,at_risk
-384,"elizabeth.wilson.384@example.com","Elizabeth Wilson","2024-01-01 13:51:11",enterprise,active
-385,"lisa.williams.385@example.com","Lisa Williams","2024-07-13 16:50:49",free,active
-386,"jennifer.hall.386@example.com","Jennifer Hall","2025-06-27 07:17:56",free,churned
-387,"anthony.campbell.387@example.com","Anthony Campbell","2024-06-18 22:43:18",free,active
-388,"susan.campbell.388@example.com","Susan Campbell","2025-02-21 02:56:22",professional,churned
-389,"edward.carter.389@example.com","Edward Carter","2023-05-21 22:34:35",free,active
-390,"robert.green.390@example.com","Robert Green","2023-11-02 09:13:49",free,active
-391,"george.hill.391@example.com","George Hill","2025-10-24 14:12:36",free,active
-392,"kevin.allen.392@example.com","Kevin Allen","2024-11-21 13:53:17",enterprise,churned
-393,"barbara.adams.393@example.com","Barbara Adams","2024-07-05 15:51:17",free,active
-394,"robert.roberts.394@example.com","Robert Roberts","2024-05-30 02:01:19",enterprise,active
-395,"karen.anderson.395@example.com","Karen Anderson","2025-02-26 19:49:45",professional,at_risk
-396,"richard.smith.396@example.com","Richard Smith","2025-04-29 18:22:13",professional,active
-397,"david.wilson.397@example.com","David Wilson","2023-04-08 15:20:01",starter,active
-398,"william.miller.398@example.com","William Miller","2025-10-24 10:24:49",free,active
-399,"linda.hernandez.399@example.com","Linda Hernandez","2025-05-20 06:18:37",starter,at_risk
-400,"jennifer.jones.400@example.com","Jennifer Jones","2024-04-14 19:22:24",starter,active
-401,"helen.adams.401@example.com","Helen Adams","2025-08-24 17:12:30",professional,churned
-402,"john.smith.402@example.com","John Smith","2023-09-30 18:17:35",starter,active
-403,"jane.roberts.403@example.com","Jane Roberts","2024-04-01 01:42:40",professional,active
-404,"mark.scott.404@example.com","Mark Scott","2024-01-15 05:30:17",enterprise,at_risk
-405,"emily.brown.405@example.com","Emily Brown","2023-10-21 17:19:36",professional,churned
-406,"daniel.adams.406@example.com","Daniel Adams","2024-07-18 23:08:02",enterprise,active
-407,"robert.williams.407@example.com","Robert Williams","2024-08-24 20:49:31",enterprise,active
-408,"kenneth.green.408@example.com","Kenneth Green","2023-08-24 19:31:50",starter,active
-409,"donald.lopez.409@example.com","Donald Lopez","2025-11-30 20:53:23",starter,active
-410,"linda.wright.410@example.com","Linda Wright","2023-01-31 01:00:09",enterprise,active
-411,"mark.walker.411@example.com","Mark Walker","2023-08-01 12:14:58",free,churned
-412,"richard.brown.412@example.com","Richard Brown","2023-05-21 10:06:05",starter,at_risk
-413,"paul.brown.413@example.com","Paul Brown","2024-02-08 22:09:39",free,at_risk
-414,"nancy.white.414@example.com","Nancy White","2023-07-23 02:19:01",enterprise,at_risk
-415,"susan.davis.415@example.com","Susan Davis","2023-01-29 12:04:05",starter,active
-416,"james.torres.416@example.com","James Torres","2025-07-17 18:47:07",professional,active
-417,"nancy.carter.417@example.com","Nancy Carter","2024-06-05 15:51:48",enterprise,at_risk
-418,"maria.rivera.418@example.com","Maria Rivera","2023-04-30 09:08:29",free,active
-419,"linda.nelson.419@example.com","Linda Nelson","2023-03-13 18:05:35",enterprise,active
-420,"william.walker.420@example.com","William Walker","2025-08-03 22:21:59",enterprise,churned
-421,"robert.adams.421@example.com","Robert Adams","2023-05-30 22:56:19",starter,active
-422,"andrew.moore.422@example.com","Andrew Moore","2023-12-31 14:17:49",starter,active
-423,"barbara.white.423@example.com","Barbara White","2023-11-11 06:34:24",enterprise,active
-424,"shirley.roberts.424@example.com","Shirley Roberts","2024-12-28 00:37:25",starter,active
-425,"george.taylor.425@example.com","George Taylor","2024-08-06 01:37:21",enterprise,churned
-426,"paul.torres.426@example.com","Paul Torres","2023-07-22 21:11:46",professional,active
-427,"kevin.lewis.427@example.com","Kevin Lewis","2024-12-08 13:10:46",free,active
-428,"ronald.roberts.428@example.com","Ronald Roberts","2025-10-13 01:59:41",enterprise,at_risk
-429,"nancy.johnson.429@example.com","Nancy Johnson","2024-07-28 03:20:11",starter,churned
-430,"nancy.hall.430@example.com","Nancy Hall","2024-07-29 13:41:16",free,active
-431,"nancy.rodriguez.431@example.com","Nancy Rodriguez","2023-06-08 15:42:30",enterprise,at_risk
-432,"lisa.johnson.432@example.com","Lisa Johnson","2024-11-28 18:32:31",starter,active
-433,"george.roberts.433@example.com","George Roberts","2023-09-15 13:01:21",free,active
-434,"michael.thompson.434@example.com","Michael Thompson","2024-05-08 20:16:27",enterprise,at_risk
-435,"donald.carter.435@example.com","Donald Carter","2023-08-02 01:16:22",professional,at_risk
-436,"kenneth.clark.436@example.com","Kenneth Clark","2023-03-23 15:13:54",enterprise,active
-437,"barbara.nguyen.437@example.com","Barbara Nguyen","2024-03-05 05:13:25",enterprise,active
-438,"mark.robinson.438@example.com","Mark Robinson","2024-10-28 22:23:10",free,active
-439,"jessica.harris.439@example.com","Jessica Harris","2025-02-13 03:26:33",professional,active
-440,"patricia.mitchell.440@example.com","Patricia Mitchell","2023-01-26 13:26:13",free,active
-441,"patricia.smith.441@example.com","Patricia Smith","2023-10-22 01:49:37",starter,active
-442,"jennifer.williams.442@example.com","Jennifer Williams","2025-04-02 02:40:34",professional,at_risk
-443,"jessica.miller.443@example.com","Jessica Miller","2024-03-21 23:23:31",free,active
-444,"daniel.thomas.444@example.com","Daniel Thomas","2025-06-09 17:46:30",free,active
-445,"kenneth.wright.445@example.com","Kenneth Wright","2025-02-27 05:20:35",starter,at_risk
-446,"michelle.clark.446@example.com","Michelle Clark","2023-11-18 19:32:11",enterprise,active
-447,"brian.hill.447@example.com","Brian Hill","2024-03-30 17:55:34",enterprise,active
-448,"william.smith.448@example.com","William Smith","2023-03-09 23:37:57",starter,active
-449,"elizabeth.flores.449@example.com","Elizabeth Flores","2023-07-05 01:39:43",professional,churned
-450,"carol.martin.450@example.com","Carol Martin","2025-03-20 15:58:53",professional,churned
-451,"elizabeth.wilson.451@example.com","Elizabeth Wilson","2023-05-20 12:42:19",enterprise,at_risk
-452,"john.lee.452@example.com","John Lee","2024-06-11 07:28:33",professional,at_risk
-453,"amy.wilson.453@example.com","Amy Wilson","2025-08-23 21:06:24",free,active
-454,"patricia.lopez.454@example.com","Patricia Lopez","2023-04-01 06:40:50",free,active
-455,"jane.lopez.455@example.com","Jane Lopez","2024-05-26 00:23:21",enterprise,active
-456,"jane.nguyen.456@example.com","Jane Nguyen","2025-10-28 17:56:44",enterprise,at_risk
-457,"patricia.baker.457@example.com","Patricia Baker","2024-01-24 00:46:19",starter,active
-458,"nancy.moore.458@example.com","Nancy Moore","2024-05-24 12:43:31",free,churned
-459,"nancy.flores.459@example.com","Nancy Flores","2025-04-24 13:20:24",professional,active
-460,"emily.hall.460@example.com","Emily Hall","2025-05-04 17:53:15",enterprise,active
-461,"laura.taylor.461@example.com","Laura Taylor","2024-01-27 13:17:56",starter,active
-462,"karen.hill.462@example.com","Karen Hill","2025-10-10 08:56:37",professional,active
-463,"andrew.adams.463@example.com","Andrew Adams","2023-04-05 04:38:20",starter,at_risk
-464,"laura.garcia.464@example.com","Laura Garcia","2024-10-14 22:20:31",enterprise,active
-465,"emily.wilson.465@example.com","Emily Wilson","2024-01-15 16:51:24",free,churned
-466,"joshua.carter.466@example.com","Joshua Carter","2023-02-16 10:48:43",starter,active
-467,"sandra.martin.467@example.com","Sandra Martin","2023-05-19 16:10:17",professional,active
-468,"barbara.anderson.468@example.com","Barbara Anderson","2023-01-14 17:52:02",professional,at_risk
-469,"amy.walker.469@example.com","Amy Walker","2024-02-16 06:47:43",free,active
-470,"michelle.rivera.470@example.com","Michelle Rivera","2024-12-26 03:11:23",free,churned
-471,"michael.harris.471@example.com","Michael Harris","2023-02-08 00:37:14",starter,active
-472,"richard.nguyen.472@example.com","Richard Nguyen","2023-05-26 14:29:50",professional,at_risk
-473,"ruth.green.473@example.com","Ruth Green","2024-02-05 08:28:09",starter,active
-474,"carol.hall.474@example.com","Carol Hall","2025-08-26 00:01:44",starter,at_risk
-475,"elizabeth.harris.475@example.com","Elizabeth Harris","2023-02-19 03:33:35",professional,active
-476,"john.adams.476@example.com","John Adams","2024-10-13 17:47:06",professional,active
-477,"ronald.jones.477@example.com","Ronald Jones","2025-01-02 00:38:57",enterprise,active
-478,"daniel.torres.478@example.com","Daniel Torres","2024-04-14 09:00:52",starter,churned
-479,"george.wright.479@example.com","George Wright","2023-10-06 20:30:51",enterprise,active
-480,"william.martin.480@example.com","William Martin","2024-06-14 06:58:14",enterprise,active
-481,"andrew.smith.481@example.com","Andrew Smith","2023-12-30 18:45:28",free,active
-482,"edward.thompson.482@example.com","Edward Thompson","2024-08-04 02:12:50",starter,churned
-483,"charles.rodriguez.483@example.com","Charles Rodriguez","2025-05-25 09:26:09",free,active
-484,"john.flores.484@example.com","John Flores","2023-08-01 12:57:43",starter,active
-485,"donald.gonzalez.485@example.com","Donald Gonzalez","2023-12-04 17:20:17",professional,active
-486,"emily.thompson.486@example.com","Emily Thompson","2025-06-20 20:17:51",enterprise,at_risk
-487,"john.martinez.487@example.com","John Martinez","2023-03-10 22:44:04",free,active
-488,"robert.martinez.488@example.com","Robert Martinez","2023-12-12 17:11:59",professional,active
-489,"david.wright.489@example.com","David Wright","2023-03-30 04:43:49",free,active
-490,"donald.brown.490@example.com","Donald Brown","2023-08-19 02:20:18",professional,active
-491,"carol.lewis.491@example.com","Carol Lewis","2024-02-07 21:33:39",free,active
-492,"donald.clark.492@example.com","Donald Clark","2023-11-27 13:41:39",enterprise,active
-493,"charles.taylor.493@example.com","Charles Taylor","2025-03-31 20:07:25",free,churned
-494,"ronald.robinson.494@example.com","Ronald Robinson","2024-01-30 04:02:47",enterprise,active
-495,"laura.hernandez.495@example.com","Laura Hernandez","2023-09-03 08:55:31",enterprise,at_risk
-496,"david.wright.496@example.com","David Wright","2025-01-01 02:44:38",free,active
-497,"michael.anderson.497@example.com","Michael Anderson","2023-03-22 11:31:15",free,churned
-498,"amy.lee.498@example.com","Amy Lee","2023-04-15 05:27:50",enterprise,active
-499,"kevin.scott.499@example.com","Kevin Scott","2023-07-23 04:59:05",free,active
-500,"laura.nguyen.500@example.com","Laura Nguyen","2023-07-21 09:45:42",free,active
-501,"thomas.moore.501@example.com","Thomas Moore","2024-05-23 06:00:05",starter,active
-502,"linda.davis.502@example.com","Linda Davis","2025-02-24 09:19:41",enterprise,active
-503,"donald.lewis.503@example.com","Donald Lewis","2023-01-10 13:44:47",professional,active
-504,"helen.hernandez.504@example.com","Helen Hernandez","2025-02-16 10:59:34",starter,active
-505,"brian.lopez.505@example.com","Brian Lopez","2023-03-04 03:01:54",free,active
-506,"maria.wilson.506@example.com","Maria Wilson","2024-07-08 18:22:28",professional,active
-507,"amy.green.507@example.com","Amy Green","2024-05-05 02:04:07",enterprise,churned
-508,"david.king.508@example.com","David King","2023-04-27 06:23:43",enterprise,at_risk
-509,"shirley.harris.509@example.com","Shirley Harris","2024-03-01 19:47:39",free,at_risk
-510,"elizabeth.lee.510@example.com","Elizabeth Lee","2025-01-07 02:23:02",free,at_risk
-511,"barbara.thomas.511@example.com","Barbara Thomas","2024-06-13 05:26:59",professional,active
-512,"charles.green.512@example.com","Charles Green","2024-07-08 23:17:12",starter,at_risk
-513,"kevin.baker.513@example.com","Kevin Baker","2023-05-12 23:40:07",free,at_risk
-514,"sarah.white.514@example.com","Sarah White","2025-05-12 06:57:45",starter,active
-515,"sharon.hill.515@example.com","Sharon Hill","2024-07-18 19:43:10",starter,active
-516,"george.lewis.516@example.com","George Lewis","2023-05-24 04:23:11",free,active
-517,"paul.walker.517@example.com","Paul Walker","2025-01-20 15:34:35",professional,active
-518,"david.hernandez.518@example.com","David Hernandez","2025-10-16 02:26:44",starter,at_risk
-519,"robert.wilson.519@example.com","Robert Wilson","2025-08-15 14:40:08",free,at_risk
-520,"laura.brown.520@example.com","Laura Brown","2024-03-01 23:01:01",starter,active
-521,"mark.baker.521@example.com","Mark Baker","2025-01-27 23:49:29",enterprise,active
-522,"william.harris.522@example.com","William Harris","2023-03-11 19:11:02",starter,active
-523,"kenneth.nelson.523@example.com","Kenneth Nelson","2023-02-23 19:43:54",starter,active
-524,"amy.nguyen.524@example.com","Amy Nguyen","2024-03-02 22:09:38",enterprise,active
-525,"amy.torres.525@example.com","Amy Torres","2025-08-09 05:22:53",starter,active
-526,"george.gonzalez.526@example.com","George Gonzalez","2023-08-26 23:05:34",free,active
-527,"joseph.king.527@example.com","Joseph King","2025-10-14 10:25:27",enterprise,at_risk
-528,"emily.flores.528@example.com","Emily Flores","2025-10-12 15:47:27",professional,active
-529,"robert.allen.529@example.com","Robert Allen","2023-08-12 15:34:19",free,active
-530,"ronald.roberts.530@example.com","Ronald Roberts","2023-09-04 18:42:40",starter,at_risk
-531,"james.gonzalez.531@example.com","James Gonzalez","2025-03-05 18:56:55",starter,at_risk
-532,"donald.rivera.532@example.com","Donald Rivera","2023-04-18 23:16:04",enterprise,at_risk
-533,"thomas.white.533@example.com","Thomas White","2023-08-19 03:29:28",enterprise,active
-534,"joshua.anderson.534@example.com","Joshua Anderson","2025-03-06 00:43:48",enterprise,active
-535,"edward.williams.535@example.com","Edward Williams","2024-03-31 08:25:53",enterprise,churned
-536,"lisa.martinez.536@example.com","Lisa Martinez","2025-03-11 17:52:36",free,active
-537,"william.hernandez.537@example.com","William Hernandez","2024-11-06 23:39:49",professional,at_risk
-538,"betty.rodriguez.538@example.com","Betty Rodriguez","2023-06-15 11:02:11",professional,at_risk
-539,"betty.harris.539@example.com","Betty Harris","2023-09-20 00:40:44",enterprise,active
-540,"ruth.white.540@example.com","Ruth White","2023-08-13 07:33:34",free,active
-541,"susan.scott.541@example.com","Susan Scott","2025-01-14 07:28:35",professional,active
-542,"helen.taylor.542@example.com","Helen Taylor","2024-12-18 03:06:13",enterprise,churned
-543,"amy.hernandez.543@example.com","Amy Hernandez","2023-01-07 05:16:05",professional,active
-544,"william.taylor.544@example.com","William Taylor","2025-05-03 12:50:41",free,active
-545,"robert.thomas.545@example.com","Robert Thomas","2025-01-22 10:41:20",professional,active
-546,"charles.clark.546@example.com","Charles Clark","2023-08-08 01:36:15",enterprise,active
-547,"steven.robinson.547@example.com","Steven Robinson","2024-10-16 07:34:33",professional,active
-548,"andrew.roberts.548@example.com","Andrew Roberts","2025-06-23 23:22:30",enterprise,at_risk
-549,"betty.harris.549@example.com","Betty Harris","2025-02-13 05:12:39",professional,active
-550,"donna.hernandez.550@example.com","Donna Hernandez","2023-04-28 06:47:32",free,active
-551,"helen.anderson.551@example.com","Helen Anderson","2023-01-04 06:50:40",free,churned
-552,"donna.robinson.552@example.com","Donna Robinson","2025-04-02 02:14:59",professional,active
-553,"george.mitchell.553@example.com","George Mitchell","2023-06-28 01:47:14",starter,active
-554,"maria.hernandez.554@example.com","Maria Hernandez","2024-06-14 17:54:47",enterprise,at_risk
-555,"edward.miller.555@example.com","Edward Miller","2025-02-13 19:37:10",professional,churned
-556,"edward.smith.556@example.com","Edward Smith","2023-09-28 00:48:52",enterprise,at_risk
-557,"kevin.torres.557@example.com","Kevin Torres","2024-01-28 23:55:43",free,churned
-558,"nancy.mitchell.558@example.com","Nancy Mitchell","2023-05-03 14:57:59",starter,active
-559,"amy.white.559@example.com","Amy White","2024-04-02 08:03:47",free,active
-560,"anthony.brown.560@example.com","Anthony Brown","2025-06-11 03:42:54",starter,active
-561,"richard.scott.561@example.com","Richard Scott","2023-05-17 10:31:09",starter,at_risk
-562,"michelle.wilson.562@example.com","Michelle Wilson","2023-12-21 11:38:19",starter,active
-563,"paul.adams.563@example.com","Paul Adams","2023-02-16 17:00:36",starter,active
-564,"jane.lee.564@example.com","Jane Lee","2024-08-08 23:16:50",enterprise,at_risk
-565,"david.mitchell.565@example.com","David Mitchell","2024-07-17 14:53:18",enterprise,at_risk
-566,"linda.scott.566@example.com","Linda Scott","2023-01-07 17:30:08",free,active
-567,"karen.white.567@example.com","Karen White","2025-06-06 07:54:23",free,churned
-568,"brian.green.568@example.com","Brian Green","2023-12-28 14:02:02",professional,active
-569,"lisa.moore.569@example.com","Lisa Moore","2024-09-12 22:54:59",professional,active
-570,"kenneth.nguyen.570@example.com","Kenneth Nguyen","2025-01-07 18:15:22",professional,at_risk
-571,"joshua.taylor.571@example.com","Joshua Taylor","2024-11-23 01:12:59",free,active
-572,"james.harris.572@example.com","James Harris","2024-10-12 10:09:14",starter,churned
-573,"daniel.nelson.573@example.com","Daniel Nelson","2023-03-02 17:12:45",starter,active
-574,"karen.rodriguez.574@example.com","Karen Rodriguez","2023-09-01 04:45:46",free,churned
-575,"kevin.lopez.575@example.com","Kevin Lopez","2023-11-10 18:06:22",enterprise,churned
-576,"ronald.young.576@example.com","Ronald Young","2023-08-29 00:15:41",enterprise,at_risk
-577,"jessica.rivera.577@example.com","Jessica Rivera","2024-12-07 06:01:30",free,churned
-578,"maria.martinez.578@example.com","Maria Martinez","2025-01-22 03:03:32",professional,active
-579,"steven.lewis.579@example.com","Steven Lewis","2024-05-28 10:27:55",enterprise,churned
-580,"kevin.thompson.580@example.com","Kevin Thompson","2024-02-14 01:57:03",starter,active
-581,"mark.baker.581@example.com","Mark Baker","2025-06-15 12:43:33",enterprise,active
-582,"paul.flores.582@example.com","Paul Flores","2025-08-30 18:09:56",starter,active
-583,"sarah.lee.583@example.com","Sarah Lee","2024-06-20 14:46:36",professional,active
-584,"michael.jackson.584@example.com","Michael Jackson","2023-12-26 16:59:02",free,active
-585,"barbara.anderson.585@example.com","Barbara Anderson","2024-01-15 10:44:43",enterprise,active
-586,"david.adams.586@example.com","David Adams","2023-04-27 15:59:48",professional,active
-587,"matthew.anderson.587@example.com","Matthew Anderson","2025-07-12 08:30:36",starter,active
-588,"anthony.scott.588@example.com","Anthony Scott","2025-02-19 16:29:16",free,at_risk
-589,"andrew.wilson.589@example.com","Andrew Wilson","2023-04-02 05:35:59",professional,active
-590,"michelle.walker.590@example.com","Michelle Walker","2023-10-04 12:59:33",free,active
-591,"john.gonzalez.591@example.com","John Gonzalez","2023-05-20 22:06:12",free,churned
-592,"carol.green.592@example.com","Carol Green","2025-05-28 05:26:19",professional,active
-593,"robert.moore.593@example.com","Robert Moore","2024-10-11 08:36:58",enterprise,active
-594,"william.scott.594@example.com","William Scott","2023-06-27 02:46:51",professional,at_risk
-595,"michael.hernandez.595@example.com","Michael Hernandez","2025-03-16 18:06:08",professional,active
-596,"joshua.johnson.596@example.com","Joshua Johnson","2023-08-30 06:55:58",starter,active
-597,"helen.hall.597@example.com","Helen Hall","2025-08-18 01:18:41",free,active
-598,"james.mitchell.598@example.com","James Mitchell","2023-06-07 04:34:19",starter,at_risk
-599,"donna.lee.599@example.com","Donna Lee","2025-02-12 20:14:24",professional,active
-600,"ronald.allen.600@example.com","Ronald Allen","2024-11-04 02:07:45",enterprise,active
+id,email,name,location,signup_date,subscription_tier,churn_status
+1,"maria.nelson.1@example.com","Maria Nelson","Dubai, UAE","2023-05-30 10:14:11",free,active
+2,"paul.brown.2@example.com","Paul Brown","Vancouver, BC","2025-02-06 15:59:15",starter,active
+3,"betty.allen.3@example.com","Betty Allen","Montreal, QC","2024-12-26 13:39:13",enterprise,active
+4,"sandra.jackson.4@example.com","Sandra Jackson","Indianapolis, IN","2025-03-26 01:52:43",professional,active
+5,"edward.jackson.5@example.com","Edward Jackson","Tokyo, Japan","2024-01-25 01:44:00",professional,active
+6,"mark.white.6@example.com","Mark White","San Antonio, TX","2025-11-05 15:10:59",professional,active
+7,"lisa.johnson.7@example.com","Lisa Johnson","Dubai, UAE","2023-04-13 02:26:14",professional,churned
+8,"daniel.johnson.8@example.com","Daniel Johnson","Miami, FL","2023-05-14 15:50:21",free,active
+9,"michael.williams.9@example.com","Michael Williams","Indianapolis, IN","2025-01-19 21:18:49",professional,at_risk
+10,"sarah.white.10@example.com","Sarah White","Dallas, TX","2023-10-26 04:16:08",starter,active
+11,"william.wright.11@example.com","William Wright","New York, NY","2023-06-24 15:51:05",free,active
+12,"kenneth.lewis.12@example.com","Kenneth Lewis","Miami, FL","2025-05-13 07:27:28",enterprise,churned
+13,"susan.thomas.13@example.com","Susan Thomas","Dallas, TX","2025-11-21 11:49:18",free,active
+14,"joseph.carter.14@example.com","Joseph Carter","Dallas, TX","2024-03-17 03:42:20",professional,active
+15,"patricia.torres.15@example.com","Patricia Torres","Nashville, TN","2024-03-27 01:41:32",enterprise,at_risk
+16,"laura.johnson.16@example.com","Laura Johnson","New York, NY","2023-05-27 01:26:24",enterprise,active
+17,"joseph.walker.17@example.com","Joseph Walker","Singapore","2024-08-16 18:35:45",starter,active
+18,"donald.green.18@example.com","Donald Green","Toronto, ON","2023-11-24 07:27:11",professional,active
+19,"maria.martinez.19@example.com","Maria Martinez","Dubai, UAE","2023-04-17 07:31:59",free,active
+20,"paul.davis.20@example.com","Paul Davis","New York, NY","2025-03-17 01:37:19",starter,active
+21,"michelle.roberts.21@example.com","Michelle Roberts","Chicago, IL","2023-11-23 02:16:24",starter,active
+22,"betty.davis.22@example.com","Betty Davis","Vancouver, BC","2025-10-09 03:56:39",professional,active
+23,"michael.johnson.23@example.com","Michael Johnson","Austin, TX","2024-08-11 16:53:54",free,active
+24,"jennifer.carter.24@example.com","Jennifer Carter","Phoenix, AZ","2024-10-23 10:46:36",professional,active
+25,"lisa.harris.25@example.com","Lisa Harris","Montreal, QC","2023-08-26 02:44:46",enterprise,at_risk
+26,"sarah.lopez.26@example.com","Sarah Lopez","Tokyo, Japan","2024-02-12 17:42:57",free,active
+27,"jane.green.27@example.com","Jane Green","Denver, CO","2024-09-09 03:15:16",enterprise,active
+28,"robert.jones.28@example.com","Robert Jones","Dallas, TX","2024-11-09 23:03:48",free,active
+29,"laura.gonzalez.29@example.com","Laura Gonzalez","Dallas, TX","2024-07-09 23:05:22",professional,active
+30,"george.allen.30@example.com","George Allen","Dallas, TX","2024-11-03 09:41:08",starter,active
+31,"steven.young.31@example.com","Steven Young","Montreal, QC","2025-10-07 03:51:06",starter,active
+32,"sarah.hernandez.32@example.com","Sarah Hernandez","Atlanta, GA","2024-01-06 04:42:59",enterprise,active
+33,"kevin.green.33@example.com","Kevin Green","Tokyo, Japan","2024-06-28 04:42:20",professional,active
+34,"sarah.jackson.34@example.com","Sarah Jackson","Indianapolis, IN","2024-11-18 07:15:36",enterprise,active
+35,"sandra.davis.35@example.com","Sandra Davis","Chicago, IL","2023-03-27 11:05:47",free,active
+36,"anthony.martin.36@example.com","Anthony Martin","Mumbai, India","2025-04-23 09:03:16",starter,at_risk
+37,"ruth.moore.37@example.com","Ruth Moore","Sydney, Australia","2024-06-16 12:36:36",starter,churned
+38,"jennifer.jones.38@example.com","Jennifer Jones","Portland, OR","2024-08-16 04:39:22",enterprise,active
+39,"karen.rivera.39@example.com","Karen Rivera","Los Angeles, CA","2025-07-19 10:35:05",professional,active
+40,"william.jones.40@example.com","William Jones","Seattle, WA","2023-10-21 19:10:33",enterprise,active
+41,"joshua.williams.41@example.com","Joshua Williams","Phoenix, AZ","2024-08-19 02:18:54",free,active
+42,"donald.torres.42@example.com","Donald Torres","Seattle, WA","2023-07-25 15:06:18",free,at_risk
+43,"karen.lopez.43@example.com","Karen Lopez","Paris, France","2023-03-04 15:34:02",enterprise,churned
+44,"barbara.adams.44@example.com","Barbara Adams","Paris, France","2025-01-22 02:58:03",enterprise,at_risk
+45,"laura.scott.45@example.com","Laura Scott","San Francisco, CA","2024-02-22 12:15:50",starter,active
+46,"michelle.flores.46@example.com","Michelle Flores","Toronto, ON","2023-11-06 11:26:00",professional,active
+47,"patricia.young.47@example.com","Patricia Young","Singapore","2024-06-05 21:59:05",enterprise,at_risk
+48,"lisa.hernandez.48@example.com","Lisa Hernandez","Columbus, OH","2023-12-01 14:11:40",professional,active
+49,"sarah.williams.49@example.com","Sarah Williams","New York, NY","2024-06-30 12:08:22",starter,active
+50,"donald.brown.50@example.com","Donald Brown","Phoenix, AZ","2024-08-30 01:48:01",starter,active
+51,"betty.wilson.51@example.com","Betty Wilson","Minneapolis, MN","2024-02-21 23:40:47",starter,active
+52,"edward.allen.52@example.com","Edward Allen","Vancouver, BC","2025-04-15 19:35:10",professional,churned
+53,"ronald.harris.53@example.com","Ronald Harris","Indianapolis, IN","2024-11-24 03:15:15",starter,active
+54,"michael.martinez.54@example.com","Michael Martinez","Portland, OR","2024-10-08 18:15:04",enterprise,active
+55,"kenneth.moore.55@example.com","Kenneth Moore","London, UK","2025-06-02 05:53:39",professional,active
+56,"lisa.lewis.56@example.com","Lisa Lewis","Phoenix, AZ","2023-05-26 22:33:42",free,active
+57,"helen.gonzalez.57@example.com","Helen Gonzalez","Minneapolis, MN","2023-07-14 06:36:33",enterprise,active
+58,"george.moore.58@example.com","George Moore","Boston, MA","2023-08-04 19:41:57",professional,active
+59,"donna.hill.59@example.com","Donna Hill","Miami, FL","2024-01-27 21:49:18",professional,at_risk
+60,"william.johnson.60@example.com","William Johnson","Dallas, TX","2025-08-24 05:29:12",free,active
+61,"elizabeth.martinez.61@example.com","Elizabeth Martinez","Seattle, WA","2023-03-03 23:07:58",free,at_risk
+62,"linda.brown.62@example.com","Linda Brown","Montreal, QC","2023-03-26 22:15:41",professional,active
+63,"steven.king.63@example.com","Steven King","Philadelphia, PA","2024-09-15 18:24:28",professional,active
+64,"joseph.walker.64@example.com","Joseph Walker","Toronto, ON","2023-02-17 18:02:35",enterprise,active
+65,"joseph.young.65@example.com","Joseph Young","Jacksonville, FL","2023-01-19 16:11:46",starter,active
+66,"donna.brown.66@example.com","Donna Brown","Austin, TX","2023-07-07 01:19:44",professional,active
+67,"brian.roberts.67@example.com","Brian Roberts","Seattle, WA","2024-01-15 23:05:36",starter,active
+68,"george.moore.68@example.com","George Moore","Toronto, ON","2025-09-09 04:23:05",starter,active
+69,"betty.baker.69@example.com","Betty Baker","Vancouver, BC","2025-11-18 00:18:25",professional,active
+70,"linda.allen.70@example.com","Linda Allen","Phoenix, AZ","2024-11-13 00:43:01",starter,active
+71,"laura.jones.71@example.com","Laura Jones","Houston, TX","2025-08-04 06:06:06",professional,churned
+72,"joseph.davis.72@example.com","Joseph Davis","Philadelphia, PA","2024-01-29 11:52:25",starter,churned
+73,"joseph.johnson.73@example.com","Joseph Johnson","Jacksonville, FL","2024-06-24 20:28:01",free,at_risk
+74,"anthony.green.74@example.com","Anthony Green","New York, NY","2024-07-07 07:50:39",free,active
+75,"patricia.johnson.75@example.com","Patricia Johnson","Houston, TX","2023-02-16 06:21:13",enterprise,active
+76,"william.garcia.76@example.com","William Garcia","Indianapolis, IN","2023-11-15 08:05:09",enterprise,churned
+77,"maria.roberts.77@example.com","Maria Roberts","Denver, CO","2024-07-29 14:39:36",enterprise,active
+78,"susan.flores.78@example.com","Susan Flores","Portland, OR","2023-03-22 03:20:24",enterprise,active
+79,"daniel.nelson.79@example.com","Daniel Nelson","Houston, TX","2025-08-02 20:37:30",free,churned
+80,"barbara.wright.80@example.com","Barbara Wright","New York, NY","2023-07-16 11:43:57",enterprise,at_risk
+81,"sarah.young.81@example.com","Sarah Young","Tokyo, Japan","2025-05-25 16:57:20",starter,active
+82,"sarah.davis.82@example.com","Sarah Davis","Austin, TX","2025-02-27 11:56:12",enterprise,at_risk
+83,"andrew.hernandez.83@example.com","Andrew Hernandez","Indianapolis, IN","2025-09-21 12:03:06",free,active
+84,"carol.walker.84@example.com","Carol Walker","London, UK","2025-05-04 05:52:49",free,active
+85,"david.garcia.85@example.com","David Garcia","Sydney, Australia","2023-12-26 15:52:01",free,active
+86,"elizabeth.thompson.86@example.com","Elizabeth Thompson","Houston, TX","2024-06-25 09:54:01",starter,active
+87,"michael.scott.87@example.com","Michael Scott","London, UK","2025-05-12 13:18:01",enterprise,active
+88,"paul.lee.88@example.com","Paul Lee","Houston, TX","2023-10-28 10:48:17",free,active
+89,"charles.flores.89@example.com","Charles Flores","San Diego, CA","2023-10-22 13:38:54",enterprise,at_risk
+90,"amy.martinez.90@example.com","Amy Martinez","London, UK","2023-06-19 04:44:15",free,active
+91,"donna.lewis.91@example.com","Donna Lewis","Chicago, IL","2025-10-30 16:32:59",professional,active
+92,"william.hernandez.92@example.com","William Hernandez","San Diego, CA","2025-04-30 20:18:58",starter,churned
+93,"amy.hill.93@example.com","Amy Hill","Miami, FL","2023-11-07 22:34:59",professional,active
+94,"steven.jones.94@example.com","Steven Jones","Los Angeles, CA","2023-05-31 13:17:40",free,churned
+95,"nancy.garcia.95@example.com","Nancy Garcia","London, UK","2024-05-21 22:47:43",professional,active
+96,"susan.davis.96@example.com","Susan Davis","Detroit, MI","2025-05-04 04:51:09",starter,at_risk
+97,"sharon.gonzalez.97@example.com","Sharon Gonzalez","Berlin, Germany","2024-10-08 19:53:13",professional,active
+98,"jessica.martin.98@example.com","Jessica Martin","New York, NY","2025-10-01 20:45:42",starter,active
+99,"steven.wright.99@example.com","Steven Wright","Detroit, MI","2023-12-31 02:15:06",professional,active
+100,"elizabeth.anderson.100@example.com","Elizabeth Anderson","Portland, OR","2024-01-31 11:49:07",free,active
+101,"susan.nguyen.101@example.com","Susan Nguyen","Jacksonville, FL","2023-10-17 21:00:03",free,active
+102,"thomas.nelson.102@example.com","Thomas Nelson","San Francisco, CA","2024-07-19 23:54:53",professional,active
+103,"donald.rodriguez.103@example.com","Donald Rodriguez","Miami, FL","2025-11-13 22:22:11",enterprise,active
+104,"sandra.nguyen.104@example.com","Sandra Nguyen","Dubai, UAE","2025-01-27 15:53:37",starter,active
+105,"ruth.taylor.105@example.com","Ruth Taylor","San Antonio, TX","2024-08-26 00:10:21",starter,at_risk
+106,"barbara.garcia.106@example.com","Barbara Garcia","Jacksonville, FL","2023-01-14 23:33:13",enterprise,at_risk
+107,"ruth.hill.107@example.com","Ruth Hill","Los Angeles, CA","2023-04-11 08:28:04",professional,active
+108,"patricia.thompson.108@example.com","Patricia Thompson","Nashville, TN","2023-04-10 20:43:51",enterprise,churned
+109,"brian.taylor.109@example.com","Brian Taylor","Boston, MA","2025-02-09 16:20:34",starter,churned
+110,"jennifer.mitchell.110@example.com","Jennifer Mitchell","Berlin, Germany","2025-06-11 16:41:01",enterprise,active
+111,"sharon.smith.111@example.com","Sharon Smith","Seattle, WA","2023-02-05 16:26:46",enterprise,at_risk
+112,"kevin.robinson.112@example.com","Kevin Robinson","Portland, OR","2023-02-11 04:58:35",free,churned
+113,"robert.wright.113@example.com","Robert Wright","Mumbai, India","2024-10-26 10:43:13",professional,active
+114,"james.roberts.114@example.com","James Roberts","Singapore","2023-01-18 01:25:05",free,churned
+115,"nancy.jones.115@example.com","Nancy Jones","Chicago, IL","2024-07-24 16:07:18",enterprise,active
+116,"helen.carter.116@example.com","Helen Carter","Tokyo, Japan","2024-02-07 01:24:07",free,active
+117,"david.lewis.117@example.com","David Lewis","Austin, TX","2024-02-18 23:58:32",enterprise,active
+118,"carol.flores.118@example.com","Carol Flores","Phoenix, AZ","2023-09-22 16:58:57",professional,churned
+119,"david.taylor.119@example.com","David Taylor","Tokyo, Japan","2025-01-03 05:26:01",enterprise,active
+120,"james.baker.120@example.com","James Baker","Atlanta, GA","2023-04-04 22:29:34",enterprise,active
+121,"jane.wright.121@example.com","Jane Wright","Chicago, IL","2023-06-07 00:58:20",professional,at_risk
+122,"robert.scott.122@example.com","Robert Scott","Detroit, MI","2023-01-16 06:46:31",professional,active
+123,"steven.mitchell.123@example.com","Steven Mitchell","San Jose, CA","2024-12-17 16:58:29",free,churned
+124,"mark.hill.124@example.com","Mark Hill","San Antonio, TX","2024-06-18 12:26:43",free,at_risk
+125,"sharon.green.125@example.com","Sharon Green","Phoenix, AZ","2024-10-09 15:49:29",free,active
+126,"joseph.carter.126@example.com","Joseph Carter","Seattle, WA","2025-09-23 08:15:01",free,active
+127,"andrew.king.127@example.com","Andrew King","Singapore","2023-12-05 21:16:38",professional,active
+128,"james.brown.128@example.com","James Brown","Tokyo, Japan","2023-02-11 22:20:39",enterprise,active
+129,"jessica.martin.129@example.com","Jessica Martin","Minneapolis, MN","2025-09-20 19:28:38",starter,active
+130,"daniel.lewis.130@example.com","Daniel Lewis","Berlin, Germany","2024-05-29 14:57:46",enterprise,active
+131,"david.nguyen.131@example.com","David Nguyen","Austin, TX","2025-08-01 23:53:24",free,active
+132,"sarah.wilson.132@example.com","Sarah Wilson","San Francisco, CA","2023-04-13 12:10:33",enterprise,at_risk
+133,"kevin.roberts.133@example.com","Kevin Roberts","Indianapolis, IN","2023-11-26 22:45:45",free,churned
+134,"robert.walker.134@example.com","Robert Walker","Dallas, TX","2024-11-11 12:29:17",starter,at_risk
+135,"sharon.roberts.135@example.com","Sharon Roberts","San Francisco, CA","2023-11-07 04:24:48",starter,churned
+136,"elizabeth.young.136@example.com","Elizabeth Young","Dubai, UAE","2024-06-24 15:15:14",professional,active
+137,"paul.hall.137@example.com","Paul Hall","Portland, OR","2025-02-26 03:39:47",starter,active
+138,"andrew.green.138@example.com","Andrew Green","Tokyo, Japan","2023-02-10 16:15:20",starter,active
+139,"john.lee.139@example.com","John Lee","Portland, OR","2023-09-01 03:39:27",starter,churned
+140,"matthew.jones.140@example.com","Matthew Jones","Mumbai, India","2024-01-04 06:03:03",starter,churned
+141,"anthony.smith.141@example.com","Anthony Smith","San Antonio, TX","2023-03-27 09:18:50",free,active
+142,"karen.young.142@example.com","Karen Young","Singapore","2023-03-14 19:35:01",starter,active
+143,"andrew.wilson.143@example.com","Andrew Wilson","Dubai, UAE","2023-12-11 18:00:18",professional,active
+144,"barbara.carter.144@example.com","Barbara Carter","San Diego, CA","2025-05-01 09:00:38",professional,churned
+145,"richard.smith.145@example.com","Richard Smith","Seattle, WA","2023-11-17 13:38:22",enterprise,active
+146,"david.young.146@example.com","David Young","Boston, MA","2025-04-13 15:03:44",professional,at_risk
+147,"jennifer.hill.147@example.com","Jennifer Hill","Philadelphia, PA","2025-07-06 09:50:41",professional,churned
+148,"lisa.carter.148@example.com","Lisa Carter","Detroit, MI","2023-11-09 01:31:18",free,active
+149,"ruth.walker.149@example.com","Ruth Walker","San Francisco, CA","2024-01-07 12:16:44",enterprise,active
+150,"jane.taylor.150@example.com","Jane Taylor","Toronto, ON","2025-09-15 02:15:55",enterprise,churned
+151,"sharon.jones.151@example.com","Sharon Jones","Miami, FL","2024-12-13 04:37:04",professional,active
+152,"anthony.nguyen.152@example.com","Anthony Nguyen","London, UK","2023-11-11 08:21:31",enterprise,active
+153,"brian.thompson.153@example.com","Brian Thompson","Seattle, WA","2023-12-10 19:24:46",enterprise,active
+154,"nancy.rodriguez.154@example.com","Nancy Rodriguez","Dallas, TX","2023-03-31 00:09:21",free,active
+155,"david.smith.155@example.com","David Smith","Tokyo, Japan","2025-11-25 02:01:44",professional,active
+156,"sandra.hernandez.156@example.com","Sandra Hernandez","Houston, TX","2025-07-16 02:31:50",enterprise,at_risk
+157,"william.williams.157@example.com","William Williams","New York, NY","2025-05-02 16:27:39",starter,active
+158,"kevin.miller.158@example.com","Kevin Miller","San Antonio, TX","2023-11-06 00:53:17",enterprise,active
+159,"helen.carter.159@example.com","Helen Carter","Minneapolis, MN","2024-06-02 13:58:05",enterprise,active
+160,"joseph.king.160@example.com","Joseph King","Vancouver, BC","2024-03-06 02:28:13",starter,at_risk
+161,"joshua.davis.161@example.com","Joshua Davis","Phoenix, AZ","2024-10-08 10:45:59",starter,active
+162,"kenneth.miller.162@example.com","Kenneth Miller","San Diego, CA","2023-07-07 10:14:37",free,at_risk
+163,"steven.lee.163@example.com","Steven Lee","Seattle, WA","2024-10-06 09:39:28",starter,active
+164,"linda.rodriguez.164@example.com","Linda Rodriguez","Columbus, OH","2024-12-19 20:37:13",professional,active
+165,"james.garcia.165@example.com","James Garcia","Vancouver, BC","2025-03-12 22:27:11",starter,active
+166,"mark.lewis.166@example.com","Mark Lewis","San Antonio, TX","2025-09-15 23:04:57",enterprise,active
+167,"joseph.roberts.167@example.com","Joseph Roberts","Atlanta, GA","2024-04-18 01:34:24",free,active
+168,"sharon.adams.168@example.com","Sharon Adams","Minneapolis, MN","2024-12-14 15:27:22",free,active
+169,"mark.green.169@example.com","Mark Green","Nashville, TN","2025-07-14 05:22:44",enterprise,churned
+170,"matthew.rivera.170@example.com","Matthew Rivera","Jacksonville, FL","2023-04-22 16:12:03",starter,active
+171,"richard.green.171@example.com","Richard Green","Denver, CO","2024-04-18 10:47:00",enterprise,active
+172,"richard.smith.172@example.com","Richard Smith","New York, NY","2025-08-25 16:48:08",professional,at_risk
+173,"jane.johnson.173@example.com","Jane Johnson","Vancouver, BC","2023-12-27 00:52:40",free,active
+174,"david.thomas.174@example.com","David Thomas","Portland, OR","2023-08-18 19:11:15",enterprise,active
+175,"ronald.miller.175@example.com","Ronald Miller","Philadelphia, PA","2023-10-09 08:34:27",enterprise,active
+176,"paul.jones.176@example.com","Paul Jones","Seattle, WA","2024-04-03 14:14:27",enterprise,churned
+177,"kevin.smith.177@example.com","Kevin Smith","Boston, MA","2023-12-06 10:30:45",enterprise,active
+178,"lisa.carter.178@example.com","Lisa Carter","London, UK","2025-09-19 17:26:45",enterprise,active
+179,"anthony.miller.179@example.com","Anthony Miller","Vancouver, BC","2024-12-28 00:24:43",enterprise,active
+180,"jessica.campbell.180@example.com","Jessica Campbell","Montreal, QC","2024-10-01 03:28:45",free,active
+181,"kenneth.baker.181@example.com","Kenneth Baker","Denver, CO","2023-10-07 06:34:19",professional,active
+182,"michelle.adams.182@example.com","Michelle Adams","Boston, MA","2024-09-05 10:20:56",starter,active
+183,"karen.roberts.183@example.com","Karen Roberts","San Antonio, TX","2023-05-15 14:14:50",enterprise,active
+184,"carol.hall.184@example.com","Carol Hall","Portland, OR","2025-07-07 17:54:02",professional,active
+185,"karen.flores.185@example.com","Karen Flores","Singapore","2025-09-08 06:08:49",free,active
+186,"edward.nelson.186@example.com","Edward Nelson","Vancouver, BC","2024-03-04 05:20:46",starter,churned
+187,"sandra.clark.187@example.com","Sandra Clark","Singapore","2025-05-02 15:29:30",free,active
+188,"susan.miller.188@example.com","Susan Miller","Columbus, OH","2025-05-11 15:24:47",enterprise,active
+189,"joseph.white.189@example.com","Joseph White","London, UK","2024-08-09 17:11:46",enterprise,churned
+190,"thomas.williams.190@example.com","Thomas Williams","Vancouver, BC","2024-09-03 19:08:48",starter,at_risk
+191,"edward.lopez.191@example.com","Edward Lopez","Boston, MA","2023-06-03 17:46:41",starter,active
+192,"richard.rodriguez.192@example.com","Richard Rodriguez","San Diego, CA","2025-03-01 04:37:54",enterprise,active
+193,"michelle.jackson.193@example.com","Michelle Jackson","Columbus, OH","2024-02-27 14:29:47",enterprise,at_risk
+194,"paul.garcia.194@example.com","Paul Garcia","Austin, TX","2023-09-18 15:25:51",professional,active
+195,"michael.smith.195@example.com","Michael Smith","Houston, TX","2024-07-28 03:15:31",professional,active
+196,"betty.baker.196@example.com","Betty Baker","Toronto, ON","2023-03-08 12:02:51",free,at_risk
+197,"robert.williams.197@example.com","Robert Williams","Seattle, WA","2025-06-24 10:09:54",professional,active
+198,"paul.scott.198@example.com","Paul Scott","Sydney, Australia","2023-08-01 14:46:23",professional,churned
+199,"jennifer.williams.199@example.com","Jennifer Williams","Seattle, WA","2023-04-02 07:40:02",professional,active
+200,"sharon.clark.200@example.com","Sharon Clark","Nashville, TN","2023-09-05 17:08:46",enterprise,churned
+201,"anthony.carter.201@example.com","Anthony Carter","Nashville, TN","2024-05-02 13:38:46",starter,active
+202,"karen.hall.202@example.com","Karen Hall","Jacksonville, FL","2024-04-20 06:48:56",free,active
+203,"karen.nelson.203@example.com","Karen Nelson","Nashville, TN","2025-08-17 23:12:11",enterprise,churned
+204,"david.williams.204@example.com","David Williams","New York, NY","2025-08-02 01:51:51",free,churned
+205,"shirley.thomas.205@example.com","Shirley Thomas","Jacksonville, FL","2025-05-05 11:29:52",free,active
+206,"helen.baker.206@example.com","Helen Baker","San Antonio, TX","2024-08-14 19:38:46",free,active
+207,"betty.baker.207@example.com","Betty Baker","Minneapolis, MN","2025-06-24 15:13:22",starter,at_risk
+208,"sarah.green.208@example.com","Sarah Green","Sydney, Australia","2024-07-23 06:32:06",free,churned
+209,"michael.moore.209@example.com","Michael Moore","London, UK","2023-01-15 23:55:28",free,active
+210,"carol.taylor.210@example.com","Carol Taylor","Miami, FL","2024-01-20 07:58:56",enterprise,churned
+211,"michael.hall.211@example.com","Michael Hall","New York, NY","2025-07-04 07:09:51",free,active
+212,"joshua.carter.212@example.com","Joshua Carter","Philadelphia, PA","2024-05-30 15:18:25",enterprise,active
+213,"james.jackson.213@example.com","James Jackson","Miami, FL","2023-02-21 08:00:15",enterprise,churned
+214,"andrew.rivera.214@example.com","Andrew Rivera","Boston, MA","2024-06-13 18:50:37",professional,active
+215,"charles.adams.215@example.com","Charles Adams","Phoenix, AZ","2023-05-05 05:41:10",enterprise,active
+216,"laura.carter.216@example.com","Laura Carter","Paris, France","2023-10-06 03:39:02",enterprise,active
+217,"elizabeth.scott.217@example.com","Elizabeth Scott","Jacksonville, FL","2025-10-08 11:55:32",free,active
+218,"ruth.thompson.218@example.com","Ruth Thompson","Vancouver, BC","2024-11-18 16:00:15",starter,at_risk
+219,"emily.hernandez.219@example.com","Emily Hernandez","Sydney, Australia","2025-04-27 19:10:04",professional,churned
+220,"charles.gonzalez.220@example.com","Charles Gonzalez","Atlanta, GA","2023-05-10 05:24:28",starter,active
+221,"robert.nguyen.221@example.com","Robert Nguyen","Columbus, OH","2025-03-01 14:32:45",enterprise,at_risk
+222,"edward.wright.222@example.com","Edward Wright","Singapore","2025-08-22 04:15:02",free,active
+223,"jennifer.smith.223@example.com","Jennifer Smith","Columbus, OH","2023-11-26 14:14:27",professional,churned
+224,"michael.rodriguez.224@example.com","Michael Rodriguez","Vancouver, BC","2024-11-04 17:12:24",professional,active
+225,"brian.robinson.225@example.com","Brian Robinson","Boston, MA","2024-02-18 05:32:26",free,active
+226,"lisa.green.226@example.com","Lisa Green","Seattle, WA","2024-06-22 08:53:35",starter,active
+227,"george.hall.227@example.com","George Hall","San Antonio, TX","2024-03-31 02:18:49",enterprise,at_risk
+228,"john.gonzalez.228@example.com","John Gonzalez","Austin, TX","2024-09-12 04:42:02",starter,churned
+229,"sandra.moore.229@example.com","Sandra Moore","Philadelphia, PA","2023-02-21 03:53:30",free,active
+230,"mark.green.230@example.com","Mark Green","Detroit, MI","2024-07-23 03:23:50",professional,active
+231,"paul.taylor.231@example.com","Paul Taylor","Chicago, IL","2023-11-09 05:30:57",enterprise,active
+232,"anthony.lopez.232@example.com","Anthony Lopez","San Antonio, TX","2024-10-09 07:15:58",free,at_risk
+233,"matthew.rivera.233@example.com","Matthew Rivera","Columbus, OH","2023-09-03 10:09:20",professional,active
+234,"edward.garcia.234@example.com","Edward Garcia","Miami, FL","2023-09-10 15:38:10",starter,at_risk
+235,"jennifer.king.235@example.com","Jennifer King","Nashville, TN","2025-04-06 20:15:53",starter,active
+236,"ruth.lopez.236@example.com","Ruth Lopez","Sydney, Australia","2023-10-19 01:02:42",free,churned
+237,"robert.lee.237@example.com","Robert Lee","Houston, TX","2025-02-05 02:38:55",enterprise,active
+238,"donald.flores.238@example.com","Donald Flores","Dubai, UAE","2023-07-01 02:10:27",starter,at_risk
+239,"ronald.roberts.239@example.com","Ronald Roberts","Mumbai, India","2024-12-24 16:22:08",free,active
+240,"patricia.anderson.240@example.com","Patricia Anderson","Portland, OR","2024-07-25 18:05:36",free,active
+241,"john.scott.241@example.com","John Scott","San Antonio, TX","2025-05-08 20:19:15",enterprise,active
+242,"jennifer.anderson.242@example.com","Jennifer Anderson","San Antonio, TX","2023-05-01 02:14:24",professional,at_risk
+243,"ruth.davis.243@example.com","Ruth Davis","San Francisco, CA","2025-04-22 12:33:30",enterprise,active
+244,"richard.rivera.244@example.com","Richard Rivera","Indianapolis, IN","2024-06-10 21:08:57",professional,at_risk
+245,"william.robinson.245@example.com","William Robinson","Montreal, QC","2024-11-17 18:11:44",free,churned
+246,"shirley.roberts.246@example.com","Shirley Roberts","Minneapolis, MN","2023-07-06 05:03:14",enterprise,at_risk
+247,"david.johnson.247@example.com","David Johnson","Dallas, TX","2024-05-05 17:38:19",professional,active
+248,"michelle.green.248@example.com","Michelle Green","Paris, France","2025-10-14 05:06:02",starter,churned
+249,"joshua.harris.249@example.com","Joshua Harris","Portland, OR","2023-12-01 04:33:50",professional,churned
+250,"betty.allen.250@example.com","Betty Allen","San Diego, CA","2025-01-29 05:05:19",free,churned
+251,"steven.anderson.251@example.com","Steven Anderson","Vancouver, BC","2024-10-16 02:32:19",professional,at_risk
+252,"james.allen.252@example.com","James Allen","Seattle, WA","2024-07-25 02:14:14",enterprise,churned
+253,"laura.king.253@example.com","Laura King","Dallas, TX","2023-08-03 06:22:21",enterprise,active
+254,"mark.taylor.254@example.com","Mark Taylor","Detroit, MI","2024-01-03 17:50:07",professional,active
+255,"lisa.robinson.255@example.com","Lisa Robinson","Montreal, QC","2024-10-16 19:50:58",starter,active
+256,"donald.young.256@example.com","Donald Young","San Antonio, TX","2023-05-26 14:28:30",starter,at_risk
+257,"david.wright.257@example.com","David Wright","San Antonio, TX","2025-09-09 11:55:49",enterprise,active
+258,"matthew.young.258@example.com","Matthew Young","Atlanta, GA","2023-04-19 15:44:41",free,at_risk
+259,"sandra.anderson.259@example.com","Sandra Anderson","Columbus, OH","2023-06-30 10:09:33",professional,active
+260,"richard.king.260@example.com","Richard King","Houston, TX","2024-04-20 22:17:18",free,active
+261,"joshua.williams.261@example.com","Joshua Williams","Jacksonville, FL","2025-01-03 00:06:14",starter,churned
+262,"joshua.hill.262@example.com","Joshua Hill","San Diego, CA","2023-05-03 20:21:51",free,active
+263,"brian.flores.263@example.com","Brian Flores","Nashville, TN","2023-01-07 02:25:48",enterprise,active
+264,"jessica.clark.264@example.com","Jessica Clark","Toronto, ON","2023-11-15 17:11:17",professional,active
+265,"susan.allen.265@example.com","Susan Allen","Dallas, TX","2025-05-23 11:01:45",professional,at_risk
+266,"helen.walker.266@example.com","Helen Walker","Austin, TX","2025-11-21 06:56:10",free,active
+267,"carol.campbell.267@example.com","Carol Campbell","Denver, CO","2025-07-06 16:37:28",professional,active
+268,"helen.young.268@example.com","Helen Young","Berlin, Germany","2024-02-22 05:10:31",free,active
+269,"kevin.campbell.269@example.com","Kevin Campbell","Dallas, TX","2025-04-13 12:40:05",enterprise,active
+270,"helen.brown.270@example.com","Helen Brown","Austin, TX","2023-10-01 16:54:37",starter,active
+271,"michelle.davis.271@example.com","Michelle Davis","London, UK","2024-12-17 18:02:52",starter,active
+272,"paul.robinson.272@example.com","Paul Robinson","Denver, CO","2024-07-22 10:22:31",enterprise,at_risk
+273,"jessica.adams.273@example.com","Jessica Adams","Jacksonville, FL","2025-11-20 00:47:36",professional,active
+274,"george.white.274@example.com","George White","Boston, MA","2025-03-15 03:47:52",enterprise,at_risk
+275,"shirley.thompson.275@example.com","Shirley Thompson","Berlin, Germany","2024-06-08 08:53:07",professional,at_risk
+276,"jessica.robinson.276@example.com","Jessica Robinson","Austin, TX","2023-11-20 18:24:02",professional,active
+277,"john.carter.277@example.com","John Carter","Mumbai, India","2023-02-09 15:11:05",starter,active
+278,"steven.baker.278@example.com","Steven Baker","San Antonio, TX","2023-03-25 21:15:49",free,active
+279,"sarah.jones.279@example.com","Sarah Jones","Phoenix, AZ","2024-03-05 02:10:13",enterprise,active
+280,"john.rodriguez.280@example.com","John Rodriguez","Toronto, ON","2024-10-06 12:28:18",free,active
+281,"matthew.robinson.281@example.com","Matthew Robinson","Seattle, WA","2025-07-27 11:33:44",free,active
+282,"elizabeth.martin.282@example.com","Elizabeth Martin","Detroit, MI","2024-04-21 20:08:28",professional,active
+283,"anthony.johnson.283@example.com","Anthony Johnson","Philadelphia, PA","2025-04-07 11:24:30",enterprise,active
+284,"helen.torres.284@example.com","Helen Torres","Atlanta, GA","2025-07-19 06:46:20",free,active
+285,"richard.johnson.285@example.com","Richard Johnson","Portland, OR","2025-03-11 16:17:15",free,churned
+286,"robert.hall.286@example.com","Robert Hall","Dubai, UAE","2025-04-27 22:44:40",free,active
+287,"ruth.taylor.287@example.com","Ruth Taylor","Dubai, UAE","2024-12-18 18:15:08",starter,active
+288,"helen.johnson.288@example.com","Helen Johnson","Jacksonville, FL","2025-02-25 08:12:51",enterprise,active
+289,"donald.robinson.289@example.com","Donald Robinson","Berlin, Germany","2025-08-26 20:30:06",professional,at_risk
+290,"kevin.carter.290@example.com","Kevin Carter","Tokyo, Japan","2024-10-31 21:04:45",professional,active
+291,"carol.nelson.291@example.com","Carol Nelson","Berlin, Germany","2025-03-21 21:49:06",professional,at_risk
+292,"mark.green.292@example.com","Mark Green","Atlanta, GA","2023-08-24 21:54:17",starter,churned
+293,"nancy.torres.293@example.com","Nancy Torres","Minneapolis, MN","2023-10-16 00:19:52",professional,at_risk
+294,"sandra.jackson.294@example.com","Sandra Jackson","Denver, CO","2023-10-17 23:38:41",enterprise,active
+295,"jennifer.wright.295@example.com","Jennifer Wright","Paris, France","2024-08-30 09:45:58",enterprise,active
+296,"elizabeth.king.296@example.com","Elizabeth King","Indianapolis, IN","2024-02-27 03:10:18",starter,active
+297,"sharon.lopez.297@example.com","Sharon Lopez","Columbus, OH","2024-07-22 12:11:22",starter,active
+298,"david.johnson.298@example.com","David Johnson","London, UK","2023-10-05 11:12:22",enterprise,active
+299,"edward.torres.299@example.com","Edward Torres","Nashville, TN","2024-09-23 07:44:09",enterprise,at_risk
+300,"barbara.moore.300@example.com","Barbara Moore","Atlanta, GA","2025-11-06 09:50:18",professional,churned
+301,"sharon.green.301@example.com","Sharon Green","Houston, TX","2023-05-27 19:20:25",starter,active
+302,"steven.taylor.302@example.com","Steven Taylor","Houston, TX","2023-05-05 18:10:15",professional,active
+303,"donald.king.303@example.com","Donald King","San Jose, CA","2023-02-11 17:11:19",professional,churned
+304,"brian.brown.304@example.com","Brian Brown","London, UK","2023-04-13 15:00:42",free,churned
+305,"shirley.martinez.305@example.com","Shirley Martinez","Nashville, TN","2023-08-28 09:08:46",starter,churned
+306,"thomas.scott.306@example.com","Thomas Scott","London, UK","2023-05-30 01:55:41",professional,active
+307,"matthew.rodriguez.307@example.com","Matthew Rodriguez","Dubai, UAE","2024-08-11 05:24:57",free,active
+308,"brian.martinez.308@example.com","Brian Martinez","San Diego, CA","2024-12-28 21:22:03",starter,active
+309,"ronald.lee.309@example.com","Ronald Lee","Miami, FL","2025-11-24 09:09:05",starter,at_risk
+310,"helen.garcia.310@example.com","Helen Garcia","Chicago, IL","2024-06-28 10:36:59",professional,active
+311,"donna.wright.311@example.com","Donna Wright","Minneapolis, MN","2024-07-02 10:17:53",starter,active
+312,"steven.thomas.312@example.com","Steven Thomas","Philadelphia, PA","2025-08-12 22:08:46",professional,active
+313,"shirley.robinson.313@example.com","Shirley Robinson","Mumbai, India","2024-04-03 00:59:23",free,active
+314,"jennifer.gonzalez.314@example.com","Jennifer Gonzalez","Nashville, TN","2025-05-18 05:14:55",starter,active
+315,"brian.nelson.315@example.com","Brian Nelson","San Antonio, TX","2025-08-17 20:22:26",enterprise,churned
+316,"steven.jackson.316@example.com","Steven Jackson","Boston, MA","2025-06-08 00:08:37",enterprise,at_risk
+317,"david.adams.317@example.com","David Adams","Los Angeles, CA","2024-01-21 18:17:51",starter,active
+318,"karen.green.318@example.com","Karen Green","Vancouver, BC","2024-02-26 19:43:12",professional,active
+319,"elizabeth.miller.319@example.com","Elizabeth Miller","Portland, OR","2023-09-21 10:48:12",free,active
+320,"charles.allen.320@example.com","Charles Allen","Atlanta, GA","2025-01-05 05:57:41",free,at_risk
+321,"shirley.wright.321@example.com","Shirley Wright","Portland, OR","2023-05-20 15:24:18",professional,at_risk
+322,"george.gonzalez.322@example.com","George Gonzalez","London, UK","2023-01-09 05:54:34",free,churned
+323,"betty.martin.323@example.com","Betty Martin","Los Angeles, CA","2025-05-30 03:16:40",professional,active
+324,"patricia.hill.324@example.com","Patricia Hill","Berlin, Germany","2023-06-18 02:41:46",enterprise,churned
+325,"nancy.adams.325@example.com","Nancy Adams","Indianapolis, IN","2024-02-13 21:05:05",starter,active
+326,"linda.williams.326@example.com","Linda Williams","San Diego, CA","2025-01-28 08:40:30",enterprise,active
+327,"matthew.brown.327@example.com","Matthew Brown","Mumbai, India","2023-07-05 20:40:55",free,active
+328,"william.robinson.328@example.com","William Robinson","Phoenix, AZ","2025-11-09 08:18:02",free,active
+329,"karen.gonzalez.329@example.com","Karen Gonzalez","New York, NY","2024-12-06 05:13:51",enterprise,active
+330,"jennifer.rodriguez.330@example.com","Jennifer Rodriguez","Miami, FL","2024-12-30 20:04:12",starter,active
+331,"john.moore.331@example.com","John Moore","San Jose, CA","2025-08-01 20:45:36",free,active
+332,"donald.adams.332@example.com","Donald Adams","San Antonio, TX","2024-06-26 23:44:14",enterprise,active
+333,"maria.moore.333@example.com","Maria Moore","Phoenix, AZ","2025-08-09 11:48:38",professional,active
+334,"richard.jackson.334@example.com","Richard Jackson","Singapore","2025-07-21 17:55:51",starter,at_risk
+335,"james.allen.335@example.com","James Allen","Minneapolis, MN","2023-04-22 18:19:33",free,at_risk
+336,"amy.davis.336@example.com","Amy Davis","Miami, FL","2024-03-19 11:01:48",starter,active
+337,"jane.moore.337@example.com","Jane Moore","Chicago, IL","2024-02-26 20:24:43",professional,active
+338,"carol.clark.338@example.com","Carol Clark","Paris, France","2023-04-05 18:41:07",starter,active
+339,"michelle.carter.339@example.com","Michelle Carter","Columbus, OH","2023-12-09 11:26:09",enterprise,active
+340,"amy.davis.340@example.com","Amy Davis","Mumbai, India","2025-07-03 14:57:02",enterprise,at_risk
+341,"nancy.gonzalez.341@example.com","Nancy Gonzalez","Seattle, WA","2025-09-01 17:42:10",free,active
+342,"kevin.johnson.342@example.com","Kevin Johnson","San Jose, CA","2024-06-23 21:42:59",professional,at_risk
+343,"helen.lopez.343@example.com","Helen Lopez","Montreal, QC","2024-06-07 03:13:35",starter,active
+344,"betty.hernandez.344@example.com","Betty Hernandez","San Diego, CA","2024-08-07 16:49:22",free,active
+345,"patricia.allen.345@example.com","Patricia Allen","San Francisco, CA","2025-07-18 07:43:31",professional,active
+346,"andrew.garcia.346@example.com","Andrew Garcia","New York, NY","2025-07-27 13:36:35",professional,active
+347,"sandra.smith.347@example.com","Sandra Smith","London, UK","2024-10-09 19:49:42",starter,active
+348,"mark.wright.348@example.com","Mark Wright","Los Angeles, CA","2024-12-19 10:25:22",starter,active
+349,"karen.martinez.349@example.com","Karen Martinez","San Antonio, TX","2024-10-16 20:55:39",enterprise,active
+350,"joshua.adams.350@example.com","Joshua Adams","Berlin, Germany","2024-05-01 22:40:17",enterprise,at_risk
+351,"lisa.smith.351@example.com","Lisa Smith","Austin, TX","2025-02-28 22:21:32",starter,churned
+352,"ruth.davis.352@example.com","Ruth Davis","San Diego, CA","2024-11-28 23:01:17",enterprise,active
+353,"nancy.wilson.353@example.com","Nancy Wilson","Dallas, TX","2025-10-25 16:57:09",free,active
+354,"james.thomas.354@example.com","James Thomas","Boston, MA","2023-08-20 22:39:07",professional,active
+355,"michelle.smith.355@example.com","Michelle Smith","Philadelphia, PA","2023-02-16 19:24:04",starter,active
+356,"richard.flores.356@example.com","Richard Flores","Chicago, IL","2024-08-26 16:18:16",enterprise,active
+357,"carol.king.357@example.com","Carol King","Montreal, QC","2024-07-23 00:47:07",professional,churned
+358,"james.jackson.358@example.com","James Jackson","San Antonio, TX","2025-03-11 19:52:18",professional,at_risk
+359,"jennifer.hernandez.359@example.com","Jennifer Hernandez","Houston, TX","2024-09-11 02:29:04",free,active
+360,"joshua.campbell.360@example.com","Joshua Campbell","Berlin, Germany","2025-11-15 01:30:49",enterprise,active
+361,"thomas.moore.361@example.com","Thomas Moore","Paris, France","2025-08-30 02:14:31",free,active
+362,"andrew.nguyen.362@example.com","Andrew Nguyen","Tokyo, Japan","2023-02-09 01:06:09",starter,active
+363,"maria.jones.363@example.com","Maria Jones","Dubai, UAE","2024-07-16 23:26:46",professional,active
+364,"george.robinson.364@example.com","George Robinson","Toronto, ON","2025-07-18 04:53:17",enterprise,churned
+365,"ruth.flores.365@example.com","Ruth Flores","Sydney, Australia","2025-10-06 08:57:39",enterprise,churned
+366,"michelle.wilson.366@example.com","Michelle Wilson","Houston, TX","2024-10-05 20:22:03",enterprise,at_risk
+367,"john.white.367@example.com","John White","Sydney, Australia","2023-10-17 13:31:16",enterprise,active
+368,"daniel.thompson.368@example.com","Daniel Thompson","Paris, France","2023-11-10 06:14:20",free,at_risk
+369,"andrew.lewis.369@example.com","Andrew Lewis","Nashville, TN","2024-04-04 16:14:42",starter,active
+370,"james.campbell.370@example.com","James Campbell","Boston, MA","2024-08-27 12:29:13",professional,churned
+371,"daniel.anderson.371@example.com","Daniel Anderson","Berlin, Germany","2023-12-12 10:47:59",professional,active
+372,"daniel.martin.372@example.com","Daniel Martin","Minneapolis, MN","2023-01-22 15:44:44",starter,churned
+373,"linda.torres.373@example.com","Linda Torres","Denver, CO","2023-03-31 13:31:21",free,at_risk
+374,"anthony.young.374@example.com","Anthony Young","Paris, France","2025-03-24 02:48:59",free,active
+375,"jennifer.williams.375@example.com","Jennifer Williams","Nashville, TN","2025-05-23 02:09:34",enterprise,at_risk
+376,"lisa.robinson.376@example.com","Lisa Robinson","Montreal, QC","2024-08-01 03:09:58",enterprise,at_risk
+377,"shirley.lopez.377@example.com","Shirley Lopez","Montreal, QC","2023-10-19 00:43:32",free,active
+378,"ronald.martin.378@example.com","Ronald Martin","Atlanta, GA","2025-05-08 21:27:25",professional,churned
+379,"shirley.white.379@example.com","Shirley White","Indianapolis, IN","2025-07-15 01:07:16",professional,churned
+380,"paul.walker.380@example.com","Paul Walker","Mumbai, India","2025-10-02 21:19:57",enterprise,active
+381,"thomas.jackson.381@example.com","Thomas Jackson","Portland, OR","2023-02-11 23:02:42",enterprise,churned
+382,"joshua.mitchell.382@example.com","Joshua Mitchell","Atlanta, GA","2023-10-15 09:48:53",enterprise,churned
+383,"steven.allen.383@example.com","Steven Allen","Portland, OR","2025-10-28 00:32:23",starter,active
+384,"sarah.harris.384@example.com","Sarah Harris","Detroit, MI","2025-03-03 06:03:44",professional,active
+385,"jennifer.flores.385@example.com","Jennifer Flores","Seattle, WA","2025-06-06 12:18:14",enterprise,active
+386,"kevin.rodriguez.386@example.com","Kevin Rodriguez","Minneapolis, MN","2025-07-28 02:52:50",enterprise,active
+387,"sharon.miller.387@example.com","Sharon Miller","Minneapolis, MN","2023-03-30 07:05:07",enterprise,at_risk
+388,"robert.mitchell.388@example.com","Robert Mitchell","London, UK","2025-08-22 19:34:49",free,active
+389,"ruth.nguyen.389@example.com","Ruth Nguyen","Mumbai, India","2024-03-30 04:00:39",free,active
+390,"john.king.390@example.com","John King","Jacksonville, FL","2025-01-22 02:49:23",enterprise,at_risk
+391,"jane.hernandez.391@example.com","Jane Hernandez","Singapore","2024-12-04 07:26:32",enterprise,active
+392,"george.thomas.392@example.com","George Thomas","Jacksonville, FL","2025-07-30 15:01:14",professional,active
+393,"james.jones.393@example.com","James Jones","Houston, TX","2024-01-02 10:58:17",free,active
+394,"andrew.garcia.394@example.com","Andrew Garcia","Minneapolis, MN","2025-01-26 20:06:23",enterprise,active
+395,"donna.taylor.395@example.com","Donna Taylor","San Diego, CA","2024-01-29 06:46:21",enterprise,active
+396,"jane.taylor.396@example.com","Jane Taylor","Montreal, QC","2024-10-14 17:14:02",starter,active
+397,"anthony.harris.397@example.com","Anthony Harris","Denver, CO","2023-05-09 18:56:44",enterprise,churned
+398,"richard.rodriguez.398@example.com","Richard Rodriguez","Denver, CO","2023-08-28 10:36:28",free,active
+399,"joshua.thompson.399@example.com","Joshua Thompson","Toronto, ON","2025-01-23 08:48:44",free,at_risk
+400,"david.rodriguez.400@example.com","David Rodriguez","New York, NY","2024-08-24 17:24:46",enterprise,active
+401,"sarah.smith.401@example.com","Sarah Smith","Boston, MA","2024-07-27 08:41:41",professional,active
+402,"carol.roberts.402@example.com","Carol Roberts","Singapore","2025-01-31 23:42:45",enterprise,active
+403,"elizabeth.roberts.403@example.com","Elizabeth Roberts","Montreal, QC","2023-06-28 09:05:29",starter,at_risk
+404,"james.johnson.404@example.com","James Johnson","Dallas, TX","2024-01-15 13:01:37",professional,active
+405,"george.wright.405@example.com","George Wright","Columbus, OH","2025-08-28 14:24:08",professional,active
+406,"donna.smith.406@example.com","Donna Smith","Austin, TX","2024-01-22 16:04:39",free,churned
+407,"sandra.martinez.407@example.com","Sandra Martinez","Dubai, UAE","2024-11-18 11:45:02",starter,active
+408,"lisa.adams.408@example.com","Lisa Adams","Chicago, IL","2023-03-02 15:28:12",free,active
+409,"george.rodriguez.409@example.com","George Rodriguez","Paris, France","2024-12-26 21:44:53",free,active
+410,"william.nelson.410@example.com","William Nelson","Seattle, WA","2024-12-12 14:41:11",enterprise,active
+411,"kevin.wright.411@example.com","Kevin Wright","Columbus, OH","2024-02-14 14:26:57",free,active
+412,"joseph.mitchell.412@example.com","Joseph Mitchell","Miami, FL","2023-02-10 04:04:51",professional,active
+413,"brian.king.413@example.com","Brian King","Chicago, IL","2025-01-27 22:28:41",starter,active
+414,"david.garcia.414@example.com","David Garcia","Dallas, TX","2023-06-06 03:53:07",starter,churned
+415,"donna.johnson.415@example.com","Donna Johnson","Jacksonville, FL","2025-04-12 15:55:22",starter,churned
+416,"william.carter.416@example.com","William Carter","Mumbai, India","2023-10-22 07:08:30",enterprise,churned
+417,"emily.flores.417@example.com","Emily Flores","London, UK","2025-10-24 03:05:53",free,active
+418,"donald.brown.418@example.com","Donald Brown","Philadelphia, PA","2024-08-17 05:25:48",professional,active
+419,"linda.adams.419@example.com","Linda Adams","Austin, TX","2023-07-09 20:45:56",free,at_risk
+420,"richard.harris.420@example.com","Richard Harris","Philadelphia, PA","2025-02-11 08:01:29",professional,active
+421,"ruth.hall.421@example.com","Ruth Hall","Columbus, OH","2023-12-04 10:51:40",professional,at_risk
+422,"donna.mitchell.422@example.com","Donna Mitchell","Vancouver, BC","2025-02-27 21:58:15",professional,active
+423,"john.rodriguez.423@example.com","John Rodriguez","New York, NY","2023-12-01 11:44:12",professional,active
+424,"kenneth.smith.424@example.com","Kenneth Smith","Jacksonville, FL","2024-08-14 16:34:55",starter,active
+425,"shirley.robinson.425@example.com","Shirley Robinson","Columbus, OH","2025-04-19 09:15:56",free,active
+426,"jane.hill.426@example.com","Jane Hill","Singapore","2025-04-09 03:08:57",free,active
+427,"sharon.nguyen.427@example.com","Sharon Nguyen","Austin, TX","2025-03-08 06:39:10",free,churned
+428,"karen.harris.428@example.com","Karen Harris","Seattle, WA","2025-05-20 12:31:29",enterprise,at_risk
+429,"jennifer.allen.429@example.com","Jennifer Allen","Philadelphia, PA","2023-02-22 09:57:28",free,active
+430,"anthony.flores.430@example.com","Anthony Flores","Portland, OR","2023-03-25 15:43:46",enterprise,churned
+431,"sarah.baker.431@example.com","Sarah Baker","Phoenix, AZ","2024-01-19 02:48:16",professional,active
+432,"amy.harris.432@example.com","Amy Harris","Singapore","2023-06-13 19:12:34",starter,active
+433,"michelle.robinson.433@example.com","Michelle Robinson","New York, NY","2024-11-02 16:34:02",free,churned
+434,"michael.thomas.434@example.com","Michael Thomas","Seattle, WA","2025-07-19 00:55:52",enterprise,active
+435,"amy.anderson.435@example.com","Amy Anderson","Portland, OR","2024-11-14 02:44:43",enterprise,active
+436,"karen.clark.436@example.com","Karen Clark","Mumbai, India","2024-07-12 15:15:55",free,active
+437,"andrew.rivera.437@example.com","Andrew Rivera","Singapore","2023-06-10 00:44:34",starter,active
+438,"karen.jones.438@example.com","Karen Jones","Denver, CO","2025-07-16 06:19:05",free,active
+439,"robert.clark.439@example.com","Robert Clark","Portland, OR","2024-12-26 23:11:03",starter,active
+440,"donna.martin.440@example.com","Donna Martin","San Francisco, CA","2025-06-29 19:39:34",enterprise,at_risk
+441,"patricia.campbell.441@example.com","Patricia Campbell","Seattle, WA","2024-09-30 04:26:31",professional,churned
+442,"mark.king.442@example.com","Mark King","Nashville, TN","2025-06-12 09:11:32",free,active
+443,"carol.rodriguez.443@example.com","Carol Rodriguez","Paris, France","2025-03-31 12:47:15",starter,active
+444,"james.baker.444@example.com","James Baker","Los Angeles, CA","2023-12-27 10:23:21",free,churned
+445,"david.harris.445@example.com","David Harris","Jacksonville, FL","2024-06-21 22:27:28",starter,active
+446,"steven.taylor.446@example.com","Steven Taylor","Jacksonville, FL","2024-04-03 20:39:10",free,at_risk
+447,"sarah.young.447@example.com","Sarah Young","New York, NY","2023-04-27 01:51:50",professional,active
+448,"nancy.rivera.448@example.com","Nancy Rivera","Portland, OR","2024-11-19 01:57:57",professional,at_risk
+449,"patricia.lewis.449@example.com","Patricia Lewis","Singapore","2024-04-27 14:05:18",professional,active
+450,"matthew.brown.450@example.com","Matthew Brown","Mumbai, India","2023-10-07 09:07:50",free,at_risk
+451,"steven.jones.451@example.com","Steven Jones","Miami, FL","2024-07-01 07:45:50",starter,active
+452,"donald.williams.452@example.com","Donald Williams","Columbus, OH","2023-02-08 00:21:40",professional,active
+453,"matthew.carter.453@example.com","Matthew Carter","Austin, TX","2024-07-26 18:25:46",professional,active
+454,"robert.roberts.454@example.com","Robert Roberts","San Jose, CA","2023-10-31 17:10:42",professional,active
+455,"sarah.king.455@example.com","Sarah King","Detroit, MI","2024-05-24 20:29:08",enterprise,active
+456,"helen.davis.456@example.com","Helen Davis","Chicago, IL","2023-08-28 14:13:58",professional,at_risk
+457,"john.roberts.457@example.com","John Roberts","Indianapolis, IN","2025-01-01 22:56:56",enterprise,at_risk
+458,"joshua.campbell.458@example.com","Joshua Campbell","Columbus, OH","2023-11-09 15:17:02",enterprise,at_risk
+459,"donald.lewis.459@example.com","Donald Lewis","Austin, TX","2024-11-06 23:10:31",enterprise,churned
+460,"patricia.hill.460@example.com","Patricia Hill","San Diego, CA","2025-05-30 02:49:19",free,active
+461,"mark.williams.461@example.com","Mark Williams","Columbus, OH","2025-06-02 19:46:50",free,at_risk
+462,"maria.baker.462@example.com","Maria Baker","Los Angeles, CA","2025-09-13 07:47:36",professional,at_risk
+463,"shirley.hill.463@example.com","Shirley Hill","San Antonio, TX","2024-12-25 12:55:33",starter,active
+464,"mark.nguyen.464@example.com","Mark Nguyen","Philadelphia, PA","2023-11-19 18:27:40",free,churned
+465,"emily.martin.465@example.com","Emily Martin","San Diego, CA","2023-11-13 15:06:12",enterprise,active
+466,"jane.martin.466@example.com","Jane Martin","Seattle, WA","2025-02-18 07:53:30",free,active
+467,"maria.clark.467@example.com","Maria Clark","San Antonio, TX","2024-05-06 10:16:04",enterprise,churned
+468,"maria.smith.468@example.com","Maria Smith","Dubai, UAE","2024-01-15 04:31:39",starter,active
+469,"shirley.campbell.469@example.com","Shirley Campbell","Sydney, Australia","2023-12-25 23:31:08",enterprise,active
+470,"daniel.nguyen.470@example.com","Daniel Nguyen","Paris, France","2023-07-24 05:14:12",enterprise,active
+471,"patricia.hall.471@example.com","Patricia Hall","Detroit, MI","2023-04-02 14:47:04",free,churned
+472,"michael.lee.472@example.com","Michael Lee","London, UK","2024-03-27 19:37:53",free,active
+473,"karen.anderson.473@example.com","Karen Anderson","Houston, TX","2025-09-02 18:20:46",enterprise,at_risk
+474,"joseph.hill.474@example.com","Joseph Hill","San Antonio, TX","2024-07-11 11:21:34",professional,churned
+475,"amy.campbell.475@example.com","Amy Campbell","Denver, CO","2024-03-14 06:33:06",free,active
+476,"david.lee.476@example.com","David Lee","Denver, CO","2023-03-26 19:41:59",professional,active
+477,"amy.wright.477@example.com","Amy Wright","Indianapolis, IN","2025-01-12 06:34:43",starter,churned
+478,"david.miller.478@example.com","David Miller","San Jose, CA","2023-09-13 03:43:18",professional,churned
+479,"kevin.adams.479@example.com","Kevin Adams","Detroit, MI","2024-06-10 15:07:43",free,active
+480,"susan.flores.480@example.com","Susan Flores","San Antonio, TX","2024-10-14 22:17:02",starter,at_risk
+481,"jennifer.roberts.481@example.com","Jennifer Roberts","Austin, TX","2023-10-26 17:15:51",starter,active
+482,"william.walker.482@example.com","William Walker","San Francisco, CA","2025-01-02 20:25:40",free,active
+483,"ronald.rodriguez.483@example.com","Ronald Rodriguez","Tokyo, Japan","2024-08-22 14:05:50",free,active
+484,"laura.thomas.484@example.com","Laura Thomas","Dubai, UAE","2024-07-30 12:40:52",starter,active
+485,"patricia.scott.485@example.com","Patricia Scott","New York, NY","2025-03-09 17:14:51",starter,churned
+486,"sandra.jones.486@example.com","Sandra Jones","San Jose, CA","2025-04-01 12:57:17",starter,active
+487,"karen.harris.487@example.com","Karen Harris","Atlanta, GA","2023-12-07 16:56:28",starter,active
+488,"ruth.thomas.488@example.com","Ruth Thomas","Minneapolis, MN","2025-01-16 11:23:16",professional,active
+489,"laura.nguyen.489@example.com","Laura Nguyen","Indianapolis, IN","2024-11-11 03:14:41",starter,active
+490,"michelle.rivera.490@example.com","Michelle Rivera","Phoenix, AZ","2023-03-25 15:40:44",enterprise,active
+491,"andrew.green.491@example.com","Andrew Green","Philadelphia, PA","2023-11-13 17:24:09",starter,active
+492,"thomas.hall.492@example.com","Thomas Hall","Tokyo, Japan","2023-12-22 11:35:12",free,active
+493,"kevin.taylor.493@example.com","Kevin Taylor","Los Angeles, CA","2024-05-21 14:53:23",professional,active
+494,"donald.campbell.494@example.com","Donald Campbell","Jacksonville, FL","2023-11-19 04:08:16",free,active
+495,"david.mitchell.495@example.com","David Mitchell","New York, NY","2024-02-21 22:19:59",starter,active
+496,"lisa.martin.496@example.com","Lisa Martin","Paris, France","2025-02-24 01:53:17",enterprise,active
+497,"steven.gonzalez.497@example.com","Steven Gonzalez","Paris, France","2025-03-12 08:04:16",starter,active
+498,"betty.clark.498@example.com","Betty Clark","San Francisco, CA","2025-09-10 12:41:55",free,active
+499,"ruth.young.499@example.com","Ruth Young","San Francisco, CA","2024-09-26 09:18:16",free,active
+500,"barbara.williams.500@example.com","Barbara Williams","Vancouver, BC","2024-08-18 12:32:40",enterprise,active
+501,"sharon.thompson.501@example.com","Sharon Thompson","Boston, MA","2024-01-08 09:41:54",free,churned
+502,"thomas.garcia.502@example.com","Thomas Garcia","Nashville, TN","2023-11-01 02:31:38",enterprise,active
+503,"paul.moore.503@example.com","Paul Moore","Berlin, Germany","2024-09-29 19:06:44",enterprise,active
+504,"laura.thompson.504@example.com","Laura Thompson","Tokyo, Japan","2024-06-22 08:39:20",starter,at_risk
+505,"robert.brown.505@example.com","Robert Brown","Dallas, TX","2023-11-14 23:01:29",enterprise,at_risk
+506,"michael.gonzalez.506@example.com","Michael Gonzalez","Dubai, UAE","2025-05-27 23:30:41",free,active
+507,"george.king.507@example.com","George King","Tokyo, Japan","2024-05-26 15:25:31",professional,at_risk
+508,"emily.green.508@example.com","Emily Green","Montreal, QC","2023-01-12 10:11:33",professional,churned
+509,"jennifer.white.509@example.com","Jennifer White","Boston, MA","2024-08-09 23:25:30",starter,active
+510,"kenneth.lewis.510@example.com","Kenneth Lewis","London, UK","2024-10-20 08:04:51",starter,active
+511,"lisa.hall.511@example.com","Lisa Hall","San Francisco, CA","2023-02-01 07:37:38",professional,active
+512,"david.hill.512@example.com","David Hill","Sydney, Australia","2025-06-02 12:00:19",free,active
+513,"anthony.allen.513@example.com","Anthony Allen","Jacksonville, FL","2023-01-14 21:52:36",enterprise,active
+514,"jane.walker.514@example.com","Jane Walker","Mumbai, India","2023-10-24 03:24:18",professional,active
+515,"emily.young.515@example.com","Emily Young","Atlanta, GA","2025-06-20 13:40:48",enterprise,active
+516,"charles.campbell.516@example.com","Charles Campbell","Austin, TX","2025-01-02 12:14:00",professional,active
+517,"charles.nelson.517@example.com","Charles Nelson","Phoenix, AZ","2024-07-20 18:02:09",professional,active
+518,"edward.torres.518@example.com","Edward Torres","Dubai, UAE","2023-07-06 10:24:38",free,active
+519,"anthony.johnson.519@example.com","Anthony Johnson","Dubai, UAE","2023-11-26 04:22:57",starter,churned
+520,"george.jackson.520@example.com","George Jackson","Phoenix, AZ","2025-02-17 10:20:59",free,active
+521,"patricia.baker.521@example.com","Patricia Baker","San Jose, CA","2024-12-10 05:38:07",free,at_risk
+522,"laura.hill.522@example.com","Laura Hill","Chicago, IL","2023-10-04 17:28:54",free,active
+523,"michelle.mitchell.523@example.com","Michelle Mitchell","Los Angeles, CA","2025-08-07 10:24:50",enterprise,active
+524,"donna.walker.524@example.com","Donna Walker","San Antonio, TX","2023-10-19 01:30:33",starter,churned
+525,"joseph.garcia.525@example.com","Joseph Garcia","Toronto, ON","2024-03-09 17:04:33",starter,active
+526,"david.thomas.526@example.com","David Thomas","Singapore","2023-11-29 10:15:40",free,active
+527,"steven.carter.527@example.com","Steven Carter","Dubai, UAE","2025-07-22 17:37:44",free,active
+528,"joseph.rodriguez.528@example.com","Joseph Rodriguez","Singapore","2023-11-27 04:08:33",professional,active
+529,"susan.miller.529@example.com","Susan Miller","Mumbai, India","2024-06-08 19:34:14",enterprise,active
+530,"sarah.johnson.530@example.com","Sarah Johnson","London, UK","2024-06-26 22:25:25",starter,churned
+531,"ruth.roberts.531@example.com","Ruth Roberts","Chicago, IL","2024-06-01 05:07:55",starter,active
+532,"helen.mitchell.532@example.com","Helen Mitchell","Denver, CO","2023-08-13 06:55:24",enterprise,active
+533,"michelle.jackson.533@example.com","Michelle Jackson","Columbus, OH","2024-03-12 07:22:02",starter,active
+534,"mark.king.534@example.com","Mark King","Vancouver, BC","2025-09-06 19:10:32",professional,churned
+535,"amy.martinez.535@example.com","Amy Martinez","Seattle, WA","2023-01-14 01:01:26",enterprise,active
+536,"michael.martinez.536@example.com","Michael Martinez","San Jose, CA","2025-02-05 20:52:44",enterprise,active
+537,"laura.johnson.537@example.com","Laura Johnson","Montreal, QC","2025-10-01 07:22:09",free,active
+538,"steven.moore.538@example.com","Steven Moore","Boston, MA","2024-01-17 16:13:25",professional,active
+539,"michael.rivera.539@example.com","Michael Rivera","Sydney, Australia","2023-04-21 11:39:50",enterprise,active
+540,"susan.clark.540@example.com","Susan Clark","Houston, TX","2023-08-10 17:35:03",free,churned
+541,"patricia.walker.541@example.com","Patricia Walker","Columbus, OH","2024-07-09 17:25:23",professional,active
+542,"jennifer.white.542@example.com","Jennifer White","Vancouver, BC","2024-04-01 04:05:49",starter,active
+543,"david.thomas.543@example.com","David Thomas","Denver, CO","2024-09-04 09:33:06",free,active
+544,"amy.brown.544@example.com","Amy Brown","Denver, CO","2024-01-16 19:07:31",enterprise,active
+545,"jennifer.young.545@example.com","Jennifer Young","Seattle, WA","2024-06-18 05:00:49",starter,active
+546,"betty.rivera.546@example.com","Betty Rivera","Toronto, ON","2025-01-28 09:25:54",starter,at_risk
+547,"steven.williams.547@example.com","Steven Williams","Columbus, OH","2025-08-24 22:45:24",professional,active
+548,"donna.nguyen.548@example.com","Donna Nguyen","Philadelphia, PA","2025-05-22 06:02:13",professional,active
+549,"elizabeth.lewis.549@example.com","Elizabeth Lewis","London, UK","2024-05-24 02:31:43",free,active
+550,"william.thomas.550@example.com","William Thomas","Vancouver, BC","2024-08-31 04:31:41",free,churned
+551,"william.harris.551@example.com","William Harris","Dallas, TX","2023-04-15 03:20:59",starter,active
+552,"emily.flores.552@example.com","Emily Flores","Singapore","2025-06-02 23:03:58",starter,active
+553,"carol.nelson.553@example.com","Carol Nelson","Mumbai, India","2023-10-05 12:57:39",free,active
+554,"daniel.miller.554@example.com","Daniel Miller","Jacksonville, FL","2023-11-30 14:41:14",free,churned
+555,"andrew.moore.555@example.com","Andrew Moore","Philadelphia, PA","2023-01-03 19:27:31",free,churned
+556,"andrew.king.556@example.com","Andrew King","Columbus, OH","2024-09-12 03:38:11",free,active
+557,"carol.nguyen.557@example.com","Carol Nguyen","Miami, FL","2025-04-17 16:39:49",starter,active
+558,"kenneth.moore.558@example.com","Kenneth Moore","Vancouver, BC","2023-08-27 09:22:05",enterprise,active
+559,"elizabeth.miller.559@example.com","Elizabeth Miller","Indianapolis, IN","2023-03-01 20:33:43",starter,active
+560,"carol.gonzalez.560@example.com","Carol Gonzalez","Miami, FL","2025-01-29 15:21:39",starter,active
+561,"daniel.torres.561@example.com","Daniel Torres","Los Angeles, CA","2025-09-16 14:59:39",professional,active
+562,"betty.rodriguez.562@example.com","Betty Rodriguez","Paris, France","2023-10-14 09:26:26",free,active
+563,"daniel.williams.563@example.com","Daniel Williams","San Antonio, TX","2024-10-29 10:47:13",free,active
+564,"sharon.mitchell.564@example.com","Sharon Mitchell","Indianapolis, IN","2023-10-08 06:04:02",free,active
+565,"kenneth.smith.565@example.com","Kenneth Smith","Sydney, Australia","2024-12-22 01:00:09",enterprise,active
+566,"edward.wright.566@example.com","Edward Wright","San Diego, CA","2025-07-07 14:44:53",professional,active
+567,"richard.campbell.567@example.com","Richard Campbell","New York, NY","2025-01-01 16:46:22",professional,active
+568,"ruth.allen.568@example.com","Ruth Allen","Mumbai, India","2025-02-23 01:16:59",enterprise,active
+569,"sharon.wilson.569@example.com","Sharon Wilson","San Jose, CA","2023-07-04 08:41:43",professional,active
+570,"john.jackson.570@example.com","John Jackson","Montreal, QC","2024-04-23 09:44:06",starter,active
+571,"john.davis.571@example.com","John Davis","Denver, CO","2025-01-17 03:20:58",enterprise,churned
+572,"jessica.martinez.572@example.com","Jessica Martinez","Berlin, Germany","2024-01-13 02:55:00",professional,active
+573,"helen.robinson.573@example.com","Helen Robinson","Nashville, TN","2023-03-01 21:16:16",enterprise,active
+574,"kenneth.lewis.574@example.com","Kenneth Lewis","San Francisco, CA","2024-08-12 21:15:09",free,active
+575,"ruth.smith.575@example.com","Ruth Smith","Dubai, UAE","2023-09-05 07:07:13",enterprise,active
+576,"amy.wilson.576@example.com","Amy Wilson","San Jose, CA","2024-07-29 19:28:22",starter,at_risk
+577,"donna.lopez.577@example.com","Donna Lopez","Sydney, Australia","2023-08-18 17:06:09",professional,churned
+578,"jane.adams.578@example.com","Jane Adams","Minneapolis, MN","2024-05-01 05:26:55",free,churned
+579,"sarah.hernandez.579@example.com","Sarah Hernandez","San Antonio, TX","2023-12-19 06:09:22",free,at_risk
+580,"amy.roberts.580@example.com","Amy Roberts","San Jose, CA","2025-09-22 17:14:47",free,churned
+581,"jessica.torres.581@example.com","Jessica Torres","Tokyo, Japan","2024-08-13 04:32:44",professional,active
+582,"george.roberts.582@example.com","George Roberts","Columbus, OH","2023-10-27 02:08:56",enterprise,active
+583,"steven.scott.583@example.com","Steven Scott","New York, NY","2023-04-16 14:42:59",enterprise,active
+584,"sandra.jackson.584@example.com","Sandra Jackson","Paris, France","2025-08-02 00:19:46",starter,active
+585,"emily.clark.585@example.com","Emily Clark","Toronto, ON","2025-06-14 19:29:24",free,active
+586,"george.campbell.586@example.com","George Campbell","Columbus, OH","2023-01-18 23:49:37",free,active
+587,"anthony.lee.587@example.com","Anthony Lee","Detroit, MI","2025-08-19 18:22:28",professional,active
+588,"matthew.white.588@example.com","Matthew White","Tokyo, Japan","2024-04-10 16:21:12",enterprise,active
+589,"helen.nelson.589@example.com","Helen Nelson","Mumbai, India","2024-04-19 09:21:59",enterprise,active
+590,"matthew.gonzalez.590@example.com","Matthew Gonzalez","Berlin, Germany","2024-04-04 14:55:16",enterprise,churned
+591,"patricia.wilson.591@example.com","Patricia Wilson","Paris, France","2025-06-07 01:26:42",enterprise,active
+592,"susan.scott.592@example.com","Susan Scott","Indianapolis, IN","2024-11-17 05:55:03",free,active
+593,"david.wilson.593@example.com","David Wilson","Houston, TX","2023-10-18 17:12:46",free,active
+594,"sandra.garcia.594@example.com","Sandra Garcia","Dallas, TX","2023-11-10 19:26:23",free,active
+595,"richard.smith.595@example.com","Richard Smith","Atlanta, GA","2024-01-10 00:21:14",enterprise,active
+596,"jane.hill.596@example.com","Jane Hill","Houston, TX","2023-06-15 03:04:55",enterprise,active
+597,"kevin.robinson.597@example.com","Kevin Robinson","Berlin, Germany","2023-06-04 12:46:42",starter,at_risk
+598,"steven.campbell.598@example.com","Steven Campbell","Berlin, Germany","2024-10-21 09:51:21",enterprise,active
+599,"carol.green.599@example.com","Carol Green","Chicago, IL","2024-07-22 15:13:44",free,active
+600,"donald.lee.600@example.com","Donald Lee","San Antonio, TX","2023-04-02 15:20:10",enterprise,active

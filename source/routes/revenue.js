@@ -9,16 +9,62 @@ router.get('/', (req, res) => {
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 50;
     const offset = (page - 1) * limit;
+    const transactionDateFrom = req.query.transactionDateFrom;
+    const transactionDateTo = req.query.transactionDateTo;
+    const transactionType = req.query.transactionType;
+    const tier = req.query.tier;
+    const status = req.query.status;
+    const amountMin = req.query.amountMin;
+    const amountMax = req.query.amountMax;
 
-    const revenue = db.prepare(`
+    let query = `
       SELECT r.*, u.name as user_name, u.email as user_email
       FROM revenue r
       JOIN users u ON r.user_id = u.id
-      ORDER BY r.transaction_date DESC
-      LIMIT ? OFFSET ?
-    `).all(limit, offset);
+    `;
+    let countQuery = 'SELECT COUNT(*) as total FROM revenue r';
+    const conditions = [];
+    const params = [];
 
-    const { total } = db.prepare('SELECT COUNT(*) as total FROM revenue').get();
+    if (transactionDateFrom) {
+      conditions.push('date(r.transaction_date) >= ?');
+      params.push(transactionDateFrom);
+    }
+    if (transactionDateTo) {
+      conditions.push('date(r.transaction_date) <= ?');
+      params.push(transactionDateTo);
+    }
+    if (transactionType) {
+      conditions.push('r.transaction_type = ?');
+      params.push(transactionType);
+    }
+    if (tier) {
+      conditions.push('r.subscription_tier = ?');
+      params.push(tier);
+    }
+    if (status) {
+      conditions.push('r.status = ?');
+      params.push(status);
+    }
+    if (amountMin) {
+      conditions.push('r.amount >= ?');
+      params.push(parseFloat(amountMin));
+    }
+    if (amountMax) {
+      conditions.push('r.amount <= ?');
+      params.push(parseFloat(amountMax));
+    }
+
+    if (conditions.length > 0) {
+      const whereClause = ' WHERE ' + conditions.join(' AND ');
+      query += whereClause;
+      countQuery += whereClause;
+    }
+
+    query += ' ORDER BY r.transaction_date DESC LIMIT ? OFFSET ?';
+
+    const revenue = db.prepare(query).all(...params, limit, offset);
+    const { total } = db.prepare(countQuery).get(...params);
 
     res.json({
       data: revenue,
@@ -62,6 +108,7 @@ router.get('/stats/monthly', (req, res) => {
         strftime('%Y-%m', transaction_date) as month,
         SUM(CASE WHEN status = 'completed' THEN amount ELSE 0 END) as total_revenue,
         SUM(CASE WHEN transaction_type = 'mrr' AND status = 'completed' THEN amount ELSE 0 END) as mrr,
+        ABS(SUM(CASE WHEN transaction_type = 'refund' AND status = 'completed' THEN amount ELSE 0 END)) as refunds,
         COUNT(*) as transaction_count
       FROM revenue
       GROUP BY month

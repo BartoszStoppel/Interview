@@ -5,31 +5,40 @@ A full-stack analytics dashboard built with React, Node.js/Express, and SQLite t
 ## 🎯 Project Overview
 
 This project demonstrates a complete analytics solution featuring:
-- **600+ users** across multiple subscription tiers (Free, Starter, Professional, Enterprise)
-- **Real-time KPI tracking** including MRR, user growth, churn rate, and customer lifetime value
-- **Multi-dimensional analytics** covering revenue, usage patterns, and marketing performance
-- **Interactive visualizations** using Recharts for data exploration
+- **600+ users** across 35 global locations and multiple subscription tiers (Free, Starter, Professional, Enterprise)
+- **Real-time KPI tracking** including MRR, user growth, churn rate, and active users
+- **Advanced analytics** with cohort retention analysis, feature usage heatmaps, and geographic distribution
+- **Interactive visualizations** using Recharts and React Simple Maps
+- **Comprehensive filtering** on all data views with apply-on-demand pattern
+- **World map visualization** showing user distribution across global cities
 
 ## 🏗️ Architecture
 
-**Frontend**: React 18 + Vite + TanStack Query + Recharts  
-**Backend**: Node.js + Express REST API  
-**Database**: SQLite with better-sqlite3  
-**Data**: 4000+ records across 4 normalized tables
+**Frontend**: React 18 + Vite + TanStack Query + Recharts + React Simple Maps  
+**Backend**: Node.js + Express REST API with auto-restart on port conflicts  
+**Database**: SQLite with better-sqlite3 (12 indexes for performance)  
+**Data**: 4000+ records across 4 normalized tables with location tracking
 
 ## 📊 Features
 
 ### Dashboard Views
-- **Overview** - High-level KPIs and trend charts
-- **Users** - Customer segmentation by tier and churn status
-- **Revenue** - MRR tracking, transaction history, revenue trends
-- **Usage** - Feature adoption, login frequency, support metrics
-- **Marketing** - Campaign ROI, conversion funnels, channel analysis
+- **Overview** - 7 visualization sections:
+  - KPI cards (Total Users, Active Users, MRR, Churn Rate)
+  - User Growth trends (new users + cumulative)
+  - User Acquisition Funnel (impressions → clicks → conversions)
+  - Geographic Distribution (world map with bubble markers)
+  - Cohort Retention Analysis (time-series retention percentages)
+  - Feature Usage Heatmap (by subscription tier)
+  - Monthly Revenue Breakdown (revenue, MRR, refunds)
+- **Users** - Customer list with advanced filters (tier, status, location, date range)
+- **Revenue** - Transaction history with filters (type, amount, date)
+- **Usage** - Feature adoption and login patterns with filters
+- **Marketing** - Campaign ROI and channel analysis with filters
 
 ### Database Schema
-- `users` - 600 customers with signup dates, tiers, churn status
+- `users` - 600 customers with signup dates, tiers, churn status, and global locations (35 cities)
 - `revenue` - Transaction records (MRR, one-time, refunds)
-- `usage_metrics` - Daily usage stats and support tickets
+- `usage_metrics` - Daily usage stats, feature usage, and support tickets
 - `marketing` - Campaign performance and attribution data
 
 ## 🚀 Quick Start
@@ -93,25 +102,34 @@ Interview/
 
 ## 🔌 API Endpoints
 
-### Dashboard
-- `GET /api/dashboard/kpis` - Overall metrics
-- `GET /api/dashboard/user-growth` - Growth over time
+### Dashboard Analytics
+- `GET /api/dashboard/kpis` - Overall metrics (users, revenue, churn)
+- `GET /api/dashboard/user-growth` - Monthly growth trends
+- `GET /api/dashboard/revenue-trends` - Revenue by type over time
+- `GET /api/dashboard/acquisition-funnel` - Marketing funnel metrics
+- `GET /api/dashboard/churn-cohorts` - Cohort retention analysis (% active by month)
+- `GET /api/dashboard/feature-usage` - Feature usage heatmap data (by tier)
+- `GET /api/dashboard/user-locations` - Geographic distribution with coordinates
 
 ### Users
-- `GET /api/users` - Paginated user list
+- `GET /api/users` - Paginated user list with filters
+  - Query params: `page`, `limit`, `tier`, `status`, `location`, `startDate`, `endDate`
 - `GET /api/users/stats/summary` - User statistics
 
 ### Revenue
-- `GET /api/revenue` - Transaction history
+- `GET /api/revenue` - Transaction history with filters
+  - Query params: `page`, `limit`, `type`, `minAmount`, `maxAmount`, `startDate`, `endDate`
 - `GET /api/revenue/stats/summary` - Revenue totals
-- `GET /api/revenue/stats/monthly` - Monthly trends
+- `GET /api/revenue/stats/monthly` - Monthly trends with refunds
 
 ### Usage
-- `GET /api/usage` - Usage metrics
+- `GET /api/usage` - Usage metrics with filters
+  - Query params: `page`, `limit`, `minLogins`, `maxLogins`, `startDate`, `endDate`
 - `GET /api/usage/stats/summary` - Engagement stats
 
 ### Marketing
-- `GET /api/marketing` - Campaign data
+- `GET /api/marketing` - Campaign data with filters
+  - Query params: `page`, `limit`, `channel`, `minSpend`, `maxSpend`, `startDate`, `endDate`
 - `GET /api/marketing/stats/summary` - Marketing metrics
 - `GET /api/marketing/stats/campaigns` - Performance by campaign
 
@@ -121,7 +139,7 @@ Interview/
 |-------|-----------|
 | Frontend | React 18, Vite, React Router |
 | Data Fetching | TanStack Query (React Query), Axios |
-| Visualization | Recharts |
+| Visualization | Recharts, React Simple Maps |
 | Backend | Node.js, Express, CORS |
 | Database | SQLite (better-sqlite3) |
 | Dev Tools | Vite, ESLint |
@@ -141,19 +159,24 @@ npm run build            # Production build
 ## 📈 Sample Data
 
 The database includes realistic SaaS metrics:
-- User signups spanning 2023-2025
+- User signups spanning 2023-2025 across 35 global cities (US, Canada, International)
 - Monthly recurring revenue with multiple pricing tiers
 - Feature usage patterns and support ticket data
 - Multi-channel marketing attribution
+- Geographic distribution: New York, LA, Toronto, London, Paris, Tokyo, Singapore, and more
 
 ## 🔮 Future Enhancements
 
+- [x] Cohort retention analysis
+- [x] Advanced filtering with apply-on-demand pattern
+- [x] Geographic visualization with world map
+- [x] Feature usage heatmaps
 - [ ] Real-time data streaming with WebSockets
-- [ ] Advanced filtering and date range selection
 - [ ] Export functionality (CSV, PDF reports)
-- [ ] User cohort analysis
-- [ ] Predictive churn modeling
+- [ ] Predictive churn modeling with ML
 - [ ] A/B test result tracking
+- [ ] Custom date range selection with date pickers
+- [ ] User drill-down views
 
 ## 📄 License
 

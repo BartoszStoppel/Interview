@@ -26,6 +26,7 @@ function initDatabase() {
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       email TEXT UNIQUE NOT NULL,
       name TEXT NOT NULL,
+      location TEXT,
       signup_date DATETIME DEFAULT CURRENT_TIMESTAMP,
       subscription_tier TEXT CHECK(subscription_tier IN ('free', 'starter', 'professional', 'enterprise')) DEFAULT 'free',
       churn_status TEXT CHECK(churn_status IN ('active', 'at_risk', 'churned')) DEFAULT 'active'

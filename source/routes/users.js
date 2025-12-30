@@ -11,6 +11,8 @@ router.get('/', (req, res) => {
     const offset = (page - 1) * limit;
     const tier = req.query.tier;
     const status = req.query.status;
+    const signupDateFrom = req.query.signupDateFrom;
+    const signupDateTo = req.query.signupDateTo;
 
     let query = 'SELECT * FROM users';
     let countQuery = 'SELECT COUNT(*) as total FROM users';
@@ -24,6 +26,14 @@ router.get('/', (req, res) => {
     if (status) {
       conditions.push('churn_status = ?');
       params.push(status);
+    }
+    if (signupDateFrom) {
+      conditions.push('date(signup_date) >= ?');
+      params.push(signupDateFrom);
+    }
+    if (signupDateTo) {
+      conditions.push('date(signup_date) <= ?');
+      params.push(signupDateTo);
     }
 
     if (conditions.length > 0) {

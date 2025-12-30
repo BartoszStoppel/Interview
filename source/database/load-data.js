@@ -58,8 +58,8 @@ function loadData() {
     const users = parseCSV(usersCSV);
     
     const insertUser = db.prepare(`
-      INSERT INTO users (id, email, name, signup_date, subscription_tier, churn_status)
-      VALUES (?, ?, ?, ?, ?, ?)
+      INSERT INTO users (id, email, name, location, signup_date, subscription_tier, churn_status)
+      VALUES (?, ?, ?, ?, ?, ?, ?)
     `);
     
     users.forEach(user => {
@@ -67,6 +67,7 @@ function loadData() {
         user.id,
         user.email,
         user.name,
+        user.location,
         user.signup_date,
         user.subscription_tier,
         user.churn_status

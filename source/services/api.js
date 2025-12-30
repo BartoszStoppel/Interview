@@ -10,6 +10,11 @@ const api = axios.create({
 // Dashboard
 export const getDashboardKPIs = () => api.get('/dashboard/kpis')
 export const getUserGrowth = () => api.get('/dashboard/user-growth')
+export const getRevenueTrends = () => api.get('/dashboard/revenue-trends')
+export const getAcquisitionFunnel = () => api.get('/dashboard/acquisition-funnel')
+export const getChurnCohorts = () => api.get('/dashboard/churn-cohorts')
+export const getFeatureUsage = () => api.get('/dashboard/feature-usage')
+export const getUserLocations = () => api.get('/dashboard/user-locations')
 
 // Users
 export const getUsers = (params) => api.get('/users', { params })

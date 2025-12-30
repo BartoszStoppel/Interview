@@ -1,1195 +1,1201 @@
 id,user_id,campaign_name,acquisition_channel,campaign_date,funnel_stage,conversion_value,cost,impressions,clicks,conversions
-1,1,"Holiday Special",referral,2024-01-16,retention,0.00,311.40,7300,438,0
-2,1,"Holiday Special",direct,2024-02-05,awareness,0.00,278.20,9880,889,0
-3,1,"Lead Gen Campaign",social_media,2024-01-29,retention,0.00,75.70,237,21,0
-4,2,"Referral Program",referral,2023-01-15,consideration,0.00,256.60,3714,334,0
-5,3,"Social Media Push",organic,2024-02-08,conversion,379.00,335.10,2410,144,10
-6,3,"Content Marketing",organic,2024-02-06,consideration,0.00,207.10,7116,853,0
-7,3,"Lead Gen Campaign",email,2024-01-14,conversion,137.00,45.00,8711,174,10
-8,4,"Referral Program",paid_search,2023-08-10,conversion,455.00,220.20,397,55,2
-9,4,"Partnership Drive",email,2023-08-13,retention,0.00,283.20,2343,117,0
-10,5,"Product Launch",direct,2025-05-12,awareness,0.00,494.00,8230,1234,0
-11,5,"Retargeting Q1",social_media,2025-05-04,awareness,0.00,194.00,110,1,0
-12,6,"Summer Sale 2024",email,2024-05-24,consideration,0.00,94.80,2408,216,0
-13,6,"Holiday Special",organic,2024-06-10,conversion,147.00,357.60,2283,136,8
-14,6,"Holiday Special",direct,2024-06-04,consideration,0.00,75.20,9535,476,0
-15,7,"Q4 Growth",paid_search,2023-05-10,awareness,0.00,163.00,4357,304,0
-16,7,"Q4 Growth",social_media,2023-05-21,conversion,138.00,350.50,7352,514,50
-17,8,"Product Launch",organic,2023-10-23,conversion,56.00,489.30,5550,388,14
-18,8,"Summer Sale 2024",referral,2023-11-03,consideration,0.00,133.00,9037,542,0
-19,9,"Social Media Push",email,2024-12-16,retention,0.00,446.50,4948,544,0
-20,9,"Summer Sale 2024",direct,2025-01-04,consideration,0.00,137.70,3160,221,0
-21,9,"Partnership Drive",paid_search,2024-12-10,consideration,0.00,78.40,802,24,0
-22,10,"Brand Awareness",paid_search,2025-11-19,awareness,0.00,258.70,6735,336,0
-23,11,"Holiday Special",referral,2024-06-25,conversion,205.00,146.40,7398,887,105
-24,11,"Content Marketing",referral,2024-06-28,awareness,0.00,101.80,7124,498,0
-25,11,"Content Marketing",paid_search,2024-07-16,consideration,0.00,470.20,1246,74,0
-26,12,"Summer Sale 2024",direct,2023-12-23,retention,0.00,272.20,1415,28,0
-27,12,"Referral Program",paid_search,2023-12-27,conversion,0.00,64.60,6425,128,0
-28,13,"Content Marketing",paid_search,2025-02-21,retention,0.00,375.40,8269,992,0
-29,13,"Summer Sale 2024",direct,2025-02-25,retention,0.00,336.30,7899,710,0
-30,14,"Holiday Special",email,2024-07-24,conversion,358.00,257.40,3390,203,4
-31,14,"Content Marketing",email,2024-07-19,conversion,0.00,431.00,1302,182,0
-32,14,"Referral Program",referral,2024-07-14,consideration,0.00,440.20,9430,848,0
-33,15,"Referral Program",paid_search,2025-11-11,consideration,0.00,55.10,6714,537,0
-34,15,"Email Nurture",organic,2025-11-03,conversion,340.00,149.90,5357,374,38
-35,15,"Social Media Push",referral,2025-10-25,awareness,0.00,425.60,6396,831,0
-36,16,"Partnership Drive",organic,2025-09-20,consideration,0.00,250.40,5189,674,0
-37,17,"Retargeting Q1",paid_search,2025-04-27,awareness,0.00,77.90,2399,239,0
-38,17,"Social Media Push",email,2025-04-14,conversion,394.00,107.50,241,28,5
-39,18,"Brand Awareness",referral,2023-03-10,conversion,145.00,172.10,899,71,7
-40,18,"Referral Program",social_media,2023-03-18,consideration,0.00,46.40,7197,863,0
-41,19,"Holiday Special",paid_search,2025-07-23,awareness,0.00,447.50,1660,215,0
-42,19,"Partnership Drive",referral,2025-08-03,awareness,0.00,298.20,6485,583,0
-43,20,"Partnership Drive",direct,2023-02-16,awareness,0.00,259.70,5758,57,0
-44,21,"Brand Awareness",email,2025-11-06,consideration,0.00,382.30,6656,266,0
-45,21,"Holiday Special",direct,2025-10-15,retention,0.00,26.10,3621,543,0
-46,22,"Retargeting Q1",organic,2025-02-11,awareness,0.00,464.70,8973,538,0
-47,22,"Content Marketing",referral,2025-02-09,retention,0.00,139.80,9889,1087,0
-48,22,"Email Nurture",social_media,2025-02-06,awareness,0.00,443.30,2477,346,0
-49,23,"Referral Program",direct,2024-07-03,consideration,0.00,129.80,9743,1071,0
-50,23,"Q4 Growth",paid_search,2024-06-18,awareness,0.00,484.00,6400,576,0
-51,24,"Lead Gen Campaign",social_media,2025-10-17,conversion,461.00,106.90,7881,551,102
-52,24,"Q4 Growth",social_media,2025-10-05,consideration,0.00,151.50,2755,413,0
-53,25,"Email Nurture",organic,2023-09-06,conversion,319.00,232.70,7646,1146,7
-54,26,"Product Launch",email,2023-09-24,awareness,0.00,304.10,3294,263,0
-55,27,"Holiday Special",referral,2025-05-03,conversion,460.00,212.80,2415,265,19
-56,27,"Brand Awareness",social_media,2025-04-29,consideration,0.00,427.00,5891,824,0
-57,28,"Email Nurture",paid_search,2024-12-05,consideration,0.00,388.30,1084,130,0
-58,28,"Product Launch",organic,2024-11-26,awareness,0.00,252.50,6922,830,0
-59,28,"Brand Awareness",direct,2024-12-08,retention,0.00,197.60,3443,241,0
-60,29,"Q4 Growth",referral,2023-11-09,retention,0.00,349.60,5236,157,0
-61,29,"Retargeting Q1",direct,2023-10-18,retention,0.00,282.90,1991,298,0
-62,30,"Referral Program",social_media,2025-04-20,conversion,38.00,133.80,2768,276,38
-63,30,"Holiday Special",referral,2025-04-09,consideration,0.00,153.70,3194,479,0
-64,30,"Content Marketing",social_media,2025-04-27,conversion,274.00,125.30,5518,386,50
-65,31,"Lead Gen Campaign",direct,2023-07-27,awareness,0.00,70.50,2839,85,0
-66,31,"Lead Gen Campaign",email,2023-07-26,conversion,479.00,196.20,8021,962,191
-67,31,"Referral Program",referral,2023-08-07,consideration,0.00,74.60,4486,179,0
-68,32,"Lead Gen Campaign",direct,2025-02-09,consideration,0.00,271.50,4616,92,0
-69,32,"Lead Gen Campaign",direct,2025-02-04,awareness,0.00,194.40,7654,382,0
-70,32,"Holiday Special",organic,2025-02-06,consideration,0.00,260.80,4126,330,0
-71,33,"Retargeting Q1",social_media,2023-06-30,conversion,477.00,209.90,8553,256,20
-72,34,"Email Nurture",direct,2022-12-30,awareness,0.00,66.20,5906,118,0
-73,34,"Email Nurture",paid_search,2022-12-20,retention,0.00,443.60,2170,65,0
-74,35,"Retargeting Q1",organic,2025-03-02,awareness,0.00,109.60,5047,353,0
-75,36,"Content Marketing",social_media,2023-06-30,conversion,179.00,492.30,8849,973,97
-76,36,"Lead Gen Campaign",social_media,2023-06-23,retention,0.00,11.30,2870,373,0
-77,36,"Social Media Push",referral,2023-07-13,consideration,0.00,252.80,7717,231,0
-78,37,"Referral Program",organic,2023-04-20,consideration,0.00,474.80,8249,1072,0
-79,37,"Lead Gen Campaign",email,2023-04-12,consideration,0.00,327.80,4435,532,0
-80,38,"Holiday Special",organic,2025-08-04,retention,0.00,261.40,1441,201,0
-81,38,"Q4 Growth",email,2025-07-30,consideration,0.00,23.10,6675,867,0
-82,39,"Brand Awareness",paid_search,2024-07-23,conversion,442.00,132.50,1902,114,5
-83,40,"Lead Gen Campaign",email,2023-06-24,conversion,482.00,374.40,2111,189,4
-84,41,"Content Marketing",direct,2023-12-02,consideration,0.00,299.90,4467,580,0
-85,41,"Holiday Special",email,2023-12-08,conversion,250.00,111.60,814,105,14
-86,41,"Lead Gen Campaign",email,2023-12-16,consideration,0.00,441.60,5969,895,0
-87,42,"Lead Gen Campaign",referral,2025-07-22,conversion,332.00,16.30,2404,72,1
-88,42,"Product Launch",paid_search,2025-07-05,retention,0.00,23.10,1878,206,0
-89,42,"Summer Sale 2024",paid_search,2025-07-25,consideration,0.00,287.10,2992,239,0
-90,43,"Social Media Push",paid_search,2023-03-07,awareness,0.00,359.40,9911,792,0
-91,44,"Referral Program",organic,2022-12-18,consideration,0.00,434.40,3753,37,0
-92,44,"Referral Program",social_media,2022-12-30,awareness,0.00,427.90,3490,314,0
-93,44,"Lead Gen Campaign",paid_search,2023-01-02,conversion,347.00,11.40,9701,194,31
-94,45,"Summer Sale 2024",social_media,2025-01-03,conversion,114.00,64.40,8584,1115,127
-95,45,"Referral Program",referral,2025-01-07,retention,0.00,83.50,2503,350,0
-96,46,"Email Nurture",email,2025-10-07,awareness,0.00,238.90,1996,19,0
-97,47,"Email Nurture",organic,2024-03-21,conversion,429.00,397.70,1023,30,2
-98,47,"Brand Awareness",organic,2024-03-11,conversion,148.00,338.50,1278,178,22
-99,48,"Brand Awareness",social_media,2025-09-01,conversion,408.00,116.40,9907,1287,230
-100,48,"Summer Sale 2024",paid_search,2025-08-19,awareness,0.00,316.70,1279,179,0
-101,48,"Social Media Push",email,2025-09-08,awareness,0.00,477.50,1889,113,0
-102,49,"Email Nurture",email,2025-05-30,awareness,0.00,15.80,8455,930,0
-103,50,"Holiday Special",social_media,2023-05-22,awareness,0.00,91.30,9563,1338,0
-104,50,"Brand Awareness",direct,2023-05-23,retention,0.00,301.80,3469,138,0
-105,51,"Referral Program",paid_search,2025-02-26,consideration,0.00,478.40,7549,905,0
-106,51,"Retargeting Q1",direct,2025-03-10,conversion,499.00,437.50,6234,561,42
-107,52,"Referral Program",paid_search,2023-09-01,consideration,0.00,36.00,301,42,0
-108,52,"Content Marketing",paid_search,2023-09-07,conversion,426.00,419.20,2007,160,4
-109,53,"Email Nurture",paid_search,2024-01-14,awareness,0.00,41.00,4405,88,0
-110,54,"Email Nurture",direct,2024-03-06,conversion,130.00,260.10,7407,740,19
-111,54,"Content Marketing",paid_search,2024-02-18,awareness,0.00,423.70,7708,462,0
-112,54,"Holiday Special",referral,2024-03-03,consideration,0.00,21.80,4761,476,0
-113,55,"Content Marketing",direct,2024-04-28,conversion,177.00,66.20,6469,64,11
-114,56,"Holiday Special",organic,2023-10-07,consideration,0.00,314.20,9466,283,0
-115,57,"Retargeting Q1",email,2024-12-18,awareness,0.00,412.40,7084,1062,0
-116,57,"Referral Program",direct,2025-01-07,conversion,181.00,179.30,5747,574,51
-117,57,"Social Media Push",organic,2024-12-23,awareness,0.00,225.00,5981,239,0
-118,58,"Summer Sale 2024",email,2023-03-19,awareness,0.00,132.70,6642,597,0
-119,59,"Social Media Push",referral,2025-11-04,retention,0.00,89.50,4431,398,0
-120,59,"Content Marketing",paid_search,2025-11-15,conversion,442.00,174.00,1775,177,33
-121,59,"Summer Sale 2024",referral,2025-11-20,consideration,0.00,74.60,4525,181,0
-122,60,"Holiday Special",referral,2023-12-22,consideration,0.00,38.80,3135,376,0
-123,60,"Lead Gen Campaign",organic,2023-12-31,consideration,0.00,124.00,7539,376,0
-124,61,"Product Launch",referral,2023-07-29,conversion,400.00,169.20,3720,111,17
-125,61,"Social Media Push",direct,2023-07-29,consideration,0.00,463.70,6244,624,0
-126,62,"Product Launch",email,2024-06-24,consideration,0.00,272.40,8488,933,0
-127,62,"Referral Program",direct,2024-07-15,consideration,0.00,335.20,920,138,0
-128,63,"Partnership Drive",email,2024-12-25,conversion,102.00,155.40,400,60,6
-129,63,"Social Media Push",referral,2025-01-04,retention,0.00,31.80,876,96,0
-130,63,"Partnership Drive",organic,2025-01-12,conversion,310.00,25.10,7176,789,117
-131,64,"Holiday Special",organic,2023-06-25,retention,0.00,219.70,4943,247,0
-132,64,"Social Media Push",paid_search,2023-07-15,retention,0.00,268.10,3148,62,0
-133,65,"Retargeting Q1",direct,2025-04-04,awareness,0.00,99.40,7087,921,0
-134,65,"Social Media Push",social_media,2025-04-17,consideration,0.00,89.30,4455,579,0
-135,65,"Product Launch",direct,2025-04-12,retention,0.00,297.80,5924,770,0
-136,66,"Lead Gen Campaign",social_media,2024-11-28,retention,0.00,339.80,6034,905,0
-137,67,"Holiday Special",direct,2024-02-07,consideration,0.00,378.30,1208,169,0
-138,67,"Retargeting Q1",organic,2024-02-09,conversion,411.00,478.50,5432,217,2
-139,67,"Lead Gen Campaign",paid_search,2024-02-07,consideration,0.00,255.00,1931,135,0
-140,68,"Referral Program",referral,2025-07-08,awareness,0.00,462.60,1141,68,0
-141,68,"Email Nurture",organic,2025-06-29,retention,0.00,7.40,2359,283,0
-142,69,"Lead Gen Campaign",social_media,2025-04-08,conversion,482.00,21.60,8457,1014,37
-143,69,"Lead Gen Campaign",direct,2025-04-04,consideration,0.00,60.00,7027,772,0
-144,70,"Summer Sale 2024",direct,2025-07-15,conversion,377.00,321.00,2142,42,1
-145,71,"Partnership Drive",organic,2023-01-28,consideration,0.00,332.80,4858,388,0
-146,71,"Referral Program",email,2023-01-26,retention,0.00,200.80,4372,612,0
-147,71,"Summer Sale 2024",organic,2023-01-09,retention,0.00,252.30,8757,700,0
-148,72,"Q4 Growth",paid_search,2025-05-27,conversion,116.00,367.90,1052,42,8
-149,72,"Social Media Push",direct,2025-05-21,retention,0.00,257.20,6829,751,0
-150,72,"Retargeting Q1",email,2025-05-17,awareness,0.00,86.90,5995,719,0
-151,73,"Content Marketing",email,2024-06-08,consideration,0.00,431.60,9895,1187,0
-152,74,"Holiday Special",paid_search,2024-08-03,conversion,359.00,161.10,5840,525,27
-153,74,"Product Launch",social_media,2024-07-19,conversion,426.00,490.70,5434,706,133
-154,75,"Summer Sale 2024",social_media,2023-06-21,retention,0.00,84.00,4799,479,0
-155,75,"Product Launch",paid_search,2023-06-05,consideration,0.00,438.80,142,7,0
-156,76,"Q4 Growth",social_media,2025-05-14,consideration,0.00,85.30,1221,158,0
-157,77,"Partnership Drive",referral,2023-08-22,conversion,470.00,101.70,3226,161,14
-158,78,"Q4 Growth",referral,2025-04-26,awareness,0.00,69.00,1788,17,0
-159,78,"Retargeting Q1",organic,2025-05-11,awareness,0.00,92.90,2762,386,0
-160,78,"Social Media Push",referral,2025-04-28,awareness,0.00,174.00,1836,257,0
-161,79,"Referral Program",paid_search,2023-03-19,retention,0.00,433.50,143,4,0
-162,80,"Q4 Growth",direct,2025-09-25,retention,0.00,358.60,6318,884,0
-163,81,"Lead Gen Campaign",paid_search,2023-12-05,awareness,0.00,372.10,8149,162,0
-164,81,"Email Nurture",social_media,2023-12-19,consideration,0.00,198.80,4294,128,0
-165,81,"Referral Program",direct,2023-11-24,conversion,350.00,422.10,8023,401,32
-166,82,"Holiday Special",direct,2023-04-06,retention,0.00,164.30,8707,522,0
-167,83,"Product Launch",direct,2024-03-29,consideration,0.00,306.90,1945,77,0
-168,83,"Summer Sale 2024",referral,2024-03-28,conversion,192.00,427.60,2437,292,54
-169,84,"Holiday Special",organic,2025-04-09,conversion,472.00,206.60,8923,89,14
-170,84,"Partnership Drive",email,2025-03-23,conversion,265.00,106.20,5667,736,23
-171,84,"Brand Awareness",paid_search,2025-04-16,conversion,52.00,444.20,761,38,3
-172,85,"Content Marketing",referral,2024-08-05,retention,0.00,478.50,8937,983,0
-173,85,"Lead Gen Campaign",paid_search,2024-08-18,conversion,0.00,393.50,2252,22,0
-174,85,"Referral Program",organic,2024-08-09,conversion,82.00,200.20,5897,294,48
-175,86,"Product Launch",organic,2025-04-21,retention,0.00,42.20,394,43,0
-176,86,"Email Nurture",email,2025-04-04,consideration,0.00,352.40,4612,138,0
-177,87,"Email Nurture",organic,2025-08-17,awareness,0.00,401.10,1875,150,0
-178,88,"Summer Sale 2024",organic,2023-08-28,retention,0.00,176.70,4279,256,0
-179,88,"Social Media Push",email,2023-08-20,awareness,0.00,298.20,9462,1040,0
-180,88,"Email Nurture",organic,2023-09-01,conversion,124.00,286.00,8972,897,81
-181,89,"Summer Sale 2024",organic,2025-06-05,conversion,86.00,271.60,2120,84,1
-182,89,"Content Marketing",social_media,2025-06-08,awareness,0.00,184.10,1013,20,0
-183,89,"Social Media Push",paid_search,2025-06-12,awareness,0.00,365.50,6908,207,0
-184,90,"Partnership Drive",paid_search,2025-09-03,conversion,354.00,157.70,4785,574,110
-185,91,"Summer Sale 2024",organic,2023-11-24,retention,0.00,446.20,3570,321,0
-186,92,"Email Nurture",social_media,2025-08-13,retention,0.00,304.10,3838,498,0
-187,92,"Social Media Push",referral,2025-08-22,retention,0.00,226.20,7712,771,0
-188,93,"Retargeting Q1",paid_search,2025-01-29,conversion,314.00,175.70,6710,67,9
-189,94,"Q4 Growth",organic,2023-05-01,awareness,0.00,200.50,7203,504,0
-190,94,"Email Nurture",social_media,2023-04-20,conversion,377.00,101.50,8192,491,84
-191,95,"Referral Program",direct,2025-01-31,consideration,0.00,215.30,1121,156,0
-192,96,"Holiday Special",social_media,2024-08-20,conversion,54.00,135.30,5894,176,19
-193,96,"Retargeting Q1",email,2024-08-11,consideration,0.00,142.80,3385,236,0
-194,97,"Content Marketing",email,2025-10-02,conversion,0.00,176.60,109,9,0
-195,97,"Product Launch",paid_search,2025-09-29,conversion,79.00,264.40,2966,415,20
-196,97,"Product Launch",direct,2025-09-19,conversion,157.00,494.10,8860,1063,209
-197,98,"Social Media Push",direct,2023-03-23,conversion,161.00,238.00,9460,1229,21
-198,98,"Brand Awareness",organic,2023-03-31,consideration,0.00,268.20,4826,386,0
-199,98,"Content Marketing",organic,2023-03-19,retention,0.00,401.00,8120,1055,0
-200,99,"Referral Program",paid_search,2023-07-12,consideration,0.00,26.20,7302,365,0
-201,99,"Lead Gen Campaign",referral,2023-06-28,consideration,0.00,237.70,6084,608,0
-202,100,"Holiday Special",social_media,2024-09-10,conversion,38.00,207.60,6211,683,51
-203,100,"Q4 Growth",referral,2024-08-23,conversion,297.00,119.80,2692,349,63
-204,100,"Email Nurture",referral,2024-09-11,conversion,0.00,259.00,711,71,0
-205,101,"Referral Program",direct,2025-02-06,awareness,0.00,146.30,9997,1399,0
-206,101,"Retargeting Q1",direct,2025-02-15,retention,0.00,239.30,4643,139,0
-207,101,"Retargeting Q1",email,2025-01-26,awareness,0.00,455.80,3488,453,0
-208,102,"Summer Sale 2024",direct,2025-05-06,conversion,200.00,155.50,7107,852,125
-209,102,"Product Launch",social_media,2025-04-22,retention,0.00,255.00,8971,1345,0
-210,102,"Brand Awareness",direct,2025-04-27,awareness,0.00,299.50,4731,141,0
-211,103,"Summer Sale 2024",direct,2025-02-05,consideration,0.00,207.70,8097,1214,0
-212,103,"Brand Awareness",organic,2025-02-04,conversion,114.00,442.30,7243,796,21
-213,104,"Referral Program",email,2025-07-30,consideration,0.00,239.10,8879,799,0
-214,105,"Brand Awareness",email,2023-05-27,awareness,0.00,149.90,3577,357,0
-215,105,"Lead Gen Campaign",organic,2023-05-26,consideration,0.00,445.70,5374,698,0
-216,106,"Brand Awareness",email,2024-08-19,conversion,406.00,189.00,3596,539,50
-217,106,"Q4 Growth",email,2024-08-27,retention,0.00,436.40,9835,196,0
-218,107,"Social Media Push",email,2024-08-24,consideration,0.00,287.90,5966,596,0
-219,107,"Product Launch",paid_search,2024-08-13,consideration,0.00,249.20,2109,231,0
-220,108,"Social Media Push",referral,2023-11-12,retention,0.00,235.90,7929,872,0
-221,109,"Referral Program",organic,2023-01-02,retention,0.00,327.20,8472,254,0
-222,109,"Lead Gen Campaign",direct,2023-01-18,conversion,140.00,215.70,997,9,1
-223,109,"Email Nurture",social_media,2023-01-06,awareness,0.00,11.50,7842,78,0
-224,110,"Referral Program",paid_search,2025-05-17,conversion,453.00,349.10,3068,30,3
-225,110,"Q4 Growth",social_media,2025-06-04,consideration,0.00,372.40,5871,293,0
-226,110,"Summer Sale 2024",organic,2025-05-26,retention,0.00,88.80,6260,438,0
-227,111,"Retargeting Q1",direct,2024-06-21,awareness,0.00,322.60,6318,63,0
-228,111,"Social Media Push",paid_search,2024-07-05,conversion,478.00,281.60,9272,1205,177
-229,112,"Content Marketing",organic,2024-12-21,conversion,222.00,130.60,771,23,2
-230,112,"Email Nurture",organic,2024-12-28,retention,0.00,14.40,1445,158,0
-231,112,"Social Media Push",referral,2025-01-01,awareness,0.00,253.00,9985,299,0
-232,113,"Email Nurture",referral,2025-07-21,conversion,229.00,432.30,6262,250,42
-233,113,"Email Nurture",direct,2025-07-24,awareness,0.00,74.90,6335,316,0
-234,113,"Social Media Push",paid_search,2025-08-06,conversion,397.00,72.50,6067,60,3
-235,114,"Retargeting Q1",direct,2025-05-13,conversion,291.00,452.00,6632,994,81
-236,114,"Content Marketing",social_media,2025-05-07,consideration,0.00,455.40,5407,594,0
-237,115,"Retargeting Q1",referral,2025-01-29,consideration,0.00,388.90,2420,242,0
-238,115,"Content Marketing",social_media,2025-01-29,retention,0.00,366.20,9783,1369,0
-239,115,"Retargeting Q1",email,2025-02-15,retention,0.00,110.90,4323,648,0
-240,116,"Retargeting Q1",email,2025-07-31,conversion,298.00,460.10,1141,102,13
-241,116,"Product Launch",organic,2025-08-15,awareness,0.00,58.70,160,3,0
-242,116,"Product Launch",organic,2025-08-11,conversion,152.00,446.00,4969,248,30
-243,117,"Product Launch",social_media,2024-04-06,awareness,0.00,450.50,3856,385,0
-244,118,"Content Marketing",organic,2023-05-24,retention,0.00,99.50,1352,162,0
-245,118,"Email Nurture",referral,2023-05-31,awareness,0.00,404.70,1753,245,0
-246,119,"Social Media Push",social_media,2025-01-29,conversion,270.00,36.60,2898,28,3
-247,120,"Referral Program",social_media,2024-09-02,retention,0.00,313.10,4874,97,0
-248,121,"Lead Gen Campaign",email,2023-10-19,awareness,0.00,273.70,7203,792,0
-249,122,"Q4 Growth",social_media,2025-01-19,awareness,0.00,282.20,8725,87,0
-250,122,"Holiday Special",organic,2025-02-03,awareness,0.00,316.60,8937,536,0
-251,122,"Partnership Drive",referral,2025-01-09,awareness,0.00,331.60,9264,1111,0
-252,123,"Content Marketing",direct,2025-09-25,conversion,228.00,401.20,2624,341,52
-253,123,"Content Marketing",organic,2025-09-11,awareness,0.00,30.70,2412,337,0
-254,124,"Social Media Push",direct,2024-04-29,awareness,0.00,499.30,7192,215,0
-255,124,"Product Launch",organic,2024-04-24,retention,0.00,322.70,9318,279,0
-256,124,"Social Media Push",direct,2024-05-17,awareness,0.00,347.60,1666,133,0
-257,125,"Social Media Push",referral,2025-07-05,conversion,107.00,314.90,9238,831,63
-258,125,"Email Nurture",referral,2025-07-09,awareness,0.00,91.00,5786,405,0
-259,125,"Referral Program",organic,2025-06-22,consideration,0.00,29.20,7989,479,0
-260,126,"Email Nurture",email,2023-05-14,conversion,275.00,471.20,2886,317,60
-261,126,"Content Marketing",email,2023-05-04,awareness,0.00,366.10,780,93,0
-262,127,"Lead Gen Campaign",paid_search,2025-05-30,awareness,0.00,5.70,1783,178,0
-263,127,"Holiday Special",organic,2025-06-12,conversion,329.00,37.40,8822,441,23
-264,127,"Partnership Drive",social_media,2025-05-17,consideration,0.00,269.90,5233,209,0
-265,128,"Summer Sale 2024",referral,2025-10-25,consideration,0.00,319.00,2364,283,0
-266,128,"Q4 Growth",paid_search,2025-10-11,conversion,99.00,381.20,2111,232,5
-267,129,"Summer Sale 2024",direct,2024-02-19,consideration,0.00,422.70,4643,603,0
-268,129,"Brand Awareness",organic,2024-03-05,conversion,476.00,355.60,2356,282,35
-269,130,"Email Nurture",direct,2023-08-06,retention,0.00,130.80,1923,96,0
-270,130,"Retargeting Q1",referral,2023-07-21,retention,0.00,451.10,6413,513,0
-271,131,"Referral Program",paid_search,2024-02-10,awareness,0.00,150.90,4046,404,0
-272,131,"Brand Awareness",direct,2024-02-21,awareness,0.00,422.00,4545,499,0
-273,131,"Social Media Push",direct,2024-02-24,consideration,0.00,248.30,3832,38,0
-274,132,"Product Launch",paid_search,2024-10-08,conversion,0.00,204.60,241,9,0
-275,132,"Email Nurture",social_media,2024-09-23,retention,0.00,114.10,7099,709,0
-276,132,"Product Launch",organic,2024-09-20,consideration,0.00,469.90,954,143,0
-277,133,"Referral Program",referral,2024-04-26,consideration,0.00,380.90,7116,711,0
-278,133,"Partnership Drive",organic,2024-04-26,conversion,129.00,307.40,8431,674,21
-279,134,"Holiday Special",paid_search,2024-06-21,consideration,0.00,6.30,6896,896,0
-280,135,"Retargeting Q1",paid_search,2025-01-03,conversion,98.00,389.10,8728,872,121
-281,136,"Social Media Push",referral,2023-12-22,retention,0.00,400.30,4218,42,0
-282,137,"Product Launch",organic,2023-01-10,awareness,0.00,360.40,3254,32,0
-283,137,"Partnership Drive",paid_search,2023-01-05,consideration,0.00,126.60,7834,313,0
-284,138,"Q4 Growth",social_media,2025-01-03,retention,0.00,135.00,705,14,0
-285,139,"Holiday Special",organic,2024-03-19,awareness,0.00,471.20,4133,165,0
-286,139,"Summer Sale 2024",referral,2024-03-10,retention,0.00,168.10,4716,518,0
-287,140,"Lead Gen Campaign",organic,2024-10-23,consideration,0.00,315.80,5256,262,0
-288,140,"Product Launch",referral,2024-10-03,awareness,0.00,172.50,6999,559,0
-289,141,"Holiday Special",email,2023-01-09,consideration,0.00,39.50,8684,868,0
-290,142,"Product Launch",direct,2025-06-09,conversion,203.00,360.30,6673,734,136
-291,143,"Partnership Drive",email,2024-09-28,awareness,0.00,74.10,8079,403,0
-292,144,"Summer Sale 2024",direct,2023-01-10,retention,0.00,263.20,6983,977,0
-293,145,"Email Nurture",paid_search,2023-05-04,awareness,0.00,217.60,1285,77,0
-294,145,"Referral Program",referral,2023-04-16,awareness,0.00,224.80,7992,79,0
-295,145,"Referral Program",email,2023-04-17,consideration,0.00,495.90,3646,546,0
-296,146,"Summer Sale 2024",organic,2023-08-18,awareness,0.00,489.60,7416,593,0
-297,146,"Referral Program",referral,2023-08-14,awareness,0.00,436.90,6869,206,0
-298,147,"Email Nurture",social_media,2024-06-06,consideration,0.00,145.60,8732,611,0
-299,148,"Partnership Drive",social_media,2023-08-12,retention,0.00,250.90,4965,496,0
-300,149,"Referral Program",organic,2023-10-14,awareness,0.00,353.50,4019,482,0
-301,150,"Product Launch",direct,2023-09-29,awareness,0.00,112.00,9815,883,0
-302,150,"Social Media Push",organic,2023-09-27,awareness,0.00,334.20,4740,284,0
-303,150,"Product Launch",paid_search,2023-09-03,retention,0.00,238.60,6136,859,0
-304,151,"Lead Gen Campaign",social_media,2025-10-03,retention,0.00,432.40,2214,199,0
-305,152,"Referral Program",direct,2024-09-19,consideration,0.00,47.40,9834,98,0
-306,153,"Content Marketing",social_media,2023-06-27,awareness,0.00,430.10,9035,1264,0
-307,154,"Referral Program",email,2025-06-15,retention,0.00,92.00,6158,246,0
-308,154,"Brand Awareness",referral,2025-05-20,retention,0.00,197.70,4593,413,0
-309,154,"Partnership Drive",referral,2025-05-31,conversion,212.00,452.20,5852,409,68
-310,155,"Partnership Drive",social_media,2025-10-10,conversion,147.00,484.50,8016,1202,94
-311,156,"Email Nurture",social_media,2025-11-09,retention,0.00,57.80,7460,74,0
-312,157,"Retargeting Q1",email,2024-11-09,consideration,0.00,210.30,1036,31,0
-313,157,"Q4 Growth",social_media,2024-11-07,consideration,0.00,177.20,5081,558,0
-314,158,"Holiday Special",direct,2023-02-12,retention,0.00,249.00,1024,30,0
-315,158,"Product Launch",social_media,2023-01-31,conversion,226.00,114.80,5387,700,10
-316,159,"Social Media Push",paid_search,2024-04-21,consideration,0.00,433.80,8406,420,0
-317,159,"Summer Sale 2024",paid_search,2024-04-22,consideration,0.00,60.00,4656,139,0
-318,159,"Email Nurture",referral,2024-04-06,retention,0.00,122.70,9842,984,0
-319,160,"Q4 Growth",organic,2024-10-01,awareness,0.00,123.30,1970,19,0
-320,161,"Product Launch",paid_search,2025-01-21,awareness,0.00,277.80,2900,290,0
-321,162,"Holiday Special",social_media,2023-12-29,conversion,417.00,471.20,8176,899,139
-322,163,"Retargeting Q1",organic,2024-01-28,awareness,0.00,478.50,911,36,0
-323,163,"Social Media Push",social_media,2024-01-29,consideration,0.00,461.40,4591,505,0
-324,164,"Summer Sale 2024",direct,2023-07-26,awareness,0.00,327.00,7627,991,0
-325,165,"Partnership Drive",email,2024-04-04,consideration,0.00,148.30,2544,101,0
-326,165,"Retargeting Q1",organic,2024-03-31,retention,0.00,492.80,6297,692,0
-327,166,"Social Media Push",referral,2023-06-13,awareness,0.00,5.30,9188,1194,0
-328,167,"Brand Awareness",direct,2023-05-01,retention,0.00,145.80,854,85,0
-329,168,"Social Media Push",email,2023-07-10,awareness,0.00,127.90,4714,47,0
-330,169,"Referral Program",email,2025-10-01,conversion,63.00,240.00,6705,67,12
-331,170,"Product Launch",paid_search,2024-02-03,conversion,230.00,38.50,8185,1145,188
-332,170,"Product Launch",organic,2024-02-10,conversion,376.00,334.50,6422,899,149
-333,171,"Retargeting Q1",paid_search,2023-11-10,retention,0.00,139.50,4614,46,0
-334,172,"Product Launch",direct,2025-06-16,consideration,0.00,22.60,5665,453,0
-335,172,"Summer Sale 2024",paid_search,2025-05-23,retention,0.00,497.20,1282,141,0
-336,172,"Referral Program",organic,2025-05-24,consideration,0.00,69.20,1207,96,0
-337,173,"Holiday Special",direct,2024-12-04,consideration,0.00,487.70,4373,568,0
-338,174,"Q4 Growth",social_media,2024-02-27,consideration,0.00,328.40,2924,321,0
-339,174,"Retargeting Q1",direct,2024-03-05,conversion,476.00,177.10,1705,34,2
-340,175,"Referral Program",paid_search,2024-10-18,retention,0.00,310.50,2455,49,0
-341,176,"Lead Gen Campaign",paid_search,2025-03-02,consideration,0.00,25.50,7703,924,0
-342,177,"Lead Gen Campaign",organic,2022-12-17,awareness,0.00,267.90,1597,191,0
-343,177,"Holiday Special",organic,2022-12-28,awareness,0.00,302.20,7906,869,0
-344,178,"Email Nurture",paid_search,2024-03-27,retention,0.00,498.30,4835,725,0
-345,178,"Content Marketing",social_media,2024-03-28,retention,0.00,426.60,3593,179,0
-346,179,"Lead Gen Campaign",email,2025-05-20,conversion,0.00,231.20,100,10,0
-347,180,"Summer Sale 2024",paid_search,2024-09-26,retention,0.00,131.80,8641,518,0
-348,180,"Holiday Special",email,2024-10-01,consideration,0.00,120.30,6533,979,0
-349,181,"Lead Gen Campaign",direct,2025-06-25,conversion,194.00,211.10,8746,1049,199
-350,181,"Lead Gen Campaign",direct,2025-06-24,awareness,0.00,116.00,3901,429,0
-351,181,"Lead Gen Campaign",direct,2025-07-06,retention,0.00,395.20,3306,66,0
-352,182,"Content Marketing",direct,2023-05-01,retention,0.00,108.50,6905,897,0
-353,183,"Partnership Drive",social_media,2025-03-22,conversion,441.00,344.20,5237,523,57
-354,183,"Email Nurture",direct,2025-04-04,conversion,53.00,375.40,2056,102,1
-355,184,"Summer Sale 2024",organic,2025-02-23,conversion,316.00,161.50,5576,780,116
-356,184,"Partnership Drive",organic,2025-02-05,retention,0.00,387.60,803,112,0
-357,184,"Product Launch",referral,2025-02-09,awareness,0.00,106.20,8304,913,0
-358,185,"Partnership Drive",email,2023-08-09,consideration,0.00,84.10,5525,165,0
-359,185,"Referral Program",email,2023-08-14,retention,0.00,311.40,1175,58,0
-360,186,"Product Launch",organic,2023-04-28,awareness,0.00,23.50,3026,242,0
-361,186,"Product Launch",direct,2023-05-10,awareness,0.00,305.30,4203,84,0
-362,187,"Brand Awareness",paid_search,2023-04-26,conversion,400.00,87.50,1268,177,16
-363,188,"Retargeting Q1",referral,2023-04-30,consideration,0.00,358.10,4264,213,0
-364,188,"Product Launch",referral,2023-04-15,conversion,365.00,317.80,3842,345,69
-365,189,"Brand Awareness",email,2024-12-17,consideration,0.00,205.40,270,29,0
-366,189,"Q4 Growth",email,2024-12-17,conversion,262.00,182.50,5445,108,8
-367,190,"Referral Program",referral,2024-03-09,conversion,448.00,75.50,1335,133,18
-368,190,"Q4 Growth",organic,2024-03-21,conversion,153.00,238.20,6333,63,12
-369,191,"Brand Awareness",referral,2024-12-27,awareness,0.00,251.50,9698,484,0
-370,191,"Holiday Special",referral,2025-01-14,retention,0.00,296.90,1483,103,0
-371,191,"Summer Sale 2024",social_media,2024-12-30,conversion,303.00,74.70,5825,233,28
-372,192,"Product Launch",direct,2024-12-06,retention,0.00,423.50,4716,707,0
-373,192,"Social Media Push",paid_search,2024-12-02,conversion,0.00,72.70,282,16,0
-374,192,"Lead Gen Campaign",email,2024-12-23,retention,0.00,455.20,8597,515,0
-375,193,"Q4 Growth",referral,2023-08-15,conversion,382.00,210.40,6454,64,10
-376,194,"Content Marketing",direct,2024-06-12,consideration,0.00,424.40,2670,373,0
-377,194,"Content Marketing",paid_search,2024-06-08,consideration,0.00,73.50,2255,112,0
-378,195,"Product Launch",social_media,2024-10-01,conversion,104.00,207.20,2445,342,40
-379,196,"Q4 Growth",email,2025-06-05,retention,0.00,46.60,5023,200,0
-380,197,"Holiday Special",referral,2024-10-10,awareness,0.00,179.50,5704,627,0
-381,197,"Social Media Push",social_media,2024-09-23,awareness,0.00,407.50,1291,116,0
-382,197,"Retargeting Q1",referral,2024-09-24,consideration,0.00,204.40,7688,615,0
-383,198,"Social Media Push",referral,2025-09-15,awareness,0.00,276.90,792,79,0
-384,198,"Q4 Growth",paid_search,2025-09-29,conversion,152.00,128.30,5370,53,2
-385,198,"Product Launch",organic,2025-10-06,awareness,0.00,53.30,6536,457,0
-386,199,"Email Nurture",social_media,2024-07-24,consideration,0.00,93.50,9439,188,0
-387,200,"Content Marketing",direct,2023-12-25,retention,0.00,191.30,4201,588,0
-388,201,"Holiday Special",email,2025-05-23,awareness,0.00,375.20,7199,71,0
-389,202,"Summer Sale 2024",paid_search,2023-05-28,conversion,42.00,38.30,8670,780,19
-390,202,"Social Media Push",paid_search,2023-05-14,conversion,284.00,176.40,2042,306,6
-391,202,"Summer Sale 2024",social_media,2023-06-01,retention,0.00,176.40,2653,26,0
-392,203,"Product Launch",social_media,2024-02-25,consideration,0.00,224.10,5766,864,0
-393,204,"Content Marketing",referral,2025-09-01,consideration,0.00,190.70,2189,109,0
-394,205,"Product Launch",organic,2025-08-14,awareness,0.00,148.30,5183,155,0
-395,205,"Brand Awareness",social_media,2025-08-03,awareness,0.00,27.40,6451,645,0
-396,206,"Q4 Growth",organic,2023-02-09,retention,0.00,367.60,5089,712,0
-397,206,"Content Marketing",email,2023-02-13,awareness,0.00,333.00,7617,837,0
-398,207,"Product Launch",organic,2025-07-27,retention,0.00,66.60,1346,148,0
-399,207,"Holiday Special",referral,2025-08-21,conversion,174.00,490.30,3242,324,22
-400,207,"Brand Awareness",email,2025-08-07,awareness,0.00,282.80,1924,250,0
-401,208,"Email Nurture",email,2025-08-11,conversion,180.00,291.50,1726,103,13
-402,208,"Holiday Special",direct,2025-08-30,consideration,0.00,352.50,1259,88,0
-403,208,"Referral Program",organic,2025-09-09,awareness,0.00,377.50,1489,208,0
-404,209,"Partnership Drive",organic,2025-11-08,awareness,0.00,142.90,6033,542,0
-405,209,"Referral Program",organic,2025-11-05,consideration,0.00,493.40,9368,281,0
-406,210,"Holiday Special",paid_search,2025-03-26,conversion,77.00,107.20,6559,327,16
-407,210,"Email Nurture",paid_search,2025-04-16,awareness,0.00,273.30,8315,582,0
-408,210,"Referral Program",organic,2025-03-21,retention,0.00,204.20,3107,155,0
-409,211,"Email Nurture",email,2024-01-26,conversion,58.00,441.80,7245,869,132
-410,211,"Content Marketing",social_media,2024-01-21,conversion,66.00,92.90,6476,453,61
-411,211,"Brand Awareness",organic,2024-01-02,awareness,0.00,427.70,9987,499,0
-412,212,"Email Nurture",social_media,2025-10-08,awareness,0.00,272.90,9527,95,0
-413,212,"Lead Gen Campaign",paid_search,2025-11-06,conversion,385.00,199.80,5786,810,144
-414,212,"Lead Gen Campaign",social_media,2025-10-24,conversion,285.00,290.00,9764,976,50
-415,213,"Holiday Special",social_media,2025-11-09,conversion,425.00,84.00,1531,61,6
-416,214,"Retargeting Q1",paid_search,2024-12-08,consideration,0.00,185.90,5261,315,0
-417,214,"Content Marketing",paid_search,2024-12-19,awareness,0.00,445.50,7411,444,0
-418,215,"Social Media Push",organic,2024-09-03,retention,0.00,334.20,6160,308,0
-419,215,"Email Nurture",referral,2024-09-01,consideration,0.00,437.70,5708,57,0
-420,216,"Social Media Push",email,2024-07-30,awareness,0.00,105.70,5564,389,0
-421,216,"Email Nurture",social_media,2024-08-06,awareness,0.00,107.00,2911,203,0
-422,217,"Referral Program",referral,2024-07-29,awareness,0.00,277.70,6011,540,0
-423,217,"Product Launch",paid_search,2024-07-15,retention,0.00,472.60,8297,580,0
-424,217,"Retargeting Q1",direct,2024-07-16,retention,0.00,312.90,3612,397,0
-425,218,"Content Marketing",social_media,2023-05-11,awareness,0.00,353.30,8576,857,0
-426,218,"Email Nurture",email,2023-05-18,consideration,0.00,484.80,8238,329,0
-427,219,"Product Launch",paid_search,2023-03-06,awareness,0.00,291.80,9611,1153,0
-428,220,"Holiday Special",paid_search,2024-02-05,conversion,402.00,201.50,7149,1072,76
-429,220,"Content Marketing",organic,2024-01-17,conversion,104.00,151.60,5046,302,44
-430,220,"Social Media Push",organic,2024-01-22,consideration,0.00,237.30,667,66,0
-431,221,"Social Media Push",organic,2025-06-02,retention,0.00,446.30,3572,285,0
-432,222,"Brand Awareness",social_media,2025-02-25,conversion,146.00,376.60,3420,513,73
-433,223,"Summer Sale 2024",organic,2025-04-17,consideration,0.00,417.50,4271,298,0
-434,224,"Product Launch",email,2024-06-16,retention,0.00,400.40,5769,461,0
-435,224,"Summer Sale 2024",referral,2024-06-11,consideration,0.00,302.80,1011,141,0
-436,225,"Partnership Drive",organic,2025-09-07,consideration,0.00,414.50,5242,471,0
-437,225,"Lead Gen Campaign",referral,2025-09-27,retention,0.00,354.50,4809,288,0
-438,225,"Email Nurture",organic,2025-09-18,consideration,0.00,358.70,4411,308,0
-439,226,"Holiday Special",direct,2024-05-25,awareness,0.00,336.50,2684,107,0
-440,226,"Product Launch",social_media,2024-05-16,conversion,481.00,178.30,662,86,2
-441,227,"Product Launch",email,2022-12-11,consideration,0.00,424.20,522,52,0
-442,227,"Email Nurture",paid_search,2022-12-10,retention,0.00,184.50,5237,209,0
-443,228,"Lead Gen Campaign",organic,2024-04-10,consideration,0.00,402.40,5003,350,0
-444,228,"Email Nurture",email,2024-03-13,awareness,0.00,328.50,3971,595,0
-445,229,"Partnership Drive",referral,2023-08-07,retention,0.00,494.10,616,12,0
-446,229,"Email Nurture",email,2023-08-22,awareness,0.00,443.90,2861,343,0
-447,229,"Email Nurture",social_media,2023-08-28,awareness,0.00,253.40,3046,121,0
-448,230,"Lead Gen Campaign",referral,2025-02-11,awareness,0.00,458.00,9816,294,0
-449,230,"Content Marketing",social_media,2025-02-20,conversion,166.00,144.10,6545,523,11
-450,230,"Holiday Special",social_media,2025-02-28,retention,0.00,477.80,6336,126,0
-451,231,"Email Nurture",paid_search,2025-07-16,consideration,0.00,299.50,2085,104,0
-452,232,"Email Nurture",direct,2023-10-27,awareness,0.00,312.20,3669,256,0
-453,232,"Q4 Growth",referral,2023-11-21,awareness,0.00,260.30,7201,1008,0
-454,232,"Lead Gen Campaign",social_media,2023-10-28,conversion,34.00,253.30,3103,403,54
-455,233,"Content Marketing",paid_search,2024-03-07,conversion,319.00,470.20,2782,55,9
-456,234,"Summer Sale 2024",social_media,2025-08-02,consideration,0.00,49.80,9717,485,0
-457,234,"Holiday Special",referral,2025-08-02,awareness,0.00,291.90,1851,166,0
-458,234,"Social Media Push",social_media,2025-07-15,retention,0.00,23.20,1591,238,0
-459,235,"Social Media Push",direct,2024-02-18,retention,0.00,322.10,5537,498,0
-460,235,"Content Marketing",social_media,2024-03-02,consideration,0.00,204.10,5909,590,0
-461,235,"Summer Sale 2024",organic,2024-02-17,consideration,0.00,478.50,1566,234,0
-462,236,"Lead Gen Campaign",organic,2024-05-13,awareness,0.00,417.10,1552,93,0
-463,237,"Holiday Special",email,2023-03-21,conversion,271.00,321.30,950,47,2
-464,237,"Brand Awareness",paid_search,2023-03-28,conversion,119.00,257.80,6392,830,102
-465,237,"Content Marketing",organic,2023-04-17,awareness,0.00,422.40,3460,207,0
-466,238,"Referral Program",social_media,2024-08-25,awareness,0.00,78.80,7074,141,0
-467,238,"Email Nurture",organic,2024-08-08,consideration,0.00,89.50,5573,445,0
-468,238,"Content Marketing",organic,2024-08-14,retention,0.00,370.90,6997,1049,0
-469,239,"Partnership Drive",social_media,2025-04-15,consideration,0.00,213.50,2230,133,0
-470,240,"Q4 Growth",email,2023-01-11,retention,0.00,230.80,767,53,0
-471,241,"Social Media Push",paid_search,2024-02-09,consideration,0.00,191.30,1100,66,0
-472,242,"Partnership Drive",paid_search,2023-12-20,retention,0.00,255.00,2486,372,0
-473,242,"Email Nurture",referral,2023-12-15,consideration,0.00,352.00,6911,829,0
-474,243,"Email Nurture",organic,2025-09-12,retention,0.00,250.40,9100,910,0
-475,243,"Holiday Special",direct,2025-09-10,consideration,0.00,214.90,7186,215,0
-476,243,"Product Launch",referral,2025-09-08,consideration,0.00,475.50,3811,266,0
-477,244,"Lead Gen Campaign",referral,2024-11-29,retention,0.00,27.90,720,93,0
-478,244,"Lead Gen Campaign",organic,2024-12-06,consideration,0.00,290.50,4346,391,0
-479,244,"Product Launch",social_media,2024-12-04,consideration,0.00,100.80,1931,57,0
-480,245,"Lead Gen Campaign",social_media,2025-07-05,retention,0.00,439.60,6378,892,0
-481,245,"Brand Awareness",paid_search,2025-07-20,conversion,289.00,51.70,2198,153,16
-482,245,"Retargeting Q1",social_media,2025-07-22,consideration,0.00,323.10,9814,196,0
-483,246,"Q4 Growth",organic,2025-07-11,awareness,0.00,478.80,5817,232,0
-484,246,"Product Launch",referral,2025-07-07,awareness,0.00,441.20,7679,76,0
-485,247,"Product Launch",referral,2025-06-07,conversion,45.00,410.80,3767,263,18
-486,248,"Referral Program",referral,2025-09-13,conversion,495.00,35.80,6949,486,57
-487,248,"Partnership Drive",direct,2025-09-17,awareness,0.00,357.80,8492,1019,0
-488,249,"Brand Awareness",referral,2025-10-19,consideration,0.00,420.80,2514,377,0
-489,250,"Referral Program",social_media,2024-10-03,consideration,0.00,104.80,3889,233,0
-490,251,"Lead Gen Campaign",email,2025-03-02,awareness,0.00,185.20,1582,174,0
-491,252,"Social Media Push",direct,2025-03-29,retention,0.00,95.30,2311,115,0
-492,253,"Partnership Drive",paid_search,2025-11-01,conversion,142.00,434.00,9913,991,176
-493,254,"Partnership Drive",direct,2023-06-12,awareness,0.00,269.20,4833,241,0
-494,254,"Q4 Growth",email,2023-06-24,retention,0.00,329.10,2536,329,0
-495,255,"Retargeting Q1",referral,2024-09-10,conversion,0.00,108.40,5304,159,0
-496,256,"Summer Sale 2024",paid_search,2025-10-31,retention,0.00,76.90,778,108,0
-497,257,"Lead Gen Campaign",referral,2024-09-10,retention,0.00,347.90,8218,739,0
-498,257,"Brand Awareness",paid_search,2024-09-02,awareness,0.00,18.80,1349,175,0
-499,257,"Product Launch",referral,2024-09-06,awareness,0.00,481.60,574,86,0
-500,258,"Partnership Drive",direct,2023-05-30,retention,0.00,176.50,9006,810,0
-501,259,"Retargeting Q1",email,2023-09-12,awareness,0.00,265.20,178,26,0
-502,259,"Summer Sale 2024",social_media,2023-08-29,awareness,0.00,335.60,3615,542,0
-503,260,"Referral Program",paid_search,2025-11-16,consideration,0.00,411.00,8904,356,0
-504,260,"Referral Program",direct,2025-11-13,retention,0.00,261.40,6062,121,0
-505,261,"Product Launch",paid_search,2024-01-12,awareness,0.00,131.80,4758,142,0
-506,261,"Referral Program",paid_search,2024-01-19,retention,0.00,452.30,9216,1290,0
-507,262,"Retargeting Q1",referral,2023-12-08,conversion,397.00,328.30,6332,443,80
-508,263,"Summer Sale 2024",referral,2023-12-18,awareness,0.00,269.40,507,15,0
-509,263,"Social Media Push",email,2023-12-13,consideration,0.00,421.60,3418,341,0
-510,263,"Email Nurture",referral,2023-12-19,consideration,0.00,283.90,4560,136,0
-511,264,"Holiday Special",organic,2023-03-07,conversion,297.00,389.80,2047,266,17
-512,265,"Social Media Push",referral,2024-05-25,awareness,0.00,447.20,2326,139,0
-513,266,"Product Launch",organic,2025-06-05,consideration,0.00,271.90,2913,87,0
-514,266,"Q4 Growth",email,2025-06-26,conversion,101.00,457.70,898,89,12
-515,266,"Email Nurture",organic,2025-06-20,consideration,0.00,471.00,7548,603,0
-516,267,"Product Launch",direct,2024-03-28,awareness,0.00,424.40,7672,76,0
-517,268,"Summer Sale 2024",direct,2023-11-11,retention,0.00,110.40,5787,173,0
-518,269,"Q4 Growth",email,2025-03-04,awareness,0.00,298.70,6672,667,0
-519,269,"Product Launch",social_media,2025-03-16,conversion,283.00,23.50,2820,197,32
-520,269,"Brand Awareness",social_media,2025-03-23,retention,0.00,253.40,654,45,0
-521,270,"Holiday Special",paid_search,2025-11-13,retention,0.00,12.50,6324,695,0
-522,271,"Product Launch",organic,2023-03-03,conversion,283.00,450.60,3565,106,11
-523,272,"Partnership Drive",organic,2023-10-25,conversion,384.00,149.60,153,13,2
-524,273,"Social Media Push",paid_search,2024-10-07,awareness,0.00,351.40,3798,379,0
-525,274,"Product Launch",social_media,2025-09-30,conversion,170.00,253.50,2277,45,5
-526,274,"Lead Gen Campaign",paid_search,2025-09-10,awareness,0.00,188.90,6429,128,0
-527,274,"Holiday Special",paid_search,2025-10-02,retention,0.00,385.90,9744,1364,0
-528,275,"Partnership Drive",referral,2024-08-10,consideration,0.00,301.30,7395,1035,0
-529,276,"Q4 Growth",referral,2023-09-28,consideration,0.00,337.70,141,8,0
-530,277,"Q4 Growth",email,2023-09-03,awareness,0.00,7.20,1437,172,0
-531,277,"Partnership Drive",social_media,2023-09-13,awareness,0.00,48.90,6567,788,0
-532,278,"Holiday Special",organic,2024-10-03,awareness,0.00,24.40,4948,445,0
-533,278,"Brand Awareness",paid_search,2024-10-17,awareness,0.00,491.80,2268,158,0
-534,279,"Lead Gen Campaign",referral,2024-05-16,awareness,0.00,461.50,6240,936,0
-535,280,"Product Launch",referral,2023-08-26,awareness,0.00,82.70,6734,134,0
-536,280,"Product Launch",organic,2023-08-29,retention,0.00,355.00,3262,326,0
-537,281,"Retargeting Q1",referral,2024-12-19,consideration,0.00,413.30,901,9,0
-538,281,"Referral Program",social_media,2024-11-24,consideration,0.00,468.10,7796,389,0
-539,282,"Partnership Drive",organic,2025-02-12,conversion,406.00,455.50,5382,592,10
-540,282,"Lead Gen Campaign",paid_search,2025-02-16,awareness,0.00,75.60,8195,573,0
-541,282,"Brand Awareness",referral,2025-02-07,retention,0.00,50.30,1886,150,0
-542,283,"Retargeting Q1",referral,2024-06-18,awareness,0.00,229.30,7708,1156,0
-543,283,"Retargeting Q1",referral,2024-07-09,retention,0.00,370.30,4567,91,0
-544,283,"Summer Sale 2024",social_media,2024-06-16,retention,0.00,361.80,9825,884,0
-545,284,"Q4 Growth",direct,2024-02-17,conversion,60.00,190.10,4859,340,21
-546,285,"Brand Awareness",organic,2023-10-12,awareness,0.00,319.60,3407,102,0
-547,285,"Holiday Special",social_media,2023-10-07,consideration,0.00,139.80,7603,152,0
-548,285,"Social Media Push",direct,2023-10-27,conversion,346.00,358.90,4392,131,10
-549,286,"Summer Sale 2024",social_media,2023-04-04,conversion,307.00,207.50,3843,499,87
-550,286,"Partnership Drive",organic,2023-04-03,awareness,0.00,104.70,4242,636,0
-551,287,"Email Nurture",organic,2024-04-24,retention,0.00,138.40,5447,381,0
-552,287,"Social Media Push",organic,2024-04-12,retention,0.00,424.90,6546,130,0
-553,287,"Lead Gen Campaign",paid_search,2024-04-17,conversion,220.00,122.70,761,76,15
-554,288,"Content Marketing",referral,2023-09-03,consideration,0.00,13.70,9479,853,0
-555,289,"Content Marketing",paid_search,2024-03-30,retention,0.00,191.90,5594,727,0
-556,290,"Holiday Special",direct,2025-01-05,retention,0.00,496.30,7028,632,0
-557,291,"Content Marketing",organic,2023-06-24,retention,0.00,341.50,3373,269,0
-558,291,"Referral Program",direct,2023-06-21,consideration,0.00,124.60,9579,95,0
-559,291,"Holiday Special",paid_search,2023-07-05,awareness,0.00,59.40,6463,323,0
-560,292,"Retargeting Q1",organic,2025-09-19,retention,0.00,224.10,6610,528,0
-561,293,"Q4 Growth",direct,2024-05-22,awareness,0.00,42.70,8348,1001,0
-562,293,"Social Media Push",referral,2024-05-14,consideration,0.00,312.40,3140,376,0
-563,293,"Retargeting Q1",direct,2024-05-14,consideration,0.00,381.30,1215,60,0
-564,294,"Email Nurture",email,2023-08-28,awareness,0.00,91.90,4494,584,0
-565,294,"Referral Program",email,2023-08-21,conversion,58.00,226.50,7178,646,6
-566,294,"Q4 Growth",referral,2023-08-27,consideration,0.00,167.30,303,45,0
-567,295,"Q4 Growth",social_media,2023-12-28,conversion,257.00,79.80,3342,467,25
-568,296,"Product Launch",organic,2025-10-30,consideration,0.00,17.80,5282,581,0
-569,297,"Email Nurture",direct,2025-03-06,awareness,0.00,69.50,4007,320,0
-570,298,"Summer Sale 2024",referral,2023-05-27,conversion,266.00,257.70,7626,686,63
-571,299,"Summer Sale 2024",organic,2025-05-07,retention,0.00,216.60,838,33,0
-572,300,"Product Launch",organic,2025-03-21,consideration,0.00,290.10,1514,105,0
-573,300,"Summer Sale 2024",paid_search,2025-03-12,retention,0.00,262.00,1833,274,0
-574,301,"Product Launch",email,2024-10-08,retention,0.00,10.20,831,66,0
-575,301,"Referral Program",social_media,2024-09-21,retention,0.00,246.70,3316,165,0
-576,302,"Holiday Special",paid_search,2023-04-22,retention,0.00,100.20,9368,281,0
-577,302,"Brand Awareness",social_media,2023-03-28,awareness,0.00,422.70,5703,57,0
-578,303,"Retargeting Q1",direct,2023-05-05,retention,0.00,250.40,2692,242,0
-579,304,"Summer Sale 2024",paid_search,2024-02-18,awareness,0.00,137.60,7651,535,0
-580,304,"Product Launch",organic,2024-03-05,retention,0.00,110.20,4951,247,0
-581,305,"Social Media Push",direct,2025-05-28,consideration,0.00,239.80,7301,1095,0
-582,305,"Product Launch",email,2025-05-29,conversion,68.00,108.90,9674,1257,129
-583,306,"Brand Awareness",email,2023-05-31,awareness,0.00,6.70,4243,466,0
-584,307,"Content Marketing",referral,2025-01-10,consideration,0.00,434.40,920,128,0
-585,307,"Lead Gen Campaign",organic,2025-01-02,retention,0.00,71.30,8759,700,0
-586,307,"Product Launch",organic,2025-01-03,consideration,0.00,24.30,1789,71,0
-587,308,"Email Nurture",social_media,2023-01-17,retention,0.00,298.90,4591,229,0
-588,309,"Partnership Drive",email,2024-03-24,retention,0.00,486.00,2258,45,0
-589,309,"Partnership Drive",organic,2024-03-12,retention,0.00,311.60,9984,199,0
-590,309,"Summer Sale 2024",paid_search,2024-03-13,awareness,0.00,375.90,4992,399,0
-591,310,"Brand Awareness",referral,2023-09-12,conversion,29.00,492.60,5299,158,6
-592,311,"Q4 Growth",direct,2023-09-28,retention,0.00,96.30,5525,773,0
-593,311,"Email Nurture",direct,2023-09-13,consideration,0.00,367.90,9054,452,0
-594,312,"Email Nurture",organic,2024-07-28,consideration,0.00,316.80,4007,120,0
-595,313,"Holiday Special",paid_search,2025-08-10,consideration,0.00,61.20,3611,144,0
-596,313,"Social Media Push",social_media,2025-08-17,awareness,0.00,359.70,3285,131,0
-597,314,"Brand Awareness",paid_search,2025-11-23,consideration,0.00,466.80,3434,377,0
-598,314,"Social Media Push",organic,2025-10-30,conversion,247.00,172.50,6454,903,62
-599,315,"Referral Program",social_media,2025-03-21,awareness,0.00,426.10,1223,146,0
-600,316,"Retargeting Q1",referral,2024-09-05,consideration,0.00,119.60,7132,1069,0
-601,316,"Partnership Drive",social_media,2024-09-26,retention,0.00,419.70,7405,1110,0
-602,317,"Summer Sale 2024",email,2025-04-21,consideration,0.00,97.80,1496,179,0
-603,318,"Content Marketing",paid_search,2024-07-16,awareness,0.00,139.80,5481,219,0
-604,318,"Q4 Growth",email,2024-07-18,awareness,0.00,32.50,2882,201,0
-605,318,"Referral Program",paid_search,2024-08-03,awareness,0.00,200.80,6814,476,0
-606,319,"Email Nurture",paid_search,2025-05-07,retention,0.00,12.50,8038,964,0
-607,319,"Retargeting Q1",organic,2025-05-30,awareness,0.00,305.60,7138,642,0
-608,319,"Lead Gen Campaign",referral,2025-05-09,consideration,0.00,83.50,1471,161,0
-609,320,"Lead Gen Campaign",paid_search,2023-03-10,consideration,0.00,99.00,4751,332,0
-610,320,"Social Media Push",email,2023-03-18,consideration,0.00,376.30,9015,991,0
-611,320,"Product Launch",organic,2023-03-20,consideration,0.00,29.70,8281,1076,0
-612,321,"Retargeting Q1",organic,2025-08-20,awareness,0.00,208.80,1159,46,0
-613,322,"Summer Sale 2024",email,2024-07-30,consideration,0.00,402.70,1221,36,0
-614,322,"Content Marketing",referral,2024-08-05,awareness,0.00,479.00,461,59,0
-615,323,"Social Media Push",organic,2024-03-25,conversion,259.00,128.90,9986,1398,184
-616,323,"Social Media Push",referral,2024-03-03,retention,0.00,441.30,6532,522,0
-617,324,"Social Media Push",direct,2025-10-10,consideration,0.00,444.70,6250,937,0
-618,324,"Email Nurture",referral,2025-11-03,awareness,0.00,105.40,663,46,0
-619,324,"Product Launch",email,2025-10-08,retention,0.00,79.00,4269,128,0
-620,325,"Holiday Special",paid_search,2024-09-02,awareness,0.00,449.70,5189,726,0
-621,325,"Q4 Growth",referral,2024-08-25,awareness,0.00,230.80,4151,622,0
-622,325,"Summer Sale 2024",email,2024-08-13,awareness,0.00,121.80,1080,140,0
-623,326,"Referral Program",direct,2024-03-17,conversion,375.00,399.40,7444,223,4
-624,327,"Product Launch",social_media,2024-03-02,retention,0.00,115.70,3524,70,0
-625,328,"Brand Awareness",direct,2025-03-13,consideration,0.00,389.20,7740,541,0
-626,328,"Content Marketing",referral,2025-02-23,conversion,281.00,144.20,9236,92,15
-627,329,"Product Launch",organic,2024-01-17,conversion,267.00,153.50,5958,893,160
-628,329,"Social Media Push",referral,2024-01-25,conversion,36.00,480.30,7307,1096,160
-629,329,"Content Marketing",direct,2024-01-24,awareness,0.00,498.00,830,116,0
-630,330,"Email Nurture",referral,2025-05-28,awareness,0.00,302.10,5139,616,0
-631,330,"Holiday Special",direct,2025-05-22,awareness,0.00,346.30,8068,161,0
-632,331,"Product Launch",social_media,2024-12-06,retention,0.00,238.00,7875,551,0
-633,332,"Retargeting Q1",email,2023-05-24,retention,0.00,166.30,5120,51,0
-634,332,"Retargeting Q1",email,2023-06-15,conversion,178.00,333.50,1362,95,7
-635,333,"Product Launch",social_media,2025-04-30,retention,0.00,199.40,2480,322,0
-636,333,"Referral Program",direct,2025-05-06,consideration,0.00,443.20,9248,647,0
-637,334,"Referral Program",social_media,2024-10-24,consideration,0.00,209.20,952,66,0
-638,334,"Holiday Special",email,2024-11-07,conversion,199.00,319.20,244,21,2
-639,335,"Content Marketing",social_media,2023-09-15,consideration,0.00,171.50,9345,654,0
-640,336,"Q4 Growth",email,2024-03-21,consideration,0.00,237.50,7930,317,0
-641,337,"Summer Sale 2024",email,2025-02-05,retention,0.00,138.40,1786,214,0
-642,337,"Social Media Push",email,2025-01-31,consideration,0.00,371.80,3350,167,0
-643,338,"Social Media Push",email,2024-11-05,consideration,0.00,277.60,5178,414,0
-644,338,"Holiday Special",direct,2024-10-24,conversion,371.00,387.50,6745,67,9
-645,339,"Lead Gen Campaign",direct,2024-06-05,retention,0.00,153.70,1286,25,0
-646,339,"Retargeting Q1",organic,2024-05-20,retention,0.00,216.50,844,16,0
-647,340,"Partnership Drive",social_media,2025-04-23,consideration,0.00,296.20,1963,58,0
-648,341,"Content Marketing",email,2023-03-09,retention,0.00,299.90,6353,762,0
-649,341,"Lead Gen Campaign",social_media,2023-02-23,conversion,245.00,369.60,3570,35,6
-650,342,"Summer Sale 2024",paid_search,2025-02-19,retention,0.00,183.70,6914,829,0
-651,343,"Q4 Growth",email,2025-07-13,awareness,0.00,282.30,3853,38,0
-652,344,"Content Marketing",referral,2024-08-05,conversion,200.00,390.30,438,21,2
-653,344,"Retargeting Q1",referral,2024-07-13,conversion,198.00,291.90,2341,257,3
-654,344,"Brand Awareness",organic,2024-07-27,consideration,0.00,439.00,8685,86,0
-655,345,"Brand Awareness",referral,2024-09-07,awareness,0.00,464.80,1776,71,0
-656,345,"Product Launch",direct,2024-09-05,conversion,92.00,239.60,4598,551,100
-657,346,"Summer Sale 2024",paid_search,2024-11-14,consideration,0.00,310.70,7923,316,0
-658,346,"Product Launch",email,2024-11-13,conversion,121.00,459.80,1021,132,14
-659,347,"Content Marketing",social_media,2025-10-12,awareness,0.00,417.80,7300,584,0
-660,348,"Summer Sale 2024",referral,2025-06-14,retention,0.00,321.90,4381,175,0
-661,348,"Content Marketing",social_media,2025-06-30,retention,0.00,381.20,4010,601,0
-662,348,"Referral Program",email,2025-06-19,consideration,0.00,372.00,2076,269,0
-663,349,"Brand Awareness",referral,2024-10-25,consideration,0.00,126.70,8656,1125,0
-664,349,"Lead Gen Campaign",organic,2024-10-15,retention,0.00,470.00,3910,273,0
-665,349,"Content Marketing",email,2024-10-09,conversion,156.00,489.00,5953,773,49
-666,350,"Summer Sale 2024",direct,2025-02-12,awareness,0.00,436.50,886,8,0
-667,350,"Retargeting Q1",referral,2025-01-23,retention,0.00,57.70,4453,311,0
-668,351,"Retargeting Q1",social_media,2024-04-28,consideration,0.00,136.80,1278,51,0
-669,351,"Holiday Special",referral,2024-05-05,awareness,0.00,80.60,9422,471,0
-670,351,"Summer Sale 2024",direct,2024-05-19,retention,0.00,308.50,5342,747,0
-671,352,"Product Launch",direct,2023-05-13,retention,0.00,490.70,433,12,0
-672,352,"Brand Awareness",organic,2023-05-19,consideration,0.00,456.30,5274,474,0
-673,353,"Social Media Push",email,2024-11-15,consideration,0.00,461.40,8598,601,0
-674,353,"Email Nurture",organic,2024-11-25,retention,0.00,435.00,6839,136,0
-675,353,"Referral Program",direct,2024-10-27,awareness,0.00,307.40,6920,69,0
-676,354,"Brand Awareness",referral,2023-02-06,conversion,489.00,52.60,6443,257,43
-677,354,"Q4 Growth",referral,2023-01-29,retention,0.00,238.10,9552,668,0
-678,355,"Product Launch",social_media,2023-09-30,conversion,455.00,32.80,7234,361,42
-679,355,"Retargeting Q1",paid_search,2023-09-27,conversion,393.00,266.80,5611,392,18
-680,355,"Lead Gen Campaign",referral,2023-10-02,conversion,411.00,126.10,7451,521,61
-681,356,"Content Marketing",email,2023-03-12,conversion,89.00,79.40,4881,536,31
-682,357,"Content Marketing",paid_search,2024-12-20,retention,0.00,192.40,1243,24,0
-683,357,"Lead Gen Campaign",direct,2024-12-14,retention,0.00,15.20,8410,672,0
-684,357,"Q4 Growth",social_media,2025-01-04,conversion,333.00,69.90,5028,502,98
-685,358,"Partnership Drive",direct,2024-01-03,consideration,0.00,263.00,9670,96,0
-686,358,"Retargeting Q1",email,2024-01-08,retention,0.00,487.20,5445,217,0
-687,358,"Referral Program",direct,2024-01-11,conversion,397.00,188.40,1947,194,13
-688,359,"Lead Gen Campaign",referral,2023-09-17,awareness,0.00,119.00,2347,305,0
-689,359,"Referral Program",social_media,2023-09-14,consideration,0.00,75.80,8630,604,0
-690,360,"Partnership Drive",paid_search,2025-01-06,retention,0.00,495.20,8037,321,0
-691,360,"Product Launch",organic,2024-12-31,awareness,0.00,155.10,484,43,0
-692,360,"Product Launch",referral,2024-12-28,retention,0.00,290.40,5684,568,0
-693,361,"Holiday Special",referral,2023-04-11,consideration,0.00,360.70,6380,574,0
-694,361,"Partnership Drive",paid_search,2023-04-19,conversion,471.00,466.80,9530,667,26
-695,362,"Lead Gen Campaign",social_media,2025-04-30,awareness,0.00,463.70,9682,968,0
-696,362,"Partnership Drive",organic,2025-05-02,consideration,0.00,184.30,3399,135,0
-697,363,"Partnership Drive",email,2023-07-27,consideration,0.00,165.40,1821,218,0
-698,364,"Social Media Push",email,2025-06-13,conversion,293.00,91.10,2172,195,39
-699,364,"Partnership Drive",direct,2025-06-20,conversion,426.00,333.50,6556,917,58
-700,364,"Holiday Special",organic,2025-07-05,consideration,0.00,295.70,276,35,0
-701,365,"Retargeting Q1",social_media,2025-02-03,consideration,0.00,346.00,1552,170,0
-702,365,"Summer Sale 2024",email,2025-02-07,consideration,0.00,286.50,1931,154,0
-703,366,"Social Media Push",referral,2024-01-15,retention,0.00,194.80,8901,178,0
-704,366,"Partnership Drive",social_media,2024-02-05,consideration,0.00,302.50,9881,1284,0
-705,366,"Q4 Growth",organic,2024-01-10,consideration,0.00,13.70,1093,10,0
-706,367,"Social Media Push",organic,2025-07-22,awareness,0.00,482.10,144,1,0
-707,367,"Q4 Growth",referral,2025-07-28,conversion,426.00,86.90,8002,800,73
-708,368,"Q4 Growth",direct,2023-02-10,awareness,0.00,259.70,7867,865,0
-709,368,"Summer Sale 2024",organic,2023-02-05,consideration,0.00,370.70,5085,711,0
-710,369,"Social Media Push",paid_search,2025-10-28,awareness,0.00,120.50,1953,195,0
-711,369,"Lead Gen Campaign",email,2025-10-27,retention,0.00,339.90,9364,280,0
-712,370,"Partnership Drive",referral,2022-12-28,consideration,0.00,41.40,4366,130,0
-713,370,"Social Media Push",organic,2023-01-06,retention,0.00,430.70,8251,577,0
-714,370,"Product Launch",direct,2023-01-03,retention,0.00,456.10,7713,385,0
-715,371,"Content Marketing",referral,2025-06-26,retention,0.00,96.10,7354,220,0
-716,371,"Holiday Special",social_media,2025-06-26,awareness,0.00,420.10,7710,231,0
-717,371,"Holiday Special",direct,2025-07-14,awareness,0.00,222.70,5349,374,0
-718,372,"Product Launch",email,2025-04-27,awareness,0.00,170.70,9642,385,0
-719,372,"Retargeting Q1",organic,2025-05-06,consideration,0.00,325.80,349,38,0
-720,372,"Referral Program",organic,2025-05-07,awareness,0.00,342.70,466,4,0
-721,373,"Summer Sale 2024",referral,2025-07-25,conversion,132.00,447.00,385,46,2
-722,373,"Q4 Growth",direct,2025-07-06,conversion,171.00,8.20,3845,307,14
-723,373,"Summer Sale 2024",direct,2025-07-08,awareness,0.00,437.40,3437,103,0
-724,374,"Social Media Push",direct,2023-06-25,conversion,0.00,90.00,230,18,0
-725,375,"Social Media Push",paid_search,2023-03-13,retention,0.00,270.50,6770,1015,0
-726,376,"Referral Program",organic,2023-01-21,retention,0.00,142.90,3063,336,0
-727,377,"Retargeting Q1",organic,2024-05-22,retention,0.00,46.60,5198,727,0
-728,377,"Brand Awareness",direct,2024-05-25,retention,0.00,284.50,706,77,0
-729,378,"Content Marketing",paid_search,2023-06-10,consideration,0.00,340.60,4008,240,0
-730,378,"Q4 Growth",paid_search,2023-05-23,conversion,82.00,253.10,1653,132,18
-731,379,"Partnership Drive",direct,2023-10-23,conversion,0.00,239.00,6268,62,0
-732,380,"Holiday Special",organic,2024-08-14,retention,0.00,162.50,3974,516,0
-733,380,"Referral Program",referral,2024-09-01,retention,0.00,496.20,5084,101,0
-734,381,"Holiday Special",direct,2025-03-20,conversion,144.00,408.30,475,42,3
-735,381,"Holiday Special",paid_search,2025-03-14,consideration,0.00,129.70,8647,1037,0
-736,381,"Social Media Push",email,2025-03-11,conversion,227.00,341.60,8853,442,59
-737,382,"Brand Awareness",paid_search,2024-03-14,conversion,333.00,14.40,7430,965,105
-738,382,"Referral Program",email,2024-03-10,conversion,368.00,27.00,2354,70,11
-739,383,"Summer Sale 2024",direct,2025-01-12,awareness,0.00,454.60,2380,47,0
-740,383,"Referral Program",paid_search,2024-12-30,awareness,0.00,212.20,7469,149,0
-741,384,"Brand Awareness",social_media,2023-12-23,retention,0.00,485.00,5404,378,0
-742,384,"Social Media Push",referral,2023-12-12,conversion,99.00,95.90,3542,354,4
-743,384,"Holiday Special",social_media,2023-12-07,retention,0.00,343.40,8428,337,0
-744,385,"Partnership Drive",direct,2024-07-04,consideration,0.00,55.60,9864,394,0
-745,386,"Content Marketing",paid_search,2025-06-14,awareness,0.00,391.50,7858,235,0
-746,386,"Q4 Growth",email,2025-06-21,conversion,264.00,401.10,5889,117,13
-747,387,"Email Nurture",organic,2024-06-03,conversion,312.00,263.30,8795,175,11
-748,387,"Retargeting Q1",referral,2024-05-21,conversion,190.00,136.70,8052,805,38
-749,387,"Email Nurture",direct,2024-05-25,conversion,384.00,461.60,1930,77,13
-750,388,"Brand Awareness",social_media,2025-01-27,conversion,118.00,230.70,4035,40,7
-751,388,"Brand Awareness",paid_search,2025-02-08,consideration,0.00,87.30,3421,136,0
-752,389,"Holiday Special",organic,2023-05-03,conversion,30.00,194.30,3252,325,12
-753,389,"Partnership Drive",direct,2023-05-09,awareness,0.00,415.10,8954,179,0
-754,389,"Partnership Drive",organic,2023-05-22,conversion,428.00,131.30,499,49,2
-755,390,"Content Marketing",direct,2023-10-15,retention,0.00,392.90,9966,199,0
-756,390,"Partnership Drive",referral,2023-10-16,retention,0.00,414.00,4204,462,0
-757,390,"Summer Sale 2024",paid_search,2023-10-30,awareness,0.00,267.70,432,8,0
-758,391,"Brand Awareness",paid_search,2025-10-19,awareness,0.00,24.60,6171,802,0
-759,391,"Q4 Growth",social_media,2025-10-03,consideration,0.00,384.60,8044,563,0
-760,391,"Holiday Special",social_media,2025-10-07,retention,0.00,266.60,6514,260,0
-761,392,"Brand Awareness",email,2024-10-28,awareness,0.00,230.70,2404,264,0
-762,392,"Email Nurture",paid_search,2024-10-27,consideration,0.00,331.50,6535,849,0
-763,392,"Partnership Drive",social_media,2024-11-02,retention,0.00,95.10,3570,285,0
-764,393,"Q4 Growth",direct,2024-06-17,consideration,0.00,181.40,8543,256,0
-765,393,"Email Nurture",referral,2024-06-12,conversion,290.00,203.70,9381,1125,95
-766,393,"Summer Sale 2024",paid_search,2024-07-01,retention,0.00,276.40,9314,838,0
-767,394,"Content Marketing",social_media,2024-05-17,conversion,321.00,296.20,9422,565,16
-768,394,"Holiday Special",social_media,2024-05-10,conversion,38.00,223.20,1697,203,22
-769,395,"Partnership Drive",referral,2025-02-18,conversion,200.00,476.20,966,19,1
-770,395,"Brand Awareness",organic,2025-02-20,retention,0.00,183.40,8616,1120,0
-771,395,"Retargeting Q1",organic,2025-02-27,retention,0.00,61.50,5424,162,0
-772,396,"Summer Sale 2024",organic,2025-04-14,retention,0.00,361.00,1003,70,0
-773,396,"Referral Program",organic,2025-04-18,conversion,40.00,439.90,5454,654,87
-774,396,"Lead Gen Campaign",social_media,2025-04-14,conversion,320.00,124.20,2924,175,34
-775,397,"Holiday Special",referral,2023-03-13,retention,0.00,397.40,6385,255,0
-776,398,"Retargeting Q1",organic,2025-10-11,consideration,0.00,415.20,7275,727,0
-777,399,"Product Launch",paid_search,2025-05-07,retention,0.00,233.60,8337,250,0
-778,399,"Product Launch",email,2025-05-16,consideration,0.00,306.20,3351,469,0
-779,400,"Brand Awareness",organic,2024-03-19,awareness,0.00,9.90,5704,627,0
-780,400,"Q4 Growth",direct,2024-03-24,awareness,0.00,321.00,5519,772,0
-781,401,"Email Nurture",email,2025-08-04,retention,0.00,253.20,9048,723,0
-782,402,"Content Marketing",paid_search,2023-09-09,awareness,0.00,400.40,8193,245,0
-783,402,"Partnership Drive",organic,2023-09-06,conversion,432.00,184.20,4616,276,34
-784,403,"Summer Sale 2024",paid_search,2024-03-03,conversion,417.00,182.30,3228,96,10
-785,403,"Partnership Drive",email,2024-03-02,consideration,0.00,50.80,2731,218,0
-786,404,"Product Launch",email,2023-12-21,conversion,216.00,70.20,1847,92,12
-787,405,"Summer Sale 2024",referral,2023-10-03,awareness,0.00,294.70,2274,181,0
-788,405,"Content Marketing",referral,2023-10-16,retention,0.00,391.40,8343,83,0
-789,406,"Content Marketing",organic,2024-07-03,consideration,0.00,455.90,7635,687,0
-790,407,"Retargeting Q1",organic,2024-08-09,awareness,0.00,335.80,8887,1333,0
-791,407,"Social Media Push",organic,2024-07-29,awareness,0.00,192.30,7863,1100,0
-792,407,"Brand Awareness",email,2024-08-10,conversion,454.00,401.80,5274,158,10
-793,408,"Product Launch",paid_search,2023-08-08,conversion,174.00,199.80,1867,280,37
-794,408,"Email Nurture",organic,2023-07-28,consideration,0.00,104.30,6359,190,0
-795,408,"Lead Gen Campaign",social_media,2023-07-26,retention,0.00,129.30,8777,87,0
-796,409,"Referral Program",referral,2025-11-12,consideration,0.00,286.20,8089,970,0
-797,410,"Social Media Push",email,2023-01-24,awareness,0.00,369.70,9492,284,0
-798,410,"Lead Gen Campaign",email,2023-01-22,consideration,0.00,499.80,1855,111,0
-799,410,"Summer Sale 2024",organic,2023-01-15,conversion,166.00,109.80,3881,271,24
-800,411,"Content Marketing",organic,2023-07-12,retention,0.00,186.60,4637,649,0
-801,411,"Social Media Push",direct,2023-07-30,conversion,301.00,235.00,6110,427,17
-802,412,"Partnership Drive",email,2023-05-03,conversion,137.00,335.70,9193,1378,256
-803,412,"Referral Program",email,2023-05-14,retention,0.00,338.50,1657,149,0
-804,412,"Referral Program",social_media,2023-05-15,consideration,0.00,326.60,9254,92,0
-805,413,"Email Nurture",social_media,2024-01-19,awareness,0.00,75.90,684,34,0
-806,413,"Lead Gen Campaign",organic,2024-01-19,retention,0.00,343.90,6463,904,0
-807,413,"Content Marketing",paid_search,2024-01-23,conversion,161.00,367.30,4561,319,28
-808,414,"Social Media Push",social_media,2023-07-20,awareness,0.00,175.50,2318,23,0
-809,414,"Q4 Growth",social_media,2023-07-01,retention,0.00,361.20,9815,981,0
-810,415,"Brand Awareness",referral,2023-01-09,retention,0.00,269.30,6965,696,0
-811,415,"Partnership Drive",referral,2023-01-04,awareness,0.00,376.90,6650,199,0
-812,416,"Summer Sale 2024",direct,2025-07-11,conversion,56.00,337.70,7415,667,47
-813,416,"Summer Sale 2024",social_media,2025-07-08,consideration,0.00,6.20,5269,263,0
-814,416,"Product Launch",referral,2025-06-28,conversion,377.00,30.80,2183,218,30
-815,417,"Lead Gen Campaign",social_media,2024-05-16,consideration,0.00,204.10,3056,183,0
-816,417,"Product Launch",referral,2024-06-01,conversion,413.00,215.90,424,33,2
-817,418,"Referral Program",social_media,2023-04-12,awareness,0.00,446.20,9104,910,0
-818,418,"Lead Gen Campaign",direct,2023-04-25,conversion,165.00,259.10,2307,299,20
-819,418,"Social Media Push",direct,2023-04-17,awareness,0.00,183.80,5057,505,0
-820,419,"Summer Sale 2024",direct,2023-03-04,retention,0.00,492.50,748,97,0
-821,419,"Product Launch",email,2023-03-10,awareness,0.00,330.40,8244,1154,0
-822,419,"Summer Sale 2024",email,2023-02-24,retention,0.00,292.20,8052,885,0
-823,420,"Product Launch",direct,2025-07-20,consideration,0.00,396.90,1705,85,0
-824,420,"Content Marketing",paid_search,2025-07-17,awareness,0.00,144.70,2197,109,0
-825,421,"Content Marketing",paid_search,2023-05-27,retention,0.00,260.70,2825,84,0
-826,421,"Partnership Drive",social_media,2023-05-16,awareness,0.00,433.80,6968,975,0
-827,421,"Referral Program",social_media,2023-05-29,conversion,141.00,59.90,7093,212,42
-828,422,"Email Nurture",direct,2023-12-27,conversion,361.00,270.10,9783,489,47
-829,423,"Social Media Push",organic,2023-10-12,retention,0.00,398.40,3163,158,0
-830,423,"Referral Program",social_media,2023-10-20,awareness,0.00,275.20,5452,817,0
-831,423,"Summer Sale 2024",direct,2023-11-02,conversion,0.00,173.70,7582,682,0
-832,424,"Partnership Drive",referral,2024-12-27,consideration,0.00,382.30,5003,400,0
-833,424,"Summer Sale 2024",social_media,2024-12-20,consideration,0.00,464.40,2793,223,0
-834,424,"Holiday Special",referral,2024-12-06,consideration,0.00,278.70,137,8,0
-835,425,"Lead Gen Campaign",social_media,2024-07-22,awareness,0.00,318.90,4943,543,0
-836,425,"Brand Awareness",social_media,2024-07-10,conversion,442.00,468.20,4752,332,42
-837,426,"Retargeting Q1",social_media,2023-06-29,conversion,394.00,39.70,3776,566,113
-838,426,"Content Marketing",email,2023-07-12,awareness,0.00,187.20,1776,177,0
-839,426,"Social Media Push",paid_search,2023-06-29,conversion,331.00,402.40,8358,835,44
-840,427,"Summer Sale 2024",direct,2024-11-23,consideration,0.00,237.30,8768,1227,0
-841,427,"Q4 Growth",paid_search,2024-12-08,retention,0.00,481.90,3017,301,0
-842,428,"Retargeting Q1",direct,2025-09-15,conversion,460.00,212.90,4337,86,13
-843,428,"Referral Program",organic,2025-09-17,conversion,479.00,56.30,8679,954,96
-844,428,"Social Media Push",social_media,2025-10-01,conversion,360.00,223.90,7324,439,16
-845,429,"Brand Awareness",direct,2024-07-26,conversion,159.00,25.00,5234,104,9
-846,429,"Holiday Special",social_media,2024-07-26,awareness,0.00,350.60,2107,316,0
-847,430,"Email Nurture",referral,2024-06-30,awareness,0.00,406.60,6181,618,0
-848,431,"Partnership Drive",referral,2023-05-27,conversion,440.00,174.00,2168,303,13
-849,431,"Referral Program",paid_search,2023-06-02,conversion,194.00,160.10,6405,640,114
-850,431,"Q4 Growth",email,2023-06-01,retention,0.00,373.40,5923,829,0
-851,432,"Partnership Drive",organic,2024-11-12,consideration,0.00,416.50,3122,343,0
-852,432,"Summer Sale 2024",paid_search,2024-11-06,consideration,0.00,121.40,2647,158,0
-853,432,"Holiday Special",social_media,2024-11-25,retention,0.00,365.90,1485,178,0
-854,433,"Brand Awareness",social_media,2023-08-27,retention,0.00,299.30,2275,68,0
-855,434,"Q4 Growth",organic,2024-05-09,awareness,0.00,98.60,5229,575,0
-856,434,"Social Media Push",paid_search,2024-04-11,conversion,386.00,409.10,322,48,7
-857,434,"Referral Program",organic,2024-04-21,consideration,0.00,370.30,8387,419,0
-858,435,"Product Launch",social_media,2023-07-09,retention,0.00,437.50,8378,83,0
-859,435,"Q4 Growth",direct,2023-07-22,consideration,0.00,157.40,1381,207,0
-860,435,"Product Launch",referral,2023-07-04,conversion,52.00,420.20,5262,315,5
-861,436,"Retargeting Q1",social_media,2023-03-05,consideration,0.00,44.40,4462,312,0
-862,436,"Lead Gen Campaign",organic,2023-03-04,conversion,316.00,472.20,1765,52,1
-863,437,"Q4 Growth",organic,2024-03-04,awareness,0.00,96.70,8536,597,0
-864,438,"Referral Program",organic,2024-10-19,retention,0.00,267.00,1259,100,0
-865,439,"Email Nurture",organic,2025-02-03,retention,0.00,221.80,9857,887,0
-866,439,"Partnership Drive",social_media,2025-01-21,retention,0.00,138.50,6859,823,0
-867,440,"Content Marketing",email,2023-01-06,awareness,0.00,450.70,3863,386,0
-868,440,"Product Launch",social_media,2023-01-10,conversion,0.00,453.80,739,22,0
-869,440,"Content Marketing",organic,2023-01-24,conversion,435.00,249.80,3481,34,5
-870,441,"Partnership Drive",social_media,2023-09-30,conversion,40.00,492.20,8018,561,16
-871,441,"Lead Gen Campaign",referral,2023-10-20,awareness,0.00,48.00,274,41,0
-872,442,"Partnership Drive",referral,2025-03-09,conversion,235.00,107.30,4066,447,81
-873,442,"Email Nurture",organic,2025-03-05,awareness,0.00,274.10,7351,73,0
-874,442,"Social Media Push",referral,2025-03-03,conversion,388.00,323.90,7181,71,8
-875,443,"Holiday Special",paid_search,2024-03-06,consideration,0.00,150.50,5816,174,0
-876,444,"Q4 Growth",direct,2025-05-16,consideration,0.00,407.50,4725,236,0
-877,445,"Summer Sale 2024",referral,2025-02-11,consideration,0.00,50.30,838,108,0
-878,445,"Referral Program",referral,2025-02-06,conversion,151.00,494.40,4868,389,76
-879,445,"Retargeting Q1",organic,2025-02-10,conversion,416.00,392.60,2427,291,33
-880,446,"Q4 Growth",social_media,2023-11-11,awareness,0.00,169.50,7012,280,0
-881,446,"Q4 Growth",referral,2023-10-30,conversion,186.00,145.00,4764,95,13
-882,447,"Lead Gen Campaign",social_media,2024-03-16,consideration,0.00,436.50,4312,86,0
-883,448,"Brand Awareness",organic,2023-03-09,consideration,0.00,368.00,9540,477,0
-884,449,"Partnership Drive",organic,2023-06-27,retention,0.00,471.30,8077,565,0
-885,449,"Referral Program",referral,2023-06-09,retention,0.00,405.00,8463,338,0
-886,449,"Email Nurture",direct,2023-06-23,retention,0.00,443.10,2711,298,0
-887,450,"Holiday Special",organic,2025-03-08,consideration,0.00,273.70,6554,327,0
-888,450,"Content Marketing",social_media,2025-02-19,retention,0.00,76.70,167,10,0
-889,451,"Partnership Drive",direct,2023-05-07,conversion,278.00,491.40,1249,99,14
-890,452,"Social Media Push",paid_search,2024-06-11,awareness,0.00,149.80,7153,429,0
-891,452,"Q4 Growth",email,2024-06-03,conversion,180.00,52.20,108,15,2
-892,453,"Email Nurture",direct,2025-08-08,conversion,121.00,479.90,6579,657,47
-893,453,"Email Nurture",organic,2025-07-28,awareness,0.00,444.20,5747,114,0
-894,454,"Retargeting Q1",referral,2023-03-28,conversion,413.00,218.40,3373,67,7
-895,455,"Email Nurture",social_media,2024-05-25,consideration,0.00,278.10,4501,180,0
-896,455,"Referral Program",email,2024-05-11,retention,0.00,140.60,1632,212,0
-897,455,"Product Launch",email,2024-05-26,conversion,39.00,386.80,4143,455,4
-898,456,"Product Launch",paid_search,2025-10-12,conversion,0.00,115.10,3956,118,0
-899,456,"Lead Gen Campaign",direct,2025-10-10,retention,0.00,103.50,6625,993,0
-900,456,"Social Media Push",referral,2025-10-04,awareness,0.00,84.90,1145,103,0
-901,457,"Q4 Growth",referral,2024-01-11,conversion,185.00,306.10,5433,434,37
-902,457,"Social Media Push",email,2024-01-08,conversion,427.00,174.20,2623,131,18
-903,458,"Content Marketing",social_media,2024-05-21,consideration,0.00,29.50,9445,1416,0
-904,458,"Retargeting Q1",organic,2024-04-29,consideration,0.00,68.40,5484,438,0
-905,459,"Social Media Push",social_media,2025-04-05,retention,0.00,87.40,5455,490,0
-906,460,"Summer Sale 2024",paid_search,2025-04-30,retention,0.00,398.00,7937,634,0
-907,460,"Partnership Drive",email,2025-04-14,retention,0.00,475.20,640,76,0
-908,460,"Holiday Special",email,2025-05-02,conversion,51.00,314.70,2100,42,7
-909,461,"Social Media Push",referral,2024-01-12,conversion,442.00,204.00,6241,249,30
-910,461,"Q4 Growth",email,2023-12-29,retention,0.00,245.20,3507,210,0
-911,462,"Retargeting Q1",referral,2025-10-05,retention,0.00,133.30,9395,1221,0
-912,463,"Product Launch",social_media,2023-04-03,consideration,0.00,477.40,9889,593,0
-913,463,"Holiday Special",paid_search,2023-03-09,conversion,419.00,281.50,6523,195,26
-914,463,"Lead Gen Campaign",email,2023-04-01,awareness,0.00,399.90,6906,759,0
-915,464,"Email Nurture",referral,2024-10-03,conversion,161.00,141.10,3121,249,27
-916,465,"Q4 Growth",social_media,2023-12-19,consideration,0.00,496.60,6223,684,0
-917,465,"Email Nurture",email,2024-01-06,awareness,0.00,169.80,1914,133,0
-918,466,"Email Nurture",direct,2023-02-06,retention,0.00,318.30,1143,160,0
-919,466,"Product Launch",paid_search,2023-02-11,conversion,483.00,14.60,2698,215,7
-920,466,"Product Launch",social_media,2023-02-14,consideration,0.00,179.00,3823,191,0
-921,467,"Referral Program",organic,2023-05-10,awareness,0.00,302.50,4440,666,0
-922,468,"Holiday Special",paid_search,2023-01-04,consideration,0.00,267.40,3414,443,0
-923,468,"Product Launch",social_media,2022-12-21,consideration,0.00,399.60,1786,232,0
-924,468,"Social Media Push",social_media,2022-12-22,retention,0.00,69.40,479,28,0
-925,469,"Referral Program",referral,2024-01-19,conversion,318.00,279.80,4808,96,4
-926,469,"Brand Awareness",referral,2024-01-20,awareness,0.00,58.70,4113,534,0
-927,470,"Referral Program",social_media,2024-12-13,awareness,0.00,345.40,703,70,0
-928,470,"Summer Sale 2024",social_media,2024-11-29,conversion,318.00,187.70,3768,263,44
-929,470,"Email Nurture",paid_search,2024-12-07,awareness,0.00,142.90,7282,873,0
-930,471,"Product Launch",direct,2023-01-17,awareness,0.00,294.10,8878,799,0
-931,471,"Email Nurture",paid_search,2023-01-26,awareness,0.00,82.70,5422,487,0
-932,472,"Brand Awareness",organic,2023-05-08,conversion,0.00,264.90,3980,79,0
-933,472,"Content Marketing",paid_search,2023-04-27,consideration,0.00,416.70,6633,198,0
-934,473,"Lead Gen Campaign",organic,2024-02-03,awareness,0.00,329.70,6432,64,0
-935,473,"Content Marketing",referral,2024-01-07,awareness,0.00,123.00,7819,781,0
-936,473,"Summer Sale 2024",organic,2024-01-13,conversion,486.00,309.40,5066,759,6
-937,474,"Email Nurture",direct,2025-08-20,consideration,0.00,484.30,5836,758,0
-938,474,"Partnership Drive",paid_search,2025-08-05,conversion,249.00,319.50,4062,243,21
-939,474,"Lead Gen Campaign",paid_search,2025-08-14,retention,0.00,158.30,4405,572,0
-940,475,"Partnership Drive",organic,2023-02-01,awareness,0.00,480.10,191,17,0
-941,475,"Product Launch",paid_search,2023-01-27,retention,0.00,295.80,8304,1162,0
-942,475,"Brand Awareness",paid_search,2023-02-15,awareness,0.00,82.70,4459,401,0
-943,476,"Brand Awareness",direct,2024-09-19,conversion,333.00,255.90,2506,50,3
-944,477,"Q4 Growth",email,2024-12-21,awareness,0.00,90.60,7269,436,0
-945,478,"Email Nurture",email,2024-04-12,consideration,0.00,161.50,3663,512,0
-946,479,"Content Marketing",social_media,2023-09-15,awareness,0.00,113.60,9786,1174,0
-947,479,"Email Nurture",referral,2023-09-14,retention,0.00,288.20,8516,1192,0
-948,480,"Summer Sale 2024",paid_search,2024-06-13,consideration,0.00,124.20,369,14,0
-949,480,"Social Media Push",direct,2024-06-04,consideration,0.00,325.00,1452,14,0
-950,480,"Partnership Drive",direct,2024-05-29,conversion,476.00,262.30,1982,39,2
-951,481,"Content Marketing",email,2023-12-02,retention,0.00,30.30,8266,578,0
-952,482,"Lead Gen Campaign",paid_search,2024-07-28,awareness,0.00,330.60,8294,912,0
-953,482,"Product Launch",organic,2024-07-17,awareness,0.00,382.40,6139,429,0
-954,482,"Social Media Push",referral,2024-07-06,awareness,0.00,498.40,1640,82,0
-955,483,"Lead Gen Campaign",social_media,2025-05-02,retention,0.00,237.90,4656,186,0
-956,483,"Retargeting Q1",direct,2025-05-07,consideration,0.00,39.80,9479,473,0
-957,483,"Summer Sale 2024",organic,2025-05-21,retention,0.00,218.20,7625,152,0
-958,484,"Social Media Push",paid_search,2023-07-12,awareness,0.00,33.50,4851,485,0
-959,484,"Retargeting Q1",social_media,2023-07-18,consideration,0.00,420.50,4559,45,0
-960,485,"Email Nurture",referral,2023-11-06,conversion,305.00,226.70,7667,690,62
-961,486,"Email Nurture",email,2025-05-22,conversion,492.00,288.90,7823,469,66
-962,486,"Product Launch",direct,2025-05-26,awareness,0.00,106.30,9562,286,0
-963,486,"Email Nurture",social_media,2025-06-16,awareness,0.00,25.00,7382,442,0
-964,487,"Product Launch",referral,2023-02-26,consideration,0.00,394.20,2292,206,0
-965,488,"Holiday Special",organic,2023-12-07,consideration,0.00,69.30,1970,216,0
-966,488,"Referral Program",social_media,2023-11-20,consideration,0.00,152.40,6389,127,0
-967,489,"Q4 Growth",organic,2023-03-02,awareness,0.00,175.40,4130,413,0
-968,489,"Lead Gen Campaign",direct,2023-03-03,retention,0.00,371.30,2345,234,0
-969,489,"Retargeting Q1",paid_search,2023-03-07,retention,0.00,253.40,5627,393,0
-970,490,"Referral Program",email,2023-07-30,retention,0.00,242.60,6509,520,0
-971,490,"Summer Sale 2024",referral,2023-07-23,awareness,0.00,30.30,5706,855,0
-972,491,"Social Media Push",social_media,2024-02-03,conversion,162.00,141.60,6497,129,14
-973,491,"Lead Gen Campaign",organic,2024-01-13,conversion,0.00,380.90,385,57,0
-974,491,"Q4 Growth",direct,2024-02-01,consideration,0.00,111.70,2663,186,0
-975,492,"Lead Gen Campaign",social_media,2023-11-27,retention,0.00,417.00,5934,593,0
-976,492,"Content Marketing",email,2023-11-03,consideration,0.00,202.50,5591,167,0
-977,493,"Referral Program",organic,2025-03-22,retention,0.00,190.70,931,65,0
-978,493,"Referral Program",paid_search,2025-03-20,consideration,0.00,447.00,4821,723,0
-979,493,"Partnership Drive",email,2025-03-30,awareness,0.00,76.40,6770,67,0
-980,494,"Holiday Special",referral,2024-01-30,awareness,0.00,300.40,8492,509,0
-981,495,"Summer Sale 2024",direct,2023-08-29,retention,0.00,471.90,4973,447,0
-982,495,"Lead Gen Campaign",referral,2023-08-16,retention,0.00,363.80,8917,1248,0
-983,496,"Referral Program",referral,2024-12-08,consideration,0.00,204.10,6214,124,0
-984,497,"Lead Gen Campaign",email,2023-03-17,conversion,178.00,210.80,4720,94,5
-985,497,"Q4 Growth",direct,2023-03-07,awareness,0.00,306.20,2748,137,0
-986,498,"Brand Awareness",paid_search,2023-03-27,awareness,0.00,143.60,1050,94,0
-987,498,"Partnership Drive",email,2023-04-11,retention,0.00,206.90,4463,535,0
-988,499,"Partnership Drive",referral,2023-07-23,consideration,0.00,372.50,8217,1232,0
-989,499,"Retargeting Q1",organic,2023-06-27,awareness,0.00,65.80,565,16,0
-990,499,"Referral Program",social_media,2023-07-03,awareness,0.00,426.10,9411,188,0
-991,500,"Product Launch",organic,2023-06-23,awareness,0.00,422.10,6562,262,0
-992,500,"Social Media Push",organic,2023-06-22,consideration,0.00,349.60,4636,185,0
-993,501,"Product Launch",organic,2024-05-12,conversion,153.00,42.50,7719,694,27
-994,501,"Summer Sale 2024",direct,2024-04-27,awareness,0.00,52.50,1893,18,0
-995,502,"Q4 Growth",referral,2025-02-04,consideration,0.00,416.80,3685,331,0
-996,502,"Email Nurture",organic,2025-01-30,retention,0.00,121.00,9899,197,0
-997,502,"Referral Program",social_media,2025-02-19,retention,0.00,477.50,3685,184,0
-998,503,"Partnership Drive",paid_search,2023-01-02,consideration,0.00,146.50,5654,621,0
-999,503,"Social Media Push",referral,2022-12-18,awareness,0.00,138.60,2663,186,0
-1000,503,"Brand Awareness",email,2022-12-15,consideration,0.00,105.20,4464,312,0
-1001,504,"Social Media Push",organic,2025-02-03,retention,0.00,474.90,4997,249,0
-1002,504,"Brand Awareness",referral,2025-02-03,retention,0.00,21.70,7904,1027,0
-1003,504,"Referral Program",email,2025-01-30,retention,0.00,159.70,4396,87,0
-1004,505,"Product Launch",organic,2023-02-10,awareness,0.00,207.90,1357,27,0
-1005,505,"Content Marketing",direct,2023-02-19,conversion,125.00,303.80,9492,379,45
-1006,506,"Email Nurture",paid_search,2024-07-01,retention,0.00,276.90,4401,484,0
-1007,507,"Referral Program",direct,2024-04-08,retention,0.00,396.70,4416,662,0
-1008,507,"Partnership Drive",email,2024-04-15,awareness,0.00,43.60,8666,519,0
-1009,507,"Q4 Growth",direct,2024-05-02,consideration,0.00,294.30,2382,262,0
-1010,508,"Referral Program",referral,2023-04-13,conversion,411.00,89.70,4251,340,13
-1011,508,"Holiday Special",social_media,2023-04-08,retention,0.00,260.10,9368,1217,0
-1012,509,"Partnership Drive",organic,2024-02-06,conversion,257.00,11.10,9046,995,152
-1013,510,"Partnership Drive",direct,2025-01-06,retention,0.00,96.00,1260,100,0
-1014,510,"Brand Awareness",direct,2025-01-06,awareness,0.00,453.20,4974,248,0
-1015,510,"Holiday Special",paid_search,2024-12-22,consideration,0.00,91.20,7038,492,0
-1016,511,"Email Nurture",social_media,2024-05-23,consideration,0.00,177.70,8137,1057,0
-1017,512,"Content Marketing",social_media,2024-07-05,awareness,0.00,96.50,3928,157,0
-1018,512,"Holiday Special",social_media,2024-06-26,consideration,0.00,401.60,7310,731,0
-1019,513,"Social Media Push",social_media,2023-04-14,retention,0.00,471.90,6018,240,0
-1020,513,"Retargeting Q1",social_media,2023-04-13,conversion,486.00,284.80,5509,771,112
-1021,514,"Social Media Push",referral,2025-05-01,awareness,0.00,435.40,6967,418,0
-1022,514,"Lead Gen Campaign",paid_search,2025-04-25,conversion,167.00,219.90,6532,130,21
-1023,515,"Partnership Drive",direct,2024-07-16,awareness,0.00,275.70,5070,304,0
-1024,515,"Summer Sale 2024",direct,2024-06-21,retention,0.00,205.30,6876,962,0
-1025,516,"Lead Gen Campaign",direct,2023-05-11,consideration,0.00,257.20,6014,481,0
-1026,517,"Social Media Push",paid_search,2025-01-08,conversion,400.00,34.70,4286,471,57
-1027,517,"Product Launch",direct,2025-01-03,retention,0.00,342.40,7225,578,0
-1028,517,"Product Launch",social_media,2025-01-16,retention,0.00,387.50,7282,582,0
-1029,518,"Content Marketing",paid_search,2025-10-02,awareness,0.00,351.50,2491,99,0
-1030,519,"Q4 Growth",organic,2025-07-24,awareness,0.00,226.70,3407,272,0
-1031,519,"Holiday Special",paid_search,2025-08-09,consideration,0.00,220.60,3842,230,0
-1032,520,"Email Nurture",referral,2024-02-18,retention,0.00,245.40,6840,478,0
-1033,521,"Content Marketing",direct,2025-01-03,consideration,0.00,201.90,4493,359,0
-1034,521,"Holiday Special",social_media,2025-01-28,awareness,0.00,372.10,2349,187,0
-1035,521,"Holiday Special",paid_search,2025-01-18,consideration,0.00,413.50,5122,409,0
-1036,522,"Lead Gen Campaign",email,2023-02-15,retention,0.00,7.40,6825,409,0
-1037,522,"Email Nurture",email,2023-03-08,conversion,161.00,280.80,2447,342,43
-1038,523,"Q4 Growth",email,2023-01-26,consideration,0.00,350.50,7482,149,0
-1039,523,"Q4 Growth",email,2023-02-11,conversion,56.00,17.10,1332,93,11
-1040,524,"Content Marketing",direct,2024-02-09,conversion,494.00,225.50,3894,506,5
-1041,524,"Q4 Growth",referral,2024-02-26,retention,0.00,14.30,2442,268,0
-1042,524,"Email Nurture",direct,2024-02-26,consideration,0.00,41.80,1768,159,0
-1043,525,"Social Media Push",referral,2025-07-13,awareness,0.00,292.00,6789,882,0
-1044,525,"Holiday Special",organic,2025-08-07,consideration,0.00,318.90,427,34,0
-1045,525,"Brand Awareness",social_media,2025-07-27,awareness,0.00,245.60,356,7,0
-1046,526,"Social Media Push",organic,2023-08-15,awareness,0.00,291.60,2618,209,0
-1047,526,"Retargeting Q1",direct,2023-08-13,consideration,0.00,404.40,4790,431,0
-1048,526,"Referral Program",social_media,2023-07-30,conversion,308.00,157.10,9452,945,62
-1049,527,"Product Launch",paid_search,2025-10-14,consideration,0.00,341.10,729,80,0
-1050,527,"Brand Awareness",social_media,2025-09-21,conversion,455.00,460.70,7362,220,29
-1051,528,"Social Media Push",social_media,2025-10-04,awareness,0.00,189.50,2993,239,0
-1052,529,"Referral Program",organic,2023-07-17,retention,0.00,161.60,7243,579,0
-1053,529,"Partnership Drive",referral,2023-07-24,retention,0.00,122.70,1375,137,0
-1054,529,"Partnership Drive",direct,2023-07-15,conversion,309.00,128.50,3287,394,75
-1055,530,"Lead Gen Campaign",paid_search,2023-08-17,conversion,414.00,57.20,9952,99,17
-1056,530,"Brand Awareness",organic,2023-08-25,conversion,51.00,443.00,3366,269,41
-1057,531,"Referral Program",organic,2025-03-05,consideration,0.00,472.50,1460,189,0
-1058,531,"Partnership Drive",organic,2025-03-03,consideration,0.00,298.90,1395,125,0
-1059,531,"Lead Gen Campaign",referral,2025-02-25,retention,0.00,497.20,8275,827,0
-1060,532,"Referral Program",referral,2023-04-07,retention,0.00,59.10,6308,567,0
-1061,533,"Holiday Special",organic,2023-08-10,awareness,0.00,392.90,2108,274,0
-1062,534,"Q4 Growth",email,2025-02-21,retention,0.00,100.00,3303,99,0
-1063,535,"Lead Gen Campaign",referral,2024-03-02,awareness,0.00,479.80,9058,543,0
-1064,536,"Referral Program",direct,2025-02-18,awareness,0.00,25.40,3067,460,0
-1065,536,"Referral Program",email,2025-02-18,conversion,478.00,275.80,6881,688,74
-1066,537,"Brand Awareness",paid_search,2024-10-17,consideration,0.00,486.70,1602,192,0
-1067,537,"Q4 Growth",paid_search,2024-10-23,awareness,0.00,147.20,8514,1106,0
-1068,537,"Retargeting Q1",referral,2024-10-15,retention,0.00,155.70,5606,112,0
-1069,538,"Product Launch",referral,2023-06-04,consideration,0.00,169.30,2847,313,0
-1070,539,"Lead Gen Campaign",referral,2023-09-01,awareness,0.00,141.40,7973,1036,0
-1071,539,"Retargeting Q1",direct,2023-08-23,conversion,111.00,272.40,9332,653,53
-1072,539,"Content Marketing",direct,2023-09-02,conversion,389.00,151.30,1198,59,1
-1073,540,"Partnership Drive",direct,2023-08-02,retention,0.00,441.50,8289,1160,0
-1074,540,"Content Marketing",organic,2023-07-24,retention,0.00,151.70,9092,1181,0
-1075,541,"Product Launch",referral,2025-01-08,retention,0.00,200.90,4290,557,0
-1076,542,"Retargeting Q1",referral,2024-11-21,consideration,0.00,441.90,4317,474,0
-1077,543,"Brand Awareness",paid_search,2022-12-08,retention,0.00,188.00,3171,221,0
-1078,543,"Lead Gen Campaign",paid_search,2022-12-15,conversion,395.00,51.50,8139,813,124
-1079,544,"Summer Sale 2024",direct,2025-04-23,conversion,296.00,391.30,7435,297,26
-1080,545,"Referral Program",email,2025-01-08,conversion,205.00,326.30,8727,1221,121
-1081,545,"Referral Program",organic,2025-01-05,awareness,0.00,249.40,5518,275,0
-1082,546,"Referral Program",paid_search,2023-08-04,consideration,0.00,331.00,6929,415,0
-1083,546,"Referral Program",direct,2023-08-01,conversion,39.00,224.00,4093,122,6
-1084,546,"Summer Sale 2024",email,2023-07-16,conversion,180.00,46.80,6548,523,24
-1085,547,"Q4 Growth",social_media,2024-10-02,conversion,133.00,297.70,6411,512,97
-1086,547,"Partnership Drive",organic,2024-10-05,awareness,0.00,143.20,9011,630,0
-1087,547,"Summer Sale 2024",direct,2024-09-18,awareness,0.00,93.90,9134,456,0
-1088,548,"Product Launch",paid_search,2025-06-02,consideration,0.00,50.50,1912,19,0
-1089,548,"Referral Program",direct,2025-06-22,conversion,465.00,431.50,8659,779,20
-1090,548,"Email Nurture",email,2025-06-01,retention,0.00,441.70,4366,567,0
-1091,549,"Holiday Special",organic,2025-02-01,conversion,97.00,321.20,7714,771,80
-1092,549,"Q4 Growth",organic,2025-02-05,consideration,0.00,290.60,5884,58,0
-1093,550,"Referral Program",paid_search,2023-04-01,conversion,259.00,251.10,1297,51,5
-1094,550,"Q4 Growth",email,2023-04-23,awareness,0.00,199.40,8389,1258,0
-1095,550,"Lead Gen Campaign",paid_search,2023-04-26,retention,0.00,303.50,9705,388,0
-1096,551,"Summer Sale 2024",paid_search,2022-12-15,conversion,216.00,53.10,7640,152,18
-1097,551,"Summer Sale 2024",referral,2022-12-06,awareness,0.00,231.00,7722,926,0
-1098,551,"Retargeting Q1",referral,2022-12-28,consideration,0.00,471.60,9654,1351,0
-1099,552,"Summer Sale 2024",organic,2025-03-03,retention,0.00,455.70,3799,531,0
-1100,553,"Q4 Growth",email,2023-06-16,retention,0.00,492.70,7068,494,0
-1101,553,"Partnership Drive",email,2023-06-03,retention,0.00,298.60,2820,253,0
-1102,553,"Referral Program",social_media,2023-06-03,awareness,0.00,215.50,7138,642,0
-1103,554,"Referral Program",paid_search,2024-06-08,retention,0.00,122.80,8388,1006,0
-1104,554,"Retargeting Q1",email,2024-05-28,consideration,0.00,412.20,4245,84,0
-1105,555,"Lead Gen Campaign",email,2025-02-14,conversion,143.00,229.70,3152,94,17
-1106,555,"Product Launch",organic,2025-02-03,consideration,0.00,309.80,8184,245,0
-1107,556,"Product Launch",organic,2023-09-18,conversion,486.00,299.20,8624,862,60
-1108,556,"Q4 Growth",paid_search,2023-09-21,conversion,282.00,244.90,9982,598,6
-1109,556,"Lead Gen Campaign",social_media,2023-09-02,retention,0.00,222.30,9342,467,0
-1110,557,"Content Marketing",referral,2024-01-20,retention,0.00,418.20,3242,64,0
-1111,557,"Q4 Growth",social_media,2024-01-21,retention,0.00,137.50,8099,1214,0
-1112,558,"Lead Gen Campaign",referral,2023-04-03,conversion,77.00,26.70,4288,428,72
-1113,558,"Holiday Special",direct,2023-04-11,retention,0.00,421.60,6522,586,0
-1114,558,"Social Media Push",social_media,2023-04-04,conversion,404.00,135.80,5732,859,62
-1115,559,"Q4 Growth",social_media,2024-03-08,retention,0.00,443.20,1090,141,0
-1116,560,"Q4 Growth",organic,2025-05-22,awareness,0.00,67.40,7323,439,0
-1117,561,"Retargeting Q1",email,2023-04-19,awareness,0.00,387.70,6345,571,0
-1118,561,"Brand Awareness",referral,2023-04-24,conversion,46.00,307.30,8010,1121,20
-1119,562,"Referral Program",referral,2023-11-30,awareness,0.00,420.20,8060,322,0
-1120,562,"Content Marketing",organic,2023-12-17,retention,0.00,105.30,8301,249,0
-1121,563,"Product Launch",social_media,2023-02-02,conversion,384.00,264.50,6224,560,61
-1122,563,"Lead Gen Campaign",social_media,2023-02-08,retention,0.00,301.70,8857,1239,0
-1123,563,"Referral Program",social_media,2023-01-25,conversion,192.00,201.50,3096,433,34
-1124,564,"Retargeting Q1",organic,2024-07-12,consideration,0.00,324.00,3126,187,0
-1125,564,"Content Marketing",referral,2024-07-13,retention,0.00,184.00,5323,319,0
-1126,565,"Brand Awareness",paid_search,2024-06-21,conversion,127.00,328.90,1555,171,7
-1127,566,"Product Launch",referral,2022-12-27,retention,0.00,170.00,8393,167,0
-1128,566,"Email Nurture",email,2022-12-25,retention,0.00,32.50,4466,178,0
-1129,567,"Lead Gen Campaign",social_media,2025-05-20,consideration,0.00,445.90,566,11,0
-1130,567,"Product Launch",paid_search,2025-06-03,consideration,0.00,158.20,7980,1037,0
-1131,568,"Content Marketing",referral,2023-12-10,conversion,418.00,77.20,3102,279,31
-1132,569,"Product Launch",organic,2024-08-20,consideration,0.00,98.80,8384,1089,0
-1133,569,"Summer Sale 2024",social_media,2024-08-28,awareness,0.00,429.30,8772,701,0
-1134,570,"Product Launch",referral,2025-01-05,conversion,158.00,467.10,5088,712,79
-1135,570,"Product Launch",direct,2024-12-10,awareness,0.00,493.60,1461,146,0
-1136,570,"Retargeting Q1",referral,2024-12-28,awareness,0.00,349.80,8772,175,0
-1137,571,"Content Marketing",social_media,2024-10-30,retention,0.00,414.20,1121,33,0
-1138,572,"Summer Sale 2024",social_media,2024-10-05,conversion,61.00,234.20,4480,89,5
-1139,572,"Product Launch",direct,2024-09-23,retention,0.00,488.30,5710,399,0
-1140,573,"Brand Awareness",paid_search,2023-02-21,retention,0.00,355.20,8386,754,0
-1141,573,"Q4 Growth",paid_search,2023-02-25,retention,0.00,329.80,1811,36,0
-1142,574,"Q4 Growth",paid_search,2023-08-21,consideration,0.00,494.10,4714,94,0
-1143,574,"Summer Sale 2024",referral,2023-08-22,retention,0.00,298.40,792,95,0
-1144,574,"Product Launch",referral,2023-08-28,consideration,0.00,461.90,9315,186,0
-1145,575,"Holiday Special",referral,2023-10-21,conversion,94.00,45.00,6688,468,36
-1146,575,"Retargeting Q1",email,2023-11-10,conversion,335.00,155.80,9862,887,16
-1147,575,"Retargeting Q1",organic,2023-10-16,awareness,0.00,449.20,7493,974,0
-1148,576,"Q4 Growth",direct,2023-08-10,awareness,0.00,438.40,5546,665,0
-1149,577,"Partnership Drive",referral,2024-11-09,conversion,254.00,117.70,2890,289,46
-1150,578,"Social Media Push",email,2024-12-23,consideration,0.00,46.50,4342,347,0
-1151,578,"Holiday Special",direct,2025-01-14,retention,0.00,202.90,1775,88,0
-1152,579,"Social Media Push",email,2024-05-14,conversion,262.00,191.40,4239,635,92
-1153,579,"Content Marketing",social_media,2024-05-01,consideration,0.00,288.20,5837,700,0
-1154,579,"Content Marketing",direct,2024-05-01,conversion,0.00,425.60,4582,137,0
-1155,580,"Brand Awareness",referral,2024-01-22,consideration,0.00,264.90,6947,138,0
-1156,581,"Partnership Drive",email,2025-06-14,consideration,0.00,273.80,2475,321,0
-1157,582,"Social Media Push",organic,2025-08-13,consideration,0.00,194.60,9354,280,0
-1158,582,"Email Nurture",email,2025-08-21,awareness,0.00,166.00,2560,128,0
-1159,582,"Q4 Growth",email,2025-08-03,awareness,0.00,256.30,4903,147,0
-1160,583,"Summer Sale 2024",direct,2024-05-24,retention,0.00,85.10,7911,553,0
-1161,583,"Partnership Drive",email,2024-06-01,conversion,0.00,262.60,3455,34,0
-1162,584,"Email Nurture",organic,2023-11-27,retention,0.00,155.00,6021,782,0
-1163,585,"Lead Gen Campaign",email,2024-01-15,awareness,0.00,420.00,7828,861,0
-1164,585,"Brand Awareness",social_media,2023-12-30,awareness,0.00,10.20,3891,272,0
-1165,585,"Q4 Growth",direct,2024-01-12,retention,0.00,180.80,1380,41,0
-1166,586,"Content Marketing",email,2023-04-13,retention,0.00,309.40,5034,151,0
-1167,586,"Lead Gen Campaign",paid_search,2023-04-04,conversion,471.00,402.20,4686,702,63
-1168,586,"Social Media Push",social_media,2023-04-18,consideration,0.00,319.00,313,6,0
-1169,587,"Retargeting Q1",organic,2025-06-15,conversion,403.00,18.70,2745,274,1
-1170,587,"Brand Awareness",social_media,2025-06-25,conversion,331.00,161.10,7677,1151,198
-1171,587,"Summer Sale 2024",direct,2025-07-02,consideration,0.00,310.70,7575,757,0
-1172,588,"Email Nurture",direct,2025-01-28,conversion,323.00,217.70,7897,157,31
-1173,588,"Content Marketing",social_media,2025-01-21,retention,0.00,67.40,9875,98,0
-1174,589,"Holiday Special",paid_search,2023-03-03,retention,0.00,314.50,8784,1141,0
-1175,590,"Q4 Growth",referral,2023-09-27,conversion,35.00,50.00,9686,1452,103
-1176,591,"Social Media Push",referral,2023-05-14,awareness,0.00,304.40,6654,332,0
-1177,592,"Social Media Push",direct,2025-05-08,conversion,329.00,490.30,2766,331,44
-1178,592,"Social Media Push",direct,2025-05-24,awareness,0.00,407.60,5730,114,0
-1179,593,"Retargeting Q1",email,2024-10-04,retention,0.00,420.40,2065,61,0
-1180,594,"Social Media Push",social_media,2023-06-06,consideration,0.00,277.00,3755,413,0
-1181,594,"Holiday Special",organic,2023-06-04,conversion,348.00,218.70,4476,671,4
-1182,594,"Social Media Push",direct,2023-06-14,conversion,274.00,385.90,1947,77,7
-1183,595,"Partnership Drive",organic,2025-02-18,consideration,0.00,311.70,4420,442,0
-1184,596,"Brand Awareness",direct,2023-08-24,awareness,0.00,12.20,3343,133,0
-1185,597,"Email Nurture",email,2025-08-09,consideration,0.00,168.80,8215,1232,0
-1186,597,"Retargeting Q1",direct,2025-07-22,consideration,0.00,173.60,1736,156,0
-1187,597,"Social Media Push",direct,2025-08-12,consideration,0.00,263.90,8161,571,0
-1188,598,"Social Media Push",referral,2023-05-18,consideration,0.00,85.40,1534,92,0
-1189,598,"Retargeting Q1",email,2023-05-08,conversion,449.00,78.00,7918,554,47
-1190,599,"Q4 Growth",organic,2025-02-06,retention,0.00,212.60,9830,1376,0
-1191,599,"Partnership Drive",referral,2025-01-15,retention,0.00,148.80,7349,808,0
-1192,600,"Referral Program",email,2024-10-24,retention,0.00,344.80,2662,186,0
-1193,600,"Social Media Push",email,2024-10-22,retention,0.00,109.50,7363,589,0
-1194,600,"Content Marketing",email,2024-10-25,retention,0.00,49.40,3558,498,0
+1,1,"Referral Program",direct,2023-05-29,consideration,0.00,166.20,5055,50,0
+2,2,"Lead Gen Campaign",email,2025-01-09,consideration,0.00,139.10,4402,484,0
+3,2,"Referral Program",referral,2025-01-26,retention,0.00,81.50,8044,402,0
+4,3,"Email Nurture",paid_search,2024-11-26,conversion,112.00,198.40,3507,315,48
+5,4,"Content Marketing",organic,2025-03-21,retention,0.00,292.30,2226,200,0
+6,4,"Product Launch",email,2025-03-14,conversion,230.00,158.80,5104,765,93
+7,4,"Retargeting Q1",paid_search,2025-03-17,conversion,0.00,284.50,7509,75,0
+8,5,"Email Nurture",social_media,2023-12-27,retention,0.00,451.80,2675,214,0
+9,5,"Social Media Push",direct,2024-01-25,conversion,345.00,459.60,5138,770,36
+10,6,"Brand Awareness",email,2025-10-24,retention,0.00,46.90,7649,1070,0
+11,6,"Lead Gen Campaign",social_media,2025-11-04,awareness,0.00,99.70,3184,95,0
+12,6,"Email Nurture",organic,2025-11-01,consideration,0.00,156.70,4324,605,0
+13,7,"Social Media Push",social_media,2023-04-13,consideration,0.00,142.20,542,16,0
+14,8,"Retargeting Q1",social_media,2023-04-17,retention,0.00,219.40,4116,329,0
+15,9,"Referral Program",email,2025-01-10,retention,0.00,157.00,1728,86,0
+16,10,"Brand Awareness",paid_search,2023-09-29,consideration,0.00,7.20,7063,1059,0
+17,10,"Q4 Growth",organic,2023-10-03,consideration,0.00,352.60,6130,490,0
+18,11,"Partnership Drive",direct,2023-05-31,consideration,0.00,198.70,8130,569,0
+19,11,"Social Media Push",social_media,2023-06-15,conversion,356.00,423.40,1382,13,2
+20,12,"Partnership Drive",email,2025-04-19,conversion,285.00,427.40,7905,1027,198
+21,12,"Social Media Push",organic,2025-04-26,retention,0.00,467.50,8143,1058,0
+22,12,"Social Media Push",paid_search,2025-05-07,retention,0.00,318.50,9654,193,0
+23,13,"Brand Awareness",referral,2025-11-04,retention,0.00,188.40,9241,184,0
+24,14,"Referral Program",direct,2024-02-22,retention,0.00,252.10,3596,251,0
+25,14,"Email Nurture",social_media,2024-03-15,conversion,85.00,461.90,5288,581,57
+26,15,"Holiday Special",email,2024-02-26,consideration,0.00,296.10,3020,60,0
+27,16,"Product Launch",paid_search,2023-05-08,awareness,0.00,333.30,593,59,0
+28,16,"Referral Program",organic,2023-05-17,awareness,0.00,57.40,5656,395,0
+29,17,"Product Launch",email,2024-08-15,consideration,0.00,494.20,9608,1056,0
+30,18,"Content Marketing",referral,2023-11-05,awareness,0.00,341.20,7765,155,0
+31,18,"Partnership Drive",organic,2023-11-01,consideration,0.00,256.40,5706,456,0
+32,19,"Referral Program",direct,2023-04-11,retention,0.00,177.30,5916,295,0
+33,19,"Product Launch",organic,2023-03-23,consideration,0.00,226.10,825,90,0
+34,19,"Summer Sale 2024",paid_search,2023-03-23,conversion,413.00,428.70,200,22,2
+35,20,"Retargeting Q1",direct,2025-03-02,conversion,494.00,267.20,4968,397,43
+36,20,"Partnership Drive",paid_search,2025-03-07,consideration,0.00,390.90,9541,190,0
+37,20,"Email Nurture",organic,2025-03-07,conversion,120.00,302.30,8247,412,77
+38,21,"Social Media Push",organic,2023-11-14,conversion,199.00,398.20,3039,151,3
+39,22,"Partnership Drive",direct,2025-09-10,awareness,0.00,239.60,2784,194,0
+40,22,"Holiday Special",organic,2025-09-16,awareness,0.00,22.30,2527,277,0
+41,23,"Retargeting Q1",social_media,2024-08-05,awareness,0.00,307.00,2328,209,0
+42,24,"Email Nurture",email,2024-10-20,retention,0.00,410.40,7902,632,0
+43,25,"Retargeting Q1",organic,2023-08-24,conversion,66.00,165.30,9114,729,137
+44,26,"Lead Gen Campaign",email,2024-02-12,retention,0.00,252.40,3720,520,0
+45,26,"Retargeting Q1",referral,2024-01-14,retention,0.00,386.30,7420,222,0
+46,27,"Social Media Push",email,2024-08-22,consideration,0.00,330.80,1460,14,0
+47,27,"Q4 Growth",paid_search,2024-09-04,awareness,0.00,303.90,1806,126,0
+48,27,"Partnership Drive",email,2024-09-07,consideration,0.00,340.00,6432,450,0
+49,28,"Referral Program",paid_search,2024-10-23,retention,0.00,102.60,8750,350,0
+50,29,"Summer Sale 2024",email,2024-07-07,consideration,0.00,329.60,408,36,0
+51,29,"Partnership Drive",email,2024-06-25,conversion,407.00,229.80,6177,741,36
+52,30,"Brand Awareness",referral,2024-10-13,retention,0.00,266.80,1619,242,0
+53,30,"Product Launch",organic,2024-10-18,consideration,0.00,299.20,7130,855,0
+54,30,"Holiday Special",social_media,2024-10-05,consideration,0.00,261.50,8657,779,0
+55,31,"Q4 Growth",referral,2025-10-05,awareness,0.00,264.10,3492,523,0
+56,31,"Brand Awareness",organic,2025-09-23,conversion,171.00,11.10,8543,598,109
+57,32,"Q4 Growth",direct,2023-12-18,conversion,44.00,295.20,5175,362,38
+58,32,"Referral Program",organic,2023-12-18,conversion,76.00,258.90,2631,210,26
+59,33,"Email Nurture",social_media,2024-06-26,conversion,252.00,151.30,3387,270,49
+60,34,"Holiday Special",direct,2024-11-05,consideration,0.00,276.90,1781,35,0
+61,34,"Email Nurture",organic,2024-10-29,conversion,419.00,328.90,9911,1288,64
+62,34,"Email Nurture",referral,2024-11-02,conversion,173.00,322.30,7900,711,104
+63,35,"Brand Awareness",paid_search,2023-03-21,awareness,0.00,471.60,8939,357,0
+64,36,"Product Launch",paid_search,2025-04-06,awareness,0.00,142.60,628,6,0
+65,37,"Brand Awareness",social_media,2024-06-01,conversion,389.00,133.40,7107,994,29
+66,37,"Summer Sale 2024",social_media,2024-05-29,consideration,0.00,432.10,8585,343,0
+67,38,"Retargeting Q1",organic,2024-08-01,awareness,0.00,412.70,817,81,0
+68,39,"Product Launch",email,2025-07-08,conversion,119.00,119.90,3201,384,40
+69,39,"Email Nurture",organic,2025-07-09,awareness,0.00,269.00,7328,732,0
+70,40,"Summer Sale 2024",social_media,2023-10-09,retention,0.00,464.50,4943,593,0
+71,40,"Holiday Special",organic,2023-10-19,consideration,0.00,361.30,3264,293,0
+72,41,"Retargeting Q1",email,2024-08-14,awareness,0.00,396.50,8054,563,0
+73,41,"Brand Awareness",direct,2024-08-18,retention,0.00,30.00,2410,337,0
+74,41,"Holiday Special",direct,2024-08-16,awareness,0.00,316.00,3486,34,0
+75,42,"Partnership Drive",organic,2023-07-15,conversion,110.00,65.10,6918,138,26
+76,43,"Summer Sale 2024",email,2023-02-14,consideration,0.00,70.90,5597,503,0
+77,43,"Retargeting Q1",direct,2023-02-14,awareness,0.00,139.50,3245,64,0
+78,44,"Brand Awareness",email,2025-01-10,retention,0.00,66.70,2065,103,0
+79,45,"Retargeting Q1",paid_search,2024-02-19,awareness,0.00,441.20,8241,576,0
+80,45,"Referral Program",referral,2024-02-03,conversion,181.00,32.90,3535,282,48
+81,46,"Content Marketing",referral,2023-10-22,awareness,0.00,286.20,3157,315,0
+82,46,"Product Launch",referral,2023-10-25,awareness,0.00,22.90,1745,104,0
+83,47,"Q4 Growth",direct,2024-05-20,awareness,0.00,31.60,6837,341,0
+84,47,"Holiday Special",direct,2024-05-19,awareness,0.00,109.00,3446,379,0
+85,48,"Retargeting Q1",paid_search,2023-11-22,conversion,339.00,173.80,5155,618,62
+86,48,"Content Marketing",direct,2023-11-16,conversion,393.00,44.20,6206,620,74
+87,49,"Q4 Growth",social_media,2024-06-02,conversion,195.00,345.50,3792,113,15
+88,49,"Brand Awareness",organic,2024-06-17,awareness,0.00,235.90,2053,184,0
+89,50,"Content Marketing",referral,2024-08-25,conversion,166.00,436.80,7782,389,55
+90,51,"Q4 Growth",direct,2024-02-05,retention,0.00,260.20,9705,1261,0
+91,52,"Referral Program",referral,2025-03-28,awareness,0.00,107.40,9594,1247,0
+92,52,"Product Launch",referral,2025-03-31,conversion,153.00,440.70,8221,411,14
+93,53,"Summer Sale 2024",social_media,2024-11-11,retention,0.00,168.10,4471,581,0
+94,53,"Retargeting Q1",direct,2024-10-30,retention,0.00,100.20,6545,654,0
+95,54,"Retargeting Q1",paid_search,2024-10-08,consideration,0.00,193.50,3955,158,0
+96,54,"Summer Sale 2024",email,2024-09-14,awareness,0.00,262.00,2703,351,0
+97,54,"Summer Sale 2024",paid_search,2024-10-08,conversion,29.00,199.80,9414,847,27
+98,55,"Brand Awareness",direct,2025-05-10,retention,0.00,429.50,6343,253,0
+99,56,"Summer Sale 2024",paid_search,2023-04-30,retention,0.00,125.60,6593,263,0
+100,56,"Lead Gen Campaign",organic,2023-04-30,awareness,0.00,384.70,9455,283,0
+101,56,"Retargeting Q1",paid_search,2023-05-14,conversion,405.00,423.00,9959,1095,33
+102,57,"Summer Sale 2024",direct,2023-06-21,consideration,0.00,192.30,422,25,0
+103,57,"Summer Sale 2024",social_media,2023-06-22,retention,0.00,273.80,8929,1071,0
+104,57,"Holiday Special",referral,2023-06-27,awareness,0.00,435.80,7544,150,0
+105,58,"Content Marketing",social_media,2023-07-24,awareness,0.00,444.80,6666,866,0
+106,59,"Retargeting Q1",direct,2024-01-07,conversion,0.00,384.00,660,6,0
+107,59,"Email Nurture",paid_search,2024-01-11,retention,0.00,150.40,502,70,0
+108,60,"Referral Program",paid_search,2025-08-13,retention,0.00,129.40,828,41,0
+109,61,"Q4 Growth",social_media,2023-02-12,retention,0.00,275.50,5742,401,0
+110,61,"Email Nurture",social_media,2023-02-28,awareness,0.00,406.30,9245,739,0
+111,61,"Summer Sale 2024",social_media,2023-02-12,conversion,339.00,431.20,8091,728,12
+112,62,"Referral Program",social_media,2023-03-10,retention,0.00,207.10,2080,270,0
+113,62,"Holiday Special",organic,2023-03-26,conversion,214.00,287.60,9569,669,100
+114,63,"Retargeting Q1",referral,2024-08-26,consideration,0.00,7.50,6205,558,0
+115,63,"Summer Sale 2024",organic,2024-08-26,consideration,0.00,306.40,4823,241,0
+116,63,"Referral Program",paid_search,2024-08-17,awareness,0.00,45.70,3596,143,0
+117,64,"Partnership Drive",referral,2023-01-24,awareness,0.00,101.30,5757,518,0
+118,65,"Lead Gen Campaign",organic,2022-12-24,awareness,0.00,410.30,8844,1149,0
+119,66,"Product Launch",paid_search,2023-06-16,conversion,485.00,138.10,1538,76,9
+120,66,"Content Marketing",paid_search,2023-06-30,conversion,224.00,349.60,1078,140,8
+121,66,"Referral Program",direct,2023-07-03,conversion,382.00,195.40,6499,909,10
+122,67,"Referral Program",paid_search,2024-01-07,consideration,0.00,432.30,1594,223,0
+123,67,"Content Marketing",email,2024-01-04,conversion,323.00,314.00,9937,1093,15
+124,68,"Brand Awareness",organic,2025-08-19,consideration,0.00,127.10,609,79,0
+125,68,"Q4 Growth",paid_search,2025-08-31,awareness,0.00,454.40,8274,827,0
+126,69,"Product Launch",referral,2025-11-13,conversion,384.00,147.40,2816,394,11
+127,69,"Product Launch",social_media,2025-10-31,awareness,0.00,308.00,1125,157,0
+128,69,"Referral Program",referral,2025-11-12,conversion,258.00,302.10,7504,75,10
+129,70,"Summer Sale 2024",social_media,2024-10-19,retention,0.00,29.60,1494,209,0
+130,70,"Brand Awareness",organic,2024-10-25,retention,0.00,283.90,772,69,0
+131,70,"Retargeting Q1",referral,2024-11-05,consideration,0.00,428.10,312,28,0
+132,71,"Social Media Push",direct,2025-08-01,awareness,0.00,79.30,5708,513,0
+133,71,"Summer Sale 2024",social_media,2025-08-04,conversion,494.00,142.60,7487,1048,202
+134,72,"Retargeting Q1",social_media,2024-01-14,awareness,0.00,19.20,885,88,0
+135,72,"Brand Awareness",direct,2024-01-01,conversion,495.00,360.50,6125,551,66
+136,73,"Partnership Drive",referral,2024-06-16,consideration,0.00,265.30,2499,299,0
+137,73,"Product Launch",referral,2024-06-16,retention,0.00,383.90,7362,957,0
+138,73,"Q4 Growth",referral,2024-06-21,conversion,235.00,233.70,4204,588,83
+139,74,"Retargeting Q1",referral,2024-06-30,retention,0.00,152.80,8487,1103,0
+140,74,"Content Marketing",referral,2024-06-15,awareness,0.00,205.70,8974,987,0
+141,75,"Summer Sale 2024",organic,2023-02-10,conversion,488.00,377.70,9875,592,80
+142,75,"Q4 Growth",referral,2023-02-02,conversion,56.00,236.40,4594,45,2
+143,76,"Q4 Growth",email,2023-10-25,awareness,0.00,69.90,7975,957,0
+144,76,"Lead Gen Campaign",social_media,2023-10-24,conversion,38.00,232.90,9917,1487,154
+145,76,"Partnership Drive",email,2023-10-22,awareness,0.00,210.10,981,19,0
+146,77,"Social Media Push",referral,2024-07-19,consideration,0.00,155.40,8928,803,0
+147,77,"Brand Awareness",direct,2024-06-30,awareness,0.00,328.50,4094,532,0
+148,78,"Holiday Special",paid_search,2023-03-16,awareness,0.00,267.00,8780,878,0
+149,79,"Summer Sale 2024",organic,2025-07-09,awareness,0.00,219.20,3512,105,0
+150,80,"Q4 Growth",referral,2023-07-11,awareness,0.00,334.80,5899,530,0
+151,81,"Content Marketing",email,2025-05-06,retention,0.00,143.80,5306,530,0
+152,81,"Social Media Push",referral,2025-04-26,retention,0.00,270.70,8870,620,0
+153,82,"Content Marketing",paid_search,2025-02-15,retention,0.00,393.50,5837,291,0
+154,83,"Email Nurture",email,2025-09-07,awareness,0.00,197.50,150,3,0
+155,84,"Q4 Growth",email,2025-04-20,awareness,0.00,97.50,898,134,0
+156,84,"Email Nurture",organic,2025-04-11,conversion,462.00,357.70,1454,72,11
+157,84,"Social Media Push",social_media,2025-04-26,conversion,480.00,85.20,5269,263,11
+158,85,"Product Launch",direct,2023-12-16,consideration,0.00,90.40,3498,104,0
+159,85,"Retargeting Q1",referral,2023-12-02,awareness,0.00,398.90,1111,155,0
+160,85,"Lead Gen Campaign",social_media,2023-11-26,retention,0.00,465.50,5582,390,0
+161,86,"Email Nurture",referral,2024-06-11,retention,0.00,425.60,6623,794,0
+162,87,"Brand Awareness",paid_search,2025-05-07,conversion,63.00,91.20,9185,551,93
+163,87,"Referral Program",referral,2025-05-07,retention,0.00,443.90,7507,450,0
+164,88,"Email Nurture",referral,2023-10-14,consideration,0.00,250.60,9895,890,0
+165,88,"Brand Awareness",referral,2023-10-25,retention,0.00,379.50,4637,417,0
+166,88,"Partnership Drive",paid_search,2023-09-28,conversion,454.00,266.30,6294,188,8
+167,89,"Social Media Push",organic,2023-10-17,consideration,0.00,371.40,954,57,0
+168,90,"Holiday Special",direct,2023-05-27,awareness,0.00,400.20,5317,691,0
+169,91,"Holiday Special",social_media,2025-10-15,awareness,0.00,59.30,9769,97,0
+170,91,"Brand Awareness",organic,2025-10-20,consideration,0.00,355.20,1644,230,0
+171,91,"Summer Sale 2024",organic,2025-10-25,consideration,0.00,424.50,855,68,0
+172,92,"Social Media Push",email,2025-04-19,retention,0.00,439.70,6186,680,0
+173,92,"Retargeting Q1",direct,2025-04-12,conversion,205.00,204.50,5835,233,12
+174,93,"Content Marketing",referral,2023-10-15,consideration,0.00,372.70,8574,428,0
+175,94,"Product Launch",paid_search,2023-05-31,retention,0.00,448.00,4959,49,0
+176,94,"Email Nurture",referral,2023-05-07,awareness,0.00,346.60,953,133,0
+177,94,"Referral Program",paid_search,2023-05-07,consideration,0.00,239.50,7217,72,0
+178,95,"Content Marketing",organic,2024-05-06,consideration,0.00,179.00,7719,926,0
+179,95,"Brand Awareness",referral,2024-05-05,conversion,87.00,489.80,6492,129,25
+180,95,"Partnership Drive",social_media,2024-04-25,retention,0.00,389.40,5268,790,0
+181,96,"Brand Awareness",email,2025-04-28,awareness,0.00,435.80,7331,146,0
+182,97,"Brand Awareness",direct,2024-09-27,conversion,156.00,297.00,1234,24,4
+183,97,"Referral Program",direct,2024-09-27,consideration,0.00,140.20,8578,1029,0
+184,97,"Referral Program",social_media,2024-09-22,awareness,0.00,385.20,4171,291,0
+185,98,"Summer Sale 2024",paid_search,2025-09-05,consideration,0.00,327.50,4429,487,0
+186,98,"Content Marketing",paid_search,2025-09-10,consideration,0.00,179.60,5455,709,0
+187,98,"Email Nurture",referral,2025-10-02,consideration,0.00,258.50,9240,1108,0
+188,99,"Partnership Drive",referral,2023-12-28,awareness,0.00,445.10,6800,476,0
+189,99,"Content Marketing",referral,2023-12-20,awareness,0.00,446.20,7353,220,0
+190,99,"Email Nurture",paid_search,2023-12-16,awareness,0.00,390.00,2371,237,0
+191,100,"Partnership Drive",referral,2024-01-31,retention,0.00,53.90,5947,594,0
+192,100,"Holiday Special",paid_search,2024-01-15,consideration,0.00,188.60,873,113,0
+193,100,"Social Media Push",email,2024-01-17,conversion,0.00,228.00,1213,36,0
+194,101,"Q4 Growth",social_media,2023-09-29,retention,0.00,288.50,7469,597,0
+195,101,"Content Marketing",organic,2023-10-10,retention,0.00,63.70,4876,487,0
+196,101,"Holiday Special",social_media,2023-10-02,retention,0.00,385.10,6359,317,0
+197,102,"Social Media Push",paid_search,2024-07-08,conversion,426.00,362.90,6721,739,9
+198,102,"Partnership Drive",email,2024-07-18,awareness,0.00,228.50,4363,218,0
+199,103,"Content Marketing",paid_search,2025-10-15,consideration,0.00,376.10,1661,215,0
+200,103,"Social Media Push",direct,2025-11-10,awareness,0.00,227.00,7690,538,0
+201,103,"Product Launch",social_media,2025-11-07,consideration,0.00,48.60,7084,637,0
+202,104,"Partnership Drive",organic,2025-01-11,consideration,0.00,273.90,9976,199,0
+203,104,"Social Media Push",direct,2025-01-04,consideration,0.00,47.70,267,34,0
+204,105,"Summer Sale 2024",direct,2024-08-06,conversion,112.00,253.20,8748,962,139
+205,105,"Holiday Special",direct,2024-07-29,awareness,0.00,69.70,1931,193,0
+206,106,"Content Marketing",organic,2022-12-31,conversion,153.00,186.30,8075,323,55
+207,107,"Content Marketing",email,2023-03-13,conversion,452.00,253.70,5671,396,70
+208,107,"Q4 Growth",email,2023-03-15,retention,0.00,293.60,4132,537,0
+209,108,"Brand Awareness",referral,2023-04-10,consideration,0.00,65.20,6226,435,0
+210,108,"Partnership Drive",referral,2023-03-21,conversion,124.00,410.90,4354,522,10
+211,109,"Summer Sale 2024",email,2025-01-11,consideration,0.00,32.30,8805,1056,0
+212,110,"Content Marketing",direct,2025-05-14,consideration,0.00,485.10,9813,294,0
+213,111,"Q4 Growth",direct,2023-01-31,awareness,0.00,270.20,4873,292,0
+214,112,"Lead Gen Campaign",organic,2023-01-17,awareness,0.00,418.50,6873,756,0
+215,112,"Partnership Drive",paid_search,2023-02-01,conversion,283.00,315.10,9686,193,22
+216,113,"Email Nurture",direct,2024-09-29,awareness,0.00,166.30,8220,493,0
+217,113,"Email Nurture",organic,2024-10-12,consideration,0.00,24.00,4759,190,0
+218,114,"Retargeting Q1",referral,2023-01-12,awareness,0.00,204.90,7569,151,0
+219,115,"Retargeting Q1",organic,2024-06-29,awareness,0.00,466.50,2745,384,0
+220,115,"Q4 Growth",direct,2024-06-24,awareness,0.00,376.90,8862,1329,0
+221,116,"Partnership Drive",social_media,2024-01-17,awareness,0.00,159.80,5745,287,0
+222,116,"Partnership Drive",paid_search,2024-01-23,awareness,0.00,470.70,2164,129,0
+223,117,"Social Media Push",organic,2024-02-13,awareness,0.00,127.70,2852,57,0
+224,118,"Referral Program",email,2023-09-19,retention,0.00,138.30,2222,111,0
+225,118,"Product Launch",direct,2023-09-12,retention,0.00,416.00,7844,1098,0
+226,118,"Referral Program",email,2023-09-21,awareness,0.00,418.60,2621,26,0
+227,119,"Q4 Growth",organic,2024-12-04,conversion,411.00,388.40,6706,1005,5
+228,120,"Summer Sale 2024",direct,2023-03-07,retention,0.00,128.30,3207,352,0
+229,120,"Social Media Push",social_media,2023-03-18,conversion,33.00,63.20,9191,91,10
+230,121,"Social Media Push",direct,2023-05-16,conversion,285.00,260.70,3571,392,62
+231,121,"Holiday Special",organic,2023-05-20,retention,0.00,407.40,5543,776,0
+232,121,"Holiday Special",referral,2023-05-17,consideration,0.00,199.30,4966,645,0
+233,122,"Content Marketing",direct,2022-12-19,conversion,246.00,76.30,9216,460,84
+234,122,"Partnership Drive",paid_search,2023-01-10,retention,0.00,31.70,4332,173,0
+235,122,"Summer Sale 2024",referral,2023-01-01,consideration,0.00,199.40,5721,514,0
+236,123,"Retargeting Q1",email,2024-11-28,consideration,0.00,454.50,1649,131,0
+237,123,"Brand Awareness",paid_search,2024-11-30,conversion,171.00,374.20,9790,1076,181
+238,124,"Social Media Push",email,2024-06-03,retention,0.00,342.20,8406,1260,0
+239,124,"Summer Sale 2024",direct,2024-06-15,conversion,349.00,295.30,3285,361,41
+240,124,"Q4 Growth",direct,2024-06-14,conversion,135.00,86.60,4255,425,28
+241,125,"Holiday Special",social_media,2024-10-06,retention,0.00,180.70,7016,350,0
+242,125,"Retargeting Q1",organic,2024-10-07,consideration,0.00,213.20,4828,482,0
+243,126,"Social Media Push",email,2025-09-02,retention,0.00,346.50,4355,261,0
+244,126,"Email Nurture",direct,2025-09-15,consideration,0.00,176.30,8273,1240,0
+245,126,"Partnership Drive",organic,2025-08-30,conversion,0.00,379.80,626,18,0
+246,127,"Brand Awareness",organic,2023-11-17,conversion,493.00,443.70,1365,204,14
+247,127,"Retargeting Q1",organic,2023-11-23,retention,0.00,263.00,5370,698,0
+248,128,"Referral Program",referral,2023-02-08,consideration,0.00,433.30,7069,706,0
+249,129,"Retargeting Q1",email,2025-09-03,conversion,427.00,16.70,5607,336,30
+250,129,"Holiday Special",direct,2025-09-05,conversion,281.00,269.60,7037,211,41
+251,130,"Q4 Growth",referral,2024-05-15,conversion,450.00,171.80,1426,213,2
+252,131,"Lead Gen Campaign",paid_search,2025-07-25,awareness,0.00,110.50,290,23,0
+253,131,"Brand Awareness",referral,2025-07-25,retention,0.00,65.60,5567,835,0
+254,132,"Social Media Push",paid_search,2023-03-19,retention,0.00,84.20,5185,570,0
+255,132,"Holiday Special",direct,2023-03-21,conversion,467.00,194.10,5740,114,9
+256,133,"Brand Awareness",direct,2023-10-28,retention,0.00,5.00,8679,607,0
+257,134,"Summer Sale 2024",social_media,2024-10-21,consideration,0.00,340.00,4876,146,0
+258,135,"Product Launch",social_media,2023-10-20,conversion,252.00,229.60,7027,421,33
+259,135,"Email Nurture",direct,2023-10-31,conversion,479.00,183.10,7565,378,8
+260,136,"Brand Awareness",referral,2024-06-09,conversion,190.00,360.50,4701,705,131
+261,136,"Lead Gen Campaign",paid_search,2024-06-13,retention,0.00,428.40,7585,455,0
+262,137,"Q4 Growth",social_media,2025-02-12,conversion,172.00,444.30,2325,279,49
+263,137,"Summer Sale 2024",email,2025-02-05,retention,0.00,225.20,1961,196,0
+264,138,"Email Nurture",organic,2023-01-11,awareness,0.00,22.00,9036,451,0
+265,138,"Retargeting Q1",paid_search,2023-01-31,retention,0.00,32.20,8884,621,0
+266,139,"Holiday Special",direct,2023-08-18,awareness,0.00,451.40,7491,149,0
+267,139,"Brand Awareness",direct,2023-08-05,awareness,0.00,250.30,4661,46,0
+268,139,"Content Marketing",email,2023-08-07,awareness,0.00,489.90,3675,441,0
+269,140,"Summer Sale 2024",email,2023-12-23,retention,0.00,160.70,1133,22,0
+270,140,"Q4 Growth",direct,2023-12-28,retention,0.00,191.60,5635,845,0
+271,140,"Brand Awareness",referral,2023-12-30,awareness,0.00,75.60,1919,95,0
+272,141,"Holiday Special",social_media,2023-03-26,conversion,493.00,214.20,7718,1157,120
+273,141,"Lead Gen Campaign",organic,2023-03-13,consideration,0.00,335.30,3273,458,0
+274,142,"Email Nurture",organic,2023-03-05,awareness,0.00,187.60,5600,392,0
+275,142,"Referral Program",paid_search,2023-03-05,awareness,0.00,176.80,147,14,0
+276,143,"Retargeting Q1",direct,2023-11-28,consideration,0.00,411.20,1603,160,0
+277,143,"Partnership Drive",paid_search,2023-12-08,retention,0.00,161.00,2578,232,0
+278,144,"Brand Awareness",organic,2025-04-20,conversion,34.00,233.20,3420,444,81
+279,144,"Email Nurture",paid_search,2025-04-02,consideration,0.00,308.50,6667,1000,0
+280,144,"Product Launch",organic,2025-04-30,conversion,59.00,252.30,9230,1199,50
+281,145,"Summer Sale 2024",social_media,2023-11-05,awareness,0.00,217.90,7613,380,0
+282,145,"Partnership Drive",email,2023-11-11,conversion,285.00,457.30,5365,268,3
+283,145,"Q4 Growth",paid_search,2023-11-10,conversion,161.00,149.20,8147,488,38
+284,146,"Referral Program",referral,2025-04-13,conversion,487.00,45.90,178,16,3
+285,146,"Content Marketing",referral,2025-04-04,conversion,194.00,294.80,9866,1085,168
+286,146,"Referral Program",organic,2025-04-02,awareness,0.00,314.20,1154,69,0
+287,147,"Summer Sale 2024",organic,2025-06-08,awareness,0.00,161.00,4562,319,0
+288,147,"Product Launch",email,2025-07-03,conversion,257.00,347.10,9551,764,5
+289,147,"Partnership Drive",social_media,2025-06-22,awareness,0.00,201.50,2774,277,0
+290,148,"Email Nurture",direct,2023-10-22,conversion,282.00,355.30,1282,166,12
+291,148,"Email Nurture",paid_search,2023-10-16,conversion,54.00,481.10,1473,220,43
+292,148,"Social Media Push",direct,2023-10-13,consideration,0.00,393.00,9503,1425,0
+293,149,"Referral Program",organic,2023-12-13,awareness,0.00,370.80,7851,706,0
+294,149,"Referral Program",organic,2024-01-01,retention,0.00,144.40,6408,512,0
+295,150,"Product Launch",referral,2025-08-21,conversion,421.00,432.50,3109,124,13
+296,150,"Brand Awareness",paid_search,2025-08-20,conversion,317.00,269.10,8998,989,120
+297,151,"Content Marketing",direct,2024-11-28,retention,0.00,287.10,2318,301,0
+298,151,"Content Marketing",social_media,2024-11-21,retention,0.00,399.70,5063,759,0
+299,151,"Q4 Growth",email,2024-11-19,retention,0.00,162.30,258,36,0
+300,152,"Referral Program",social_media,2023-11-06,retention,0.00,477.50,5270,52,0
+301,152,"Referral Program",email,2023-10-29,awareness,0.00,385.80,3726,149,0
+302,153,"Content Marketing",email,2023-11-28,conversion,256.00,56.80,5268,316,58
+303,154,"Referral Program",social_media,2023-03-02,conversion,207.00,34.50,5604,504,60
+304,155,"Product Launch",direct,2025-11-12,awareness,0.00,194.70,2801,196,0
+305,155,"Product Launch",paid_search,2025-11-13,consideration,0.00,370.70,1696,84,0
+306,156,"Content Marketing",organic,2025-07-12,awareness,0.00,420.80,7824,625,0
+307,156,"Content Marketing",organic,2025-07-14,consideration,0.00,50.20,9677,870,0
+308,157,"Summer Sale 2024",paid_search,2025-04-26,consideration,0.00,472.60,7550,377,0
+309,157,"Holiday Special",email,2025-05-02,awareness,0.00,400.20,888,88,0
+310,157,"Q4 Growth",referral,2025-04-02,conversion,264.00,80.60,7466,1045,156
+311,158,"Content Marketing",paid_search,2023-10-31,retention,0.00,282.40,3864,231,0
+312,159,"Retargeting Q1",direct,2024-05-23,consideration,0.00,237.30,4949,247,0
+313,159,"Lead Gen Campaign",direct,2024-05-15,awareness,0.00,443.70,6949,1042,0
+314,159,"Referral Program",email,2024-05-24,conversion,0.00,449.00,356,42,0
+315,160,"Email Nurture",referral,2024-03-05,consideration,0.00,248.00,6040,302,0
+316,161,"Partnership Drive",email,2024-09-13,awareness,0.00,243.50,6605,396,0
+317,161,"Lead Gen Campaign",direct,2024-09-09,retention,0.00,118.40,8051,322,0
+318,161,"Social Media Push",organic,2024-09-23,retention,0.00,318.30,459,41,0
+319,162,"Retargeting Q1",social_media,2023-06-29,retention,0.00,343.80,2185,131,0
+320,163,"Holiday Special",direct,2024-09-28,conversion,275.00,350.20,2581,258,50
+321,164,"Holiday Special",paid_search,2024-12-13,conversion,35.00,499.60,4885,586,86
+322,165,"Summer Sale 2024",social_media,2025-02-24,retention,0.00,128.50,5517,165,0
+323,165,"Partnership Drive",social_media,2025-02-16,retention,0.00,450.00,365,32,0
+324,166,"Summer Sale 2024",organic,2025-09-07,awareness,0.00,321.70,9893,1286,0
+325,166,"Brand Awareness",social_media,2025-09-02,awareness,0.00,396.10,1939,174,0
+326,167,"Content Marketing",organic,2024-03-26,consideration,0.00,329.70,3316,397,0
+327,167,"Email Nurture",email,2024-03-30,consideration,0.00,195.50,564,22,0
+328,168,"Content Marketing",email,2024-12-06,consideration,0.00,359.00,516,5,0
+329,169,"Product Launch",organic,2025-07-12,retention,0.00,261.30,6266,375,0
+330,169,"Content Marketing",social_media,2025-06-20,consideration,0.00,248.70,5114,767,0
+331,170,"Summer Sale 2024",paid_search,2023-04-08,awareness,0.00,395.70,6667,466,0
+332,170,"Email Nurture",paid_search,2023-04-21,awareness,0.00,335.90,971,135,0
+333,171,"Summer Sale 2024",referral,2024-03-23,retention,0.00,155.00,3790,416,0
+334,171,"Holiday Special",organic,2024-04-01,conversion,270.00,412.90,3819,38,4
+335,171,"Product Launch",social_media,2024-03-29,retention,0.00,327.90,1634,130,0
+336,172,"Q4 Growth",paid_search,2025-08-20,consideration,0.00,192.80,5345,53,0
+337,173,"Product Launch",email,2023-11-30,retention,0.00,457.40,7157,787,0
+338,173,"Q4 Growth",paid_search,2023-12-03,awareness,0.00,231.10,8510,936,0
+339,173,"Summer Sale 2024",social_media,2023-12-22,consideration,0.00,229.30,9393,563,0
+340,174,"Holiday Special",social_media,2023-08-10,retention,0.00,121.50,1494,224,0
+341,174,"Referral Program",organic,2023-07-30,consideration,0.00,224.70,2627,394,0
+342,175,"Product Launch",organic,2023-09-29,awareness,0.00,108.00,6420,64,0
+343,176,"Email Nurture",paid_search,2024-03-18,conversion,66.00,224.30,8323,749,107
+344,177,"Brand Awareness",direct,2023-11-22,conversion,433.00,493.20,4608,322,33
+345,177,"Product Launch",paid_search,2023-11-10,conversion,445.00,15.80,725,58,6
+346,177,"Social Media Push",direct,2023-11-30,consideration,0.00,32.70,2850,142,0
+347,178,"Content Marketing",paid_search,2025-08-28,conversion,314.00,212.60,3502,280,47
+348,178,"Email Nurture",referral,2025-09-15,consideration,0.00,468.70,5227,209,0
+349,179,"Partnership Drive",direct,2024-12-10,awareness,0.00,328.70,9322,559,0
+350,180,"Summer Sale 2024",paid_search,2024-09-04,retention,0.00,214.50,2373,47,0
+351,180,"Lead Gen Campaign",paid_search,2024-09-03,consideration,0.00,402.40,3736,523,0
+352,180,"Q4 Growth",referral,2024-09-04,conversion,119.00,99.50,9003,810,26
+353,181,"Referral Program",email,2023-09-13,retention,0.00,131.20,8014,400,0
+354,182,"Partnership Drive",social_media,2024-08-10,awareness,0.00,164.40,9813,1177,0
+355,182,"Retargeting Q1",social_media,2024-08-10,retention,0.00,487.60,3433,377,0
+356,183,"Partnership Drive",organic,2023-05-13,consideration,0.00,461.50,4956,396,0
+357,183,"Product Launch",social_media,2023-05-14,conversion,253.00,418.10,7211,1009,159
+358,183,"Lead Gen Campaign",social_media,2023-05-07,conversion,475.00,259.40,4178,501,50
+359,184,"Referral Program",referral,2025-06-17,retention,0.00,377.20,6730,134,0
+360,185,"Lead Gen Campaign",paid_search,2025-08-25,retention,0.00,28.50,4626,462,0
+361,186,"Email Nurture",organic,2024-02-05,consideration,0.00,247.30,1122,134,0
+362,187,"Lead Gen Campaign",referral,2025-04-14,conversion,109.00,341.50,5873,469,26
+363,187,"Social Media Push",referral,2025-04-19,retention,0.00,473.30,6902,966,0
+364,188,"Holiday Special",social_media,2025-04-29,conversion,133.00,353.80,7319,73,6
+365,189,"Brand Awareness",referral,2024-07-31,awareness,0.00,95.20,9419,470,0
+366,189,"Summer Sale 2024",paid_search,2024-07-25,conversion,72.00,477.10,7772,155,22
+367,190,"Email Nurture",referral,2024-08-07,awareness,0.00,12.40,9282,928,0
+368,191,"Lead Gen Campaign",paid_search,2023-05-15,retention,0.00,244.40,1465,117,0
+369,191,"Product Launch",organic,2023-05-15,awareness,0.00,263.00,2523,25,0
+370,191,"Referral Program",direct,2023-05-09,awareness,0.00,493.30,2286,205,0
+371,192,"Product Launch",email,2025-02-16,consideration,0.00,229.30,6739,336,0
+372,192,"Q4 Growth",organic,2025-02-02,conversion,0.00,160.50,3463,69,0
+373,193,"Partnership Drive",social_media,2024-02-10,consideration,0.00,161.60,897,134,0
+374,193,"Product Launch",social_media,2024-01-29,consideration,0.00,236.10,3086,185,0
+375,193,"Email Nurture",email,2024-02-07,consideration,0.00,174.80,9091,1181,0
+376,194,"Partnership Drive",organic,2023-09-17,awareness,0.00,458.30,8009,800,0
+377,194,"Brand Awareness",referral,2023-09-08,retention,0.00,200.80,7541,226,0
+378,194,"Referral Program",paid_search,2023-08-30,consideration,0.00,364.50,6845,547,0
+379,195,"Email Nurture",paid_search,2024-07-01,awareness,0.00,105.70,5661,452,0
+380,196,"Summer Sale 2024",referral,2023-02-27,retention,0.00,48.20,911,63,0
+381,196,"Product Launch",social_media,2023-03-02,consideration,0.00,343.50,9112,1093,0
+382,196,"Retargeting Q1",social_media,2023-03-05,conversion,434.00,16.70,4281,385,61
+383,197,"Email Nurture",social_media,2025-06-18,conversion,56.00,348.40,3133,375,36
+384,197,"Email Nurture",referral,2025-06-03,consideration,0.00,382.80,6605,528,0
+385,197,"Holiday Special",direct,2025-06-03,consideration,0.00,429.10,8656,865,0
+386,198,"Holiday Special",social_media,2023-07-21,retention,0.00,467.30,9481,568,0
+387,198,"Product Launch",organic,2023-07-15,retention,0.00,465.10,8284,1242,0
+388,199,"Brand Awareness",social_media,2023-03-21,retention,0.00,272.40,5178,466,0
+389,199,"Retargeting Q1",referral,2023-03-29,conversion,370.00,327.90,5891,176,7
+390,200,"Partnership Drive",referral,2023-08-15,conversion,99.00,26.70,3102,31,1
+391,200,"Brand Awareness",direct,2023-08-30,retention,0.00,392.00,5973,298,0
+392,200,"Content Marketing",email,2023-08-29,retention,0.00,228.20,967,67,0
+393,201,"Content Marketing",referral,2024-04-24,conversion,336.00,19.40,6512,130,20
+394,202,"Lead Gen Campaign",referral,2024-04-03,awareness,0.00,65.00,7739,232,0
+395,202,"Social Media Push",email,2024-03-30,awareness,0.00,492.50,6391,639,0
+396,203,"Q4 Growth",referral,2025-08-03,conversion,328.00,106.10,5330,692,73
+397,203,"Brand Awareness",referral,2025-08-06,conversion,359.00,372.30,5219,521,68
+398,204,"Social Media Push",email,2025-07-08,conversion,0.00,361.40,124,1,0
+399,204,"Product Launch",referral,2025-07-08,retention,0.00,176.40,1663,166,0
+400,204,"Lead Gen Campaign",referral,2025-07-28,retention,0.00,439.80,2695,404,0
+401,205,"Lead Gen Campaign",referral,2025-04-12,retention,0.00,40.50,1707,170,0
+402,205,"Brand Awareness",paid_search,2025-05-04,conversion,422.00,208.10,3055,122,15
+403,206,"Brand Awareness",paid_search,2024-08-04,retention,0.00,274.90,3011,451,0
+404,207,"Referral Program",organic,2025-06-01,awareness,0.00,377.00,5078,355,0
+405,208,"Partnership Drive",email,2024-07-12,consideration,0.00,111.10,9548,1241,0
+406,208,"Product Launch",direct,2024-07-13,awareness,0.00,30.20,3475,34,0
+407,209,"Holiday Special",direct,2022-12-26,consideration,0.00,160.70,698,104,0
+408,210,"Partnership Drive",paid_search,2024-01-16,conversion,471.00,488.50,5927,59,4
+409,210,"Partnership Drive",social_media,2024-01-09,awareness,0.00,478.60,1692,203,0
+410,211,"Brand Awareness",referral,2025-06-08,consideration,0.00,278.00,5403,432,0
+411,211,"Lead Gen Campaign",referral,2025-06-30,consideration,0.00,273.70,6660,932,0
+412,212,"Q4 Growth",direct,2024-05-06,conversion,155.00,30.20,6081,547,78
+413,212,"Retargeting Q1",referral,2024-05-16,consideration,0.00,101.00,1304,195,0
+414,213,"Social Media Push",direct,2023-02-10,awareness,0.00,189.80,7582,454,0
+415,213,"Partnership Drive",social_media,2023-01-27,consideration,0.00,257.20,7457,820,0
+416,213,"Partnership Drive",direct,2023-02-21,retention,0.00,374.00,2126,63,0
+417,214,"Email Nurture",organic,2024-05-22,awareness,0.00,403.00,713,7,0
+418,214,"Summer Sale 2024",referral,2024-05-14,retention,0.00,161.90,9942,695,0
+419,215,"Product Launch",organic,2023-05-04,consideration,0.00,185.90,3707,74,0
+420,215,"Retargeting Q1",paid_search,2023-04-16,retention,0.00,252.80,4282,299,0
+421,215,"Brand Awareness",social_media,2023-04-21,conversion,119.00,66.20,9019,901,87
+422,216,"Content Marketing",email,2023-10-04,consideration,0.00,154.30,4617,646,0
+423,217,"Holiday Special",paid_search,2025-09-23,awareness,0.00,444.20,2077,83,0
+424,217,"Social Media Push",organic,2025-09-17,awareness,0.00,329.50,1732,242,0
+425,218,"Lead Gen Campaign",referral,2024-11-10,retention,0.00,45.70,2504,275,0
+426,219,"Brand Awareness",referral,2025-04-23,retention,0.00,473.30,3076,92,0
+427,220,"Lead Gen Campaign",paid_search,2023-04-11,awareness,0.00,98.80,2870,315,0
+428,221,"Content Marketing",referral,2025-02-08,awareness,0.00,429.90,2668,53,0
+429,222,"Email Nurture",referral,2025-08-13,awareness,0.00,275.30,1794,17,0
+430,222,"Partnership Drive",email,2025-08-18,consideration,0.00,54.30,6234,685,0
+431,223,"Content Marketing",direct,2023-11-01,retention,0.00,42.20,6687,936,0
+432,223,"Summer Sale 2024",social_media,2023-11-02,consideration,0.00,420.00,8356,417,0
+433,223,"Holiday Special",organic,2023-11-18,conversion,236.00,21.20,4705,47,5
+434,224,"Lead Gen Campaign",referral,2024-10-11,awareness,0.00,120.30,3432,171,0
+435,225,"Referral Program",paid_search,2024-01-29,consideration,0.00,436.40,3083,369,0
+436,225,"Email Nurture",direct,2024-02-02,retention,0.00,305.70,4498,629,0
+437,226,"Referral Program",referral,2024-06-02,conversion,0.00,219.00,6689,66,0
+438,226,"Partnership Drive",paid_search,2024-06-11,consideration,0.00,323.30,3420,273,0
+439,227,"Brand Awareness",direct,2024-03-13,consideration,0.00,457.50,7064,353,0
+440,227,"Brand Awareness",direct,2024-03-04,conversion,348.00,139.70,1401,112,2
+441,227,"Content Marketing",social_media,2024-03-13,retention,0.00,167.20,4097,573,0
+442,228,"Q4 Growth",paid_search,2024-08-18,awareness,0.00,418.90,2302,322,0
+443,228,"Partnership Drive",email,2024-09-07,consideration,0.00,447.90,1542,231,0
+444,228,"Partnership Drive",referral,2024-08-28,retention,0.00,285.00,517,67,0
+445,229,"Retargeting Q1",referral,2023-02-15,retention,0.00,71.10,9743,876,0
+446,229,"Q4 Growth",social_media,2023-02-20,consideration,0.00,79.00,5631,56,0
+447,230,"Lead Gen Campaign",direct,2024-06-27,retention,0.00,329.00,2645,211,0
+448,231,"Holiday Special",direct,2023-10-10,awareness,0.00,287.20,4687,374,0
+449,231,"Referral Program",organic,2023-11-06,retention,0.00,261.30,3863,193,0
+450,231,"Partnership Drive",organic,2023-11-08,conversion,112.00,27.60,9168,1375,262
+451,232,"Referral Program",social_media,2024-09-25,conversion,334.00,201.80,8206,902,31
+452,232,"Q4 Growth",email,2024-10-05,conversion,314.00,433.50,5838,350,60
+453,232,"Lead Gen Campaign",paid_search,2024-09-18,awareness,0.00,141.60,9057,1177,0
+454,233,"Q4 Growth",email,2023-08-11,consideration,0.00,407.50,4605,184,0
+455,234,"Product Launch",organic,2023-08-14,retention,0.00,297.90,3016,331,0
+456,235,"Referral Program",direct,2025-03-26,consideration,0.00,478.30,6530,979,0
+457,236,"Content Marketing",organic,2023-09-25,awareness,0.00,219.10,9323,1025,0
+458,236,"Email Nurture",social_media,2023-10-08,conversion,0.00,52.20,5242,209,0
+459,236,"Holiday Special",referral,2023-10-11,retention,0.00,90.40,4115,411,0
+460,237,"Partnership Drive",organic,2025-01-11,consideration,0.00,344.10,659,85,0
+461,237,"Lead Gen Campaign",direct,2025-01-25,consideration,0.00,138.60,8262,660,0
+462,237,"Lead Gen Campaign",organic,2025-01-08,awareness,0.00,89.80,1929,154,0
+463,238,"Social Media Push",email,2023-06-04,awareness,0.00,36.70,8447,337,0
+464,239,"Holiday Special",direct,2024-12-21,retention,0.00,433.20,2659,292,0
+465,239,"Retargeting Q1",direct,2024-11-27,retention,0.00,289.40,7546,603,0
+466,239,"Q4 Growth",direct,2024-11-30,retention,0.00,294.70,6752,472,0
+467,240,"Lead Gen Campaign",paid_search,2024-07-22,retention,0.00,445.90,416,41,0
+468,240,"Brand Awareness",paid_search,2024-07-13,conversion,459.00,65.20,8101,1053,204
+469,240,"Email Nurture",referral,2024-07-13,retention,0.00,122.70,5227,784,0
+470,241,"Lead Gen Campaign",email,2025-04-23,awareness,0.00,131.20,4203,168,0
+471,242,"Email Nurture",referral,2023-04-19,retention,0.00,136.20,1918,191,0
+472,243,"Product Launch",social_media,2025-04-10,conversion,298.00,413.00,6252,375,11
+473,244,"Holiday Special",organic,2024-06-02,consideration,0.00,85.80,4203,210,0
+474,244,"Product Launch",organic,2024-05-26,consideration,0.00,259.80,3688,73,0
+475,244,"Social Media Push",email,2024-05-26,retention,0.00,152.50,767,30,0
+476,245,"Product Launch",paid_search,2024-11-12,awareness,0.00,64.30,9915,594,0
+477,245,"Referral Program",social_media,2024-11-12,retention,0.00,304.40,593,53,0
+478,246,"Brand Awareness",referral,2023-06-16,retention,0.00,15.70,3442,516,0
+479,246,"Q4 Growth",social_media,2023-06-13,consideration,0.00,20.40,4506,585,0
+480,247,"Holiday Special",social_media,2024-04-10,conversion,465.00,66.20,8928,1160,68
+481,247,"Retargeting Q1",paid_search,2024-04-22,conversion,282.00,483.60,7689,230,13
+482,248,"Referral Program",paid_search,2025-09-30,conversion,240.00,462.50,6472,323,5
+483,249,"Referral Program",social_media,2023-11-18,conversion,240.00,140.30,7493,1049,209
+484,249,"Email Nurture",referral,2023-11-15,consideration,0.00,290.80,9711,291,0
+485,249,"Social Media Push",email,2023-11-30,retention,0.00,227.80,1583,237,0
+486,250,"Holiday Special",email,2024-12-30,awareness,0.00,341.10,3198,415,0
+487,250,"Holiday Special",paid_search,2025-01-05,conversion,413.00,189.20,7342,293,6
+488,251,"Product Launch",organic,2024-10-15,retention,0.00,177.50,1023,122,0
+489,251,"Retargeting Q1",paid_search,2024-09-25,retention,0.00,128.70,6611,330,0
+490,251,"Holiday Special",paid_search,2024-09-28,awareness,0.00,471.30,4646,557,0
+491,252,"Retargeting Q1",referral,2024-06-28,consideration,0.00,198.90,3002,450,0
+492,252,"Partnership Drive",paid_search,2024-07-08,consideration,0.00,386.50,7491,449,0
+493,252,"Social Media Push",referral,2024-07-23,consideration,0.00,496.20,7838,783,0
+494,253,"Partnership Drive",social_media,2023-07-06,consideration,0.00,155.20,8423,1094,0
+495,253,"Brand Awareness",email,2023-07-23,consideration,0.00,42.60,962,67,0
+496,253,"Referral Program",referral,2023-07-13,consideration,0.00,341.60,3785,340,0
+497,254,"Retargeting Q1",email,2023-12-19,retention,0.00,323.60,4538,363,0
+498,254,"Content Marketing",direct,2024-01-01,conversion,130.00,233.00,9296,278,27
+499,254,"Partnership Drive",organic,2023-12-11,consideration,0.00,56.60,8465,761,0
+500,255,"Brand Awareness",paid_search,2024-09-22,awareness,0.00,288.60,7670,460,0
+501,255,"Brand Awareness",organic,2024-09-21,awareness,0.00,397.30,6340,126,0
+502,256,"Social Media Push",organic,2023-05-07,awareness,0.00,234.80,785,102,0
+503,256,"Partnership Drive",social_media,2023-05-01,conversion,299.00,198.80,3374,33,3
+504,257,"Summer Sale 2024",paid_search,2025-09-04,consideration,0.00,293.30,2614,261,0
+505,257,"Holiday Special",email,2025-08-30,retention,0.00,183.60,8590,343,0
+506,258,"Brand Awareness",social_media,2023-04-16,consideration,0.00,259.90,1324,66,0
+507,258,"Content Marketing",organic,2023-04-12,consideration,0.00,337.30,1859,167,0
+508,259,"Partnership Drive",email,2023-06-20,awareness,0.00,385.10,2836,113,0
+509,260,"Lead Gen Campaign",social_media,2024-03-26,conversion,429.00,332.50,2195,131,17
+510,261,"Social Media Push",referral,2024-12-15,conversion,175.00,154.20,1473,44,2
+511,261,"Holiday Special",referral,2024-12-23,consideration,0.00,371.10,7509,450,0
+512,261,"Holiday Special",email,2025-01-02,conversion,209.00,339.20,551,49,9
+513,262,"Referral Program",direct,2023-05-01,consideration,0.00,71.40,1149,172,0
+514,263,"Product Launch",paid_search,2023-01-05,awareness,0.00,250.00,5708,627,0
+515,263,"Email Nurture",organic,2022-12-10,consideration,0.00,179.90,361,46,0
+516,264,"Retargeting Q1",referral,2023-10-20,retention,0.00,118.60,237,4,0
+517,264,"Email Nurture",paid_search,2023-10-18,awareness,0.00,91.40,4503,360,0
+518,264,"Referral Program",paid_search,2023-11-13,consideration,0.00,263.00,9267,185,0
+519,265,"Holiday Special",direct,2025-05-07,conversion,149.00,25.60,788,63,10
+520,265,"Product Launch",direct,2025-05-09,awareness,0.00,318.90,5480,383,0
+521,265,"Retargeting Q1",organic,2025-05-14,awareness,0.00,172.50,5400,648,0
+522,266,"Product Launch",organic,2025-11-03,consideration,0.00,468.40,3431,480,0
+523,266,"Email Nurture",referral,2025-10-24,conversion,307.00,433.60,8660,1212,20
+524,266,"Lead Gen Campaign",paid_search,2025-11-11,conversion,324.00,351.00,7769,699,79
+525,267,"Product Launch",paid_search,2025-06-28,awareness,0.00,7.50,5073,101,0
+526,267,"Lead Gen Campaign",email,2025-06-18,conversion,416.00,203.10,4895,391,21
+527,267,"Product Launch",social_media,2025-06-29,retention,0.00,74.50,9700,97,0
+528,268,"Summer Sale 2024",direct,2024-02-06,conversion,416.00,268.60,4195,461,37
+529,268,"Q4 Growth",email,2024-01-27,consideration,0.00,125.60,5088,457,0
+530,269,"Retargeting Q1",referral,2025-04-07,awareness,0.00,403.30,5891,412,0
+531,270,"Retargeting Q1",referral,2023-09-18,consideration,0.00,302.70,3004,330,0
+532,270,"Retargeting Q1",referral,2023-09-23,awareness,0.00,9.30,4806,288,0
+533,271,"Brand Awareness",email,2024-11-18,conversion,435.00,380.30,6779,677,31
+534,271,"Summer Sale 2024",email,2024-12-03,retention,0.00,305.90,2836,170,0
+535,272,"Retargeting Q1",organic,2024-07-06,retention,0.00,271.80,6999,979,0
+536,273,"Product Launch",paid_search,2025-11-05,awareness,0.00,203.90,8621,1034,0
+537,274,"Summer Sale 2024",social_media,2025-02-27,conversion,430.00,134.00,4031,564,38
+538,275,"Brand Awareness",direct,2024-06-03,awareness,0.00,435.30,2066,268,0
+539,276,"Referral Program",organic,2023-11-03,consideration,0.00,34.90,4584,320,0
+540,277,"Holiday Special",organic,2023-02-09,consideration,0.00,190.50,2273,227,0
+541,277,"Brand Awareness",email,2023-02-05,awareness,0.00,267.70,5430,814,0
+542,277,"Retargeting Q1",paid_search,2023-01-31,consideration,0.00,311.70,8321,1164,0
+543,278,"Email Nurture",paid_search,2023-03-02,retention,0.00,345.70,7079,70,0
+544,278,"Email Nurture",direct,2023-03-06,retention,0.00,87.50,1978,79,0
+545,278,"Holiday Special",email,2023-02-25,conversion,377.00,439.20,1322,171,28
+546,279,"Content Marketing",organic,2024-02-07,awareness,0.00,103.90,9450,945,0
+547,279,"Social Media Push",referral,2024-02-11,consideration,0.00,285.70,7687,307,0
+548,280,"Brand Awareness",organic,2024-10-05,consideration,0.00,236.60,3712,185,0
+549,280,"Partnership Drive",email,2024-10-02,retention,0.00,127.00,3666,36,0
+550,281,"Brand Awareness",referral,2025-07-03,conversion,152.00,395.30,1905,114,22
+551,282,"Retargeting Q1",referral,2024-03-30,conversion,155.00,354.10,1661,132,7
+552,282,"Social Media Push",organic,2024-04-09,awareness,0.00,261.40,1085,108,0
+553,282,"Q4 Growth",email,2024-04-20,conversion,384.00,152.30,6408,256,42
+554,283,"Q4 Growth",paid_search,2025-03-12,retention,0.00,159.30,6289,817,0
+555,283,"Social Media Push",referral,2025-04-03,awareness,0.00,33.00,6000,720,0
+556,284,"Holiday Special",organic,2025-06-29,awareness,0.00,88.50,9535,1334,0
+557,285,"Partnership Drive",paid_search,2025-02-27,retention,0.00,415.80,3898,155,0
+558,285,"Email Nurture",direct,2025-02-23,conversion,349.00,442.20,9260,370,20
+559,285,"Retargeting Q1",paid_search,2025-02-13,conversion,373.00,306.60,2390,95,3
+560,286,"Email Nurture",direct,2025-04-11,conversion,155.00,443.60,6163,924,42
+561,286,"Q4 Growth",paid_search,2025-04-21,consideration,0.00,151.70,5652,734,0
+562,286,"Lead Gen Campaign",paid_search,2025-04-10,conversion,203.00,196.80,7314,1097,187
+563,287,"Holiday Special",direct,2024-11-30,retention,0.00,396.40,357,32,0
+564,287,"Holiday Special",referral,2024-12-03,retention,0.00,55.10,9697,387,0
+565,288,"Q4 Growth",referral,2025-02-10,conversion,329.00,208.40,8297,1078,176
+566,289,"Referral Program",email,2025-08-06,conversion,247.00,492.90,9009,360,34
+567,289,"Lead Gen Campaign",email,2025-08-07,consideration,0.00,469.90,3089,463,0
+568,290,"Brand Awareness",social_media,2024-10-06,awareness,0.00,251.50,9908,594,0
+569,291,"Summer Sale 2024",referral,2025-03-17,consideration,0.00,379.20,7154,143,0
+570,291,"Holiday Special",direct,2025-03-21,retention,0.00,244.00,9207,1196,0
+571,292,"Content Marketing",paid_search,2023-08-13,conversion,0.00,18.90,5681,113,0
+572,292,"Partnership Drive",social_media,2023-08-13,consideration,0.00,379.30,679,33,0
+573,292,"Social Media Push",social_media,2023-08-14,consideration,0.00,192.30,9638,1252,0
+574,293,"Lead Gen Campaign",direct,2023-10-13,consideration,0.00,135.70,420,16,0
+575,293,"Holiday Special",referral,2023-09-19,awareness,0.00,236.80,6975,418,0
+576,294,"Email Nurture",organic,2023-10-18,consideration,0.00,247.70,8940,1072,0
+577,295,"Social Media Push",email,2024-08-10,retention,0.00,238.20,7842,627,0
+578,296,"Email Nurture",email,2024-02-01,awareness,0.00,170.30,8317,582,0
+579,297,"Product Launch",direct,2024-07-12,awareness,0.00,433.70,6811,749,0
+580,297,"Email Nurture",direct,2024-06-30,consideration,0.00,274.80,4807,528,0
+581,297,"Summer Sale 2024",email,2024-07-16,retention,0.00,260.80,4727,283,0
+582,298,"Holiday Special",social_media,2023-09-23,retention,0.00,158.80,1368,95,0
+583,298,"Content Marketing",social_media,2023-10-02,awareness,0.00,317.50,906,108,0
+584,299,"Email Nurture",social_media,2024-09-19,consideration,0.00,75.40,8031,481,0
+585,300,"Product Launch",organic,2025-10-09,awareness,0.00,95.40,7410,148,0
+586,300,"Social Media Push",social_media,2025-10-20,consideration,0.00,52.70,8163,1224,0
+587,300,"Retargeting Q1",social_media,2025-10-26,conversion,142.00,305.30,9241,369,6
+588,301,"Referral Program",paid_search,2023-05-03,conversion,376.00,393.10,5769,403,14
+589,301,"Content Marketing",referral,2023-05-27,consideration,0.00,119.40,2543,330,0
+590,301,"Brand Awareness",paid_search,2023-04-29,retention,0.00,11.10,5600,672,0
+591,302,"Brand Awareness",organic,2023-04-22,consideration,0.00,36.50,6472,323,0
+592,302,"Lead Gen Campaign",direct,2023-04-06,conversion,213.00,145.90,2971,267,4
+593,303,"Product Launch",paid_search,2023-02-04,retention,0.00,20.60,6121,918,0
+594,303,"Holiday Special",email,2023-01-23,consideration,0.00,364.00,4200,420,0
+595,304,"Referral Program",social_media,2023-04-13,retention,0.00,439.00,2562,333,0
+596,304,"Content Marketing",direct,2023-04-07,conversion,81.00,53.00,8472,847,162
+597,304,"Holiday Special",social_media,2023-04-05,conversion,416.00,133.80,8904,890,108
+598,305,"Product Launch",direct,2023-08-20,conversion,382.00,44.40,5304,371,8
+599,305,"Partnership Drive",organic,2023-08-19,conversion,246.00,50.50,3834,460,71
+600,305,"Email Nurture",social_media,2023-08-07,awareness,0.00,297.40,3874,581,0
+601,306,"Social Media Push",organic,2023-05-04,consideration,0.00,318.10,2658,292,0
+602,306,"Holiday Special",organic,2023-05-29,consideration,0.00,146.50,6960,835,0
+603,306,"Email Nurture",paid_search,2023-05-11,conversion,185.00,447.80,9277,1391,19
+604,307,"Retargeting Q1",paid_search,2024-07-29,conversion,476.00,220.70,9191,735,74
+605,308,"Product Launch",email,2024-12-05,retention,0.00,489.30,378,18,0
+606,308,"Product Launch",direct,2024-12-12,retention,0.00,152.30,6967,69,0
+607,309,"Retargeting Q1",paid_search,2025-11-05,consideration,0.00,252.60,1580,79,0
+608,309,"Product Launch",organic,2025-10-31,awareness,0.00,101.70,8389,419,0
+609,309,"Social Media Push",email,2025-11-07,retention,0.00,235.00,4952,742,0
+610,310,"Retargeting Q1",organic,2024-06-02,consideration,0.00,286.10,3044,182,0
+611,310,"Brand Awareness",referral,2024-05-31,retention,0.00,387.60,9928,794,0
+612,311,"Social Media Push",social_media,2024-06-24,consideration,0.00,360.80,7714,925,0
+613,311,"Content Marketing",direct,2024-06-04,conversion,359.00,333.90,3393,508,44
+614,311,"Summer Sale 2024",email,2024-06-23,consideration,0.00,353.40,1474,73,0
+615,312,"Summer Sale 2024",direct,2025-08-09,conversion,210.00,180.70,4347,347,1
+616,312,"Holiday Special",direct,2025-07-31,consideration,0.00,304.20,4251,297,0
+617,313,"Social Media Push",referral,2024-03-13,consideration,0.00,201.30,2990,299,0
+618,313,"Email Nurture",paid_search,2024-04-01,retention,0.00,348.70,4424,132,0
+619,313,"Q4 Growth",social_media,2024-03-13,awareness,0.00,78.80,8688,1303,0
+620,314,"Referral Program",referral,2025-05-17,consideration,0.00,418.30,6461,323,0
+621,314,"Q4 Growth",organic,2025-04-23,retention,0.00,148.50,6244,874,0
+622,315,"Lead Gen Campaign",direct,2025-08-11,consideration,0.00,245.20,742,14,0
+623,315,"Holiday Special",paid_search,2025-07-23,conversion,463.00,147.50,4422,574,63
+624,316,"Partnership Drive",organic,2025-05-26,retention,0.00,280.40,7114,497,0
+625,316,"Product Launch",paid_search,2025-05-18,conversion,481.00,213.80,8125,243,31
+626,316,"Social Media Push",social_media,2025-06-02,retention,0.00,312.00,1931,231,0
+627,317,"Holiday Special",referral,2024-01-20,retention,0.00,280.20,2523,252,0
+628,318,"Retargeting Q1",social_media,2024-01-31,awareness,0.00,110.00,5857,527,0
+629,318,"Product Launch",referral,2024-02-07,awareness,0.00,213.40,3609,180,0
+630,318,"Lead Gen Campaign",referral,2024-02-14,retention,0.00,347.70,558,39,0
+631,319,"Content Marketing",referral,2023-08-29,consideration,0.00,468.60,3734,373,0
+632,319,"Social Media Push",email,2023-09-02,retention,0.00,7.50,8163,408,0
+633,320,"Content Marketing",email,2024-12-20,consideration,0.00,172.70,6695,334,0
+634,321,"Partnership Drive",email,2023-04-29,conversion,146.00,271.90,1008,80,7
+635,321,"Holiday Special",organic,2023-04-25,conversion,215.00,387.80,1675,150,11
+636,321,"Q4 Growth",paid_search,2023-04-23,awareness,0.00,23.80,3660,549,0
+637,322,"Retargeting Q1",email,2022-12-17,awareness,0.00,449.00,8451,676,0
+638,323,"Summer Sale 2024",paid_search,2025-05-30,awareness,0.00,460.90,8754,1050,0
+639,323,"Partnership Drive",paid_search,2025-05-28,awareness,0.00,136.30,1074,150,0
+640,323,"Partnership Drive",paid_search,2025-04-30,retention,0.00,478.90,7420,667,0
+641,324,"Q4 Growth",email,2023-05-24,awareness,0.00,221.70,8305,166,0
+642,324,"Retargeting Q1",paid_search,2023-05-29,consideration,0.00,173.50,3575,286,0
+643,325,"Summer Sale 2024",referral,2024-01-31,consideration,0.00,319.80,3986,318,0
+644,325,"Social Media Push",referral,2024-01-22,awareness,0.00,86.60,9782,586,0
+645,326,"Lead Gen Campaign",social_media,2025-01-10,consideration,0.00,424.20,2058,308,0
+646,326,"Social Media Push",direct,2025-01-15,conversion,153.00,178.00,5846,701,25
+647,327,"Summer Sale 2024",social_media,2023-06-21,retention,0.00,396.60,7383,590,0
+648,327,"Holiday Special",email,2023-06-29,consideration,0.00,91.70,649,64,0
+649,328,"Q4 Growth",organic,2025-10-22,consideration,0.00,296.40,3071,122,0
+650,329,"Product Launch",organic,2024-11-20,awareness,0.00,444.60,8416,841,0
+651,329,"Referral Program",paid_search,2024-11-26,retention,0.00,496.50,526,26,0
+652,330,"Referral Program",email,2024-12-04,retention,0.00,421.30,4306,215,0
+653,330,"Social Media Push",referral,2024-12-18,conversion,411.00,469.90,5989,119,20
+654,331,"Q4 Growth",organic,2025-08-02,retention,0.00,310.50,9718,1263,0
+655,331,"Summer Sale 2024",paid_search,2025-07-28,retention,0.00,136.70,3103,93,0
+656,331,"Social Media Push",referral,2025-07-26,conversion,493.00,98.80,1004,50,6
+657,332,"Summer Sale 2024",social_media,2024-06-22,conversion,70.00,209.10,8676,1041,141
+658,332,"Referral Program",organic,2024-06-18,conversion,213.00,127.40,1720,240,25
+659,333,"Retargeting Q1",direct,2025-07-12,consideration,0.00,196.40,5907,708,0
+660,334,"Content Marketing",organic,2025-06-29,retention,0.00,119.30,7767,466,0
+661,335,"Holiday Special",direct,2023-04-11,consideration,0.00,173.10,4043,202,0
+662,336,"Content Marketing",organic,2024-03-03,retention,0.00,441.00,6104,305,0
+663,337,"Retargeting Q1",direct,2024-02-11,consideration,0.00,131.60,9777,1075,0
+664,337,"Social Media Push",paid_search,2024-02-10,retention,0.00,325.40,5394,701,0
+665,337,"Partnership Drive",direct,2024-02-19,conversion,156.00,457.00,5573,668,96
+666,338,"Q4 Growth",social_media,2023-03-29,consideration,0.00,331.80,4971,198,0
+667,338,"Referral Program",organic,2023-04-05,consideration,0.00,449.80,2651,26,0
+668,339,"Content Marketing",direct,2023-12-07,retention,0.00,454.60,1386,152,0
+669,339,"Summer Sale 2024",organic,2023-12-02,conversion,176.00,353.10,7092,283,13
+670,339,"Partnership Drive",email,2023-11-21,awareness,0.00,416.20,8101,486,0
+671,340,"Summer Sale 2024",organic,2025-06-13,retention,0.00,459.40,2039,224,0
+672,341,"Holiday Special",direct,2025-08-22,awareness,0.00,37.20,3164,284,0
+673,342,"Email Nurture",referral,2024-06-18,conversion,415.00,484.10,7615,989,151
+674,342,"Referral Program",organic,2024-06-02,retention,0.00,64.30,8365,501,0
+675,342,"Summer Sale 2024",referral,2024-05-25,conversion,422.00,142.90,5891,648,43
+676,343,"Holiday Special",organic,2024-05-19,conversion,233.00,445.30,4650,325,58
+677,343,"Lead Gen Campaign",direct,2024-05-14,consideration,0.00,229.70,1584,142,0
+678,343,"Retargeting Q1",social_media,2024-05-17,retention,0.00,489.20,1078,43,0
+679,344,"Lead Gen Campaign",social_media,2024-07-31,consideration,0.00,472.30,9976,997,0
+680,345,"Holiday Special",email,2025-07-07,conversion,407.00,267.00,3059,336,24
+681,346,"Email Nurture",social_media,2025-07-04,retention,0.00,270.60,2699,53,0
+682,347,"Lead Gen Campaign",referral,2024-10-02,retention,0.00,407.40,4694,93,0
+683,348,"Product Launch",referral,2024-12-05,retention,0.00,283.30,4812,625,0
+684,349,"Content Marketing",paid_search,2024-09-30,consideration,0.00,352.90,7455,894,0
+685,350,"Partnership Drive",direct,2024-04-18,conversion,422.00,112.80,3334,366,42
+686,350,"Email Nurture",email,2024-04-04,awareness,0.00,456.60,3217,64,0
+687,351,"Email Nurture",referral,2025-02-16,conversion,372.00,391.40,2963,296,8
+688,351,"Holiday Special",social_media,2025-02-22,retention,0.00,370.80,362,7,0
+689,351,"Retargeting Q1",referral,2025-02-20,consideration,0.00,114.10,7662,766,0
+690,352,"Partnership Drive",direct,2024-11-18,awareness,0.00,492.50,828,124,0
+691,352,"Referral Program",organic,2024-11-08,consideration,0.00,199.60,7494,1124,0
+692,352,"Referral Program",paid_search,2024-11-21,awareness,0.00,179.90,7579,303,0
+693,353,"Social Media Push",social_media,2025-10-16,awareness,0.00,138.90,8448,337,0
+694,354,"Email Nurture",organic,2023-08-20,consideration,0.00,436.40,296,11,0
+695,355,"Partnership Drive",direct,2023-01-26,consideration,0.00,69.40,8635,690,0
+696,356,"Partnership Drive",referral,2024-08-04,conversion,61.00,147.10,8657,779,5
+697,357,"Q4 Growth",direct,2024-06-29,retention,0.00,50.40,4465,44,0
+698,358,"Retargeting Q1",direct,2025-03-10,retention,0.00,13.40,8040,482,0
+699,359,"Lead Gen Campaign",email,2024-08-13,awareness,0.00,422.40,9866,986,0
+700,359,"Product Launch",direct,2024-09-02,awareness,0.00,255.10,7454,521,0
+701,360,"Referral Program",social_media,2025-10-16,retention,0.00,205.10,6467,64,0
+702,360,"Social Media Push",social_media,2025-11-06,awareness,0.00,452.40,9627,770,0
+703,360,"Content Marketing",referral,2025-10-25,consideration,0.00,75.60,1280,179,0
+704,361,"Retargeting Q1",social_media,2025-08-05,consideration,0.00,204.50,1062,42,0
+705,361,"Content Marketing",direct,2025-08-13,awareness,0.00,455.30,2805,56,0
+706,362,"Email Nurture",social_media,2023-01-17,retention,0.00,164.60,4682,327,0
+707,362,"Content Marketing",paid_search,2023-01-12,awareness,0.00,187.80,8342,917,0
+708,362,"Holiday Special",paid_search,2023-02-05,consideration,0.00,355.60,7186,143,0
+709,363,"Holiday Special",social_media,2024-06-19,retention,0.00,156.80,6845,273,0
+710,363,"Content Marketing",social_media,2024-07-13,retention,0.00,57.50,4472,223,0
+711,363,"Lead Gen Campaign",email,2024-06-30,retention,0.00,218.00,9311,279,0
+712,364,"Holiday Special",paid_search,2025-07-15,conversion,396.00,267.60,1526,137,15
+713,364,"Retargeting Q1",email,2025-07-02,awareness,0.00,300.80,4500,450,0
+714,365,"Brand Awareness",paid_search,2025-09-28,retention,0.00,92.20,6703,804,0
+715,365,"Brand Awareness",organic,2025-09-14,consideration,0.00,294.30,5022,150,0
+716,365,"Content Marketing",email,2025-09-12,retention,0.00,467.90,6738,741,0
+717,366,"Holiday Special",direct,2024-09-09,conversion,159.00,468.30,1296,77,14
+718,366,"Partnership Drive",referral,2024-09-08,conversion,397.00,482.40,4956,148,21
+719,366,"Partnership Drive",direct,2024-09-18,awareness,0.00,398.50,736,7,0
+720,367,"Retargeting Q1",direct,2023-09-29,retention,0.00,152.00,5553,555,0
+721,367,"Partnership Drive",paid_search,2023-10-07,conversion,202.00,265.30,2800,84,10
+722,368,"Brand Awareness",social_media,2023-10-20,consideration,0.00,218.90,4430,265,0
+723,368,"Summer Sale 2024",email,2023-11-01,consideration,0.00,405.00,4418,132,0
+724,369,"Email Nurture",referral,2024-04-02,consideration,0.00,45.30,5667,113,0
+725,369,"Summer Sale 2024",organic,2024-03-13,consideration,0.00,24.30,6468,646,0
+726,370,"Partnership Drive",referral,2024-08-17,conversion,101.00,9.90,8508,255,29
+727,370,"Product Launch",paid_search,2024-08-17,consideration,0.00,100.10,358,3,0
+728,370,"Email Nurture",paid_search,2024-08-17,retention,0.00,319.20,4381,350,0
+729,371,"Lead Gen Campaign",social_media,2023-12-04,conversion,152.00,21.70,9632,481,58
+730,371,"Social Media Push",paid_search,2023-11-30,consideration,0.00,37.40,9439,188,0
+731,372,"Content Marketing",organic,2023-01-19,consideration,0.00,8.70,175,14,0
+732,373,"Referral Program",email,2023-03-08,awareness,0.00,205.30,9767,976,0
+733,373,"Product Launch",paid_search,2023-03-22,retention,0.00,133.40,2250,112,0
+734,374,"Holiday Special",direct,2025-03-04,awareness,0.00,222.60,3820,343,0
+735,374,"Product Launch",email,2025-03-22,conversion,107.00,305.00,2697,296,17
+736,374,"Partnership Drive",referral,2025-03-02,retention,0.00,95.40,8324,998,0
+737,375,"Lead Gen Campaign",paid_search,2025-05-16,consideration,0.00,433.00,1544,169,0
+738,375,"Retargeting Q1",direct,2025-05-21,consideration,0.00,37.50,2908,58,0
+739,376,"Social Media Push",organic,2024-07-14,consideration,0.00,496.30,3484,487,0
+740,376,"Content Marketing",direct,2024-07-06,consideration,0.00,76.30,6156,615,0
+741,377,"Partnership Drive",referral,2023-09-28,retention,0.00,463.00,5119,460,0
+742,377,"Retargeting Q1",social_media,2023-10-02,conversion,275.00,72.60,9819,589,109
+743,378,"Partnership Drive",paid_search,2025-04-29,awareness,0.00,244.60,9691,1259,0
+744,378,"Brand Awareness",paid_search,2025-04-12,retention,0.00,268.10,9118,364,0
+745,378,"Summer Sale 2024",organic,2025-04-27,conversion,102.00,418.40,6822,409,62
+746,379,"Referral Program",paid_search,2025-06-30,retention,0.00,381.90,2569,154,0
+747,380,"Product Launch",social_media,2025-09-10,consideration,0.00,121.60,1573,235,0
+748,381,"Email Nurture",referral,2023-01-15,retention,0.00,316.50,8822,1235,0
+749,381,"Referral Program",email,2023-01-29,retention,0.00,451.40,973,48,0
+750,381,"Referral Program",email,2023-02-03,conversion,90.00,377.20,7279,946,88
+751,382,"Social Media Push",direct,2023-09-22,conversion,90.00,238.00,1532,137,1
+752,383,"Q4 Growth",email,2025-10-03,conversion,445.00,66.30,9980,1497,32
+753,384,"Referral Program",email,2025-02-03,conversion,0.00,100.50,8106,162,0
+754,384,"Email Nurture",direct,2025-02-28,awareness,0.00,430.90,8991,449,0
+755,384,"Email Nurture",organic,2025-02-09,consideration,0.00,142.70,6088,426,0
+756,385,"Summer Sale 2024",organic,2025-05-27,awareness,0.00,354.10,3056,61,0
+757,385,"Partnership Drive",email,2025-05-08,awareness,0.00,385.60,7675,307,0
+758,385,"Holiday Special",direct,2025-05-25,retention,0.00,236.80,6930,762,0
+759,386,"Email Nurture",social_media,2025-07-27,retention,0.00,9.70,6637,597,0
+760,387,"Content Marketing",email,2023-03-06,conversion,181.00,324.50,6722,268,46
+761,387,"Content Marketing",paid_search,2023-03-03,consideration,0.00,216.50,6253,375,0
+762,387,"Referral Program",referral,2023-03-30,conversion,222.00,31.80,785,39,6
+763,388,"Content Marketing",social_media,2025-08-15,consideration,0.00,288.80,1590,111,0
+764,388,"Retargeting Q1",paid_search,2025-08-05,conversion,51.00,68.20,1987,119,13
+765,388,"Holiday Special",email,2025-07-27,awareness,0.00,360.60,4727,141,0
+766,389,"Social Media Push",paid_search,2024-03-24,conversion,257.00,109.30,3596,215,35
+767,389,"Brand Awareness",social_media,2024-03-28,consideration,0.00,98.40,6842,136,0
+768,389,"Social Media Push",email,2024-03-28,consideration,0.00,226.30,4894,636,0
+769,390,"Partnership Drive",email,2025-01-18,consideration,0.00,356.80,1636,196,0
+770,391,"Lead Gen Campaign",paid_search,2024-11-24,conversion,103.00,108.90,7974,79,15
+771,391,"Content Marketing",social_media,2024-11-13,awareness,0.00,191.60,3232,452,0
+772,392,"Lead Gen Campaign",organic,2025-07-25,conversion,90.00,325.00,8334,250,6
+773,392,"Retargeting Q1",organic,2025-07-21,conversion,125.00,464.70,2757,220,44
+774,393,"Product Launch",organic,2023-12-19,retention,0.00,83.70,7901,316,0
+775,393,"Lead Gen Campaign",paid_search,2023-12-24,awareness,0.00,443.50,9634,963,0
+776,394,"Partnership Drive",email,2025-01-21,awareness,0.00,278.50,5613,112,0
+777,394,"Content Marketing",social_media,2025-01-02,conversion,358.00,175.00,841,50,2
+778,395,"Partnership Drive",direct,2024-01-17,consideration,0.00,179.90,5681,681,0
+779,395,"Content Marketing",referral,2024-01-08,consideration,0.00,216.60,5176,310,0
+780,396,"Retargeting Q1",email,2024-09-14,consideration,0.00,235.60,5567,501,0
+781,397,"Partnership Drive",referral,2023-05-03,consideration,0.00,384.40,578,69,0
+782,397,"Q4 Growth",direct,2023-05-06,conversion,235.00,327.90,6673,266,49
+783,397,"Referral Program",organic,2023-04-11,conversion,255.00,215.30,250,25,5
+784,398,"Summer Sale 2024",referral,2023-08-04,consideration,0.00,289.10,8764,350,0
+785,399,"Social Media Push",referral,2024-12-25,retention,0.00,247.70,1543,61,0
+786,400,"Product Launch",social_media,2024-08-12,retention,0.00,48.60,8743,961,0
+787,400,"Partnership Drive",referral,2024-08-21,retention,0.00,451.50,4471,402,0
+788,401,"Partnership Drive",referral,2024-07-18,consideration,0.00,72.30,667,60,0
+789,401,"Q4 Growth",social_media,2024-07-12,consideration,0.00,211.20,5503,220,0
+790,402,"Retargeting Q1",paid_search,2025-01-30,awareness,0.00,108.40,4231,253,0
+791,402,"Content Marketing",paid_search,2025-02-01,conversion,57.00,37.10,3334,433,1
+792,403,"Partnership Drive",direct,2023-06-24,consideration,0.00,465.90,688,41,0
+793,403,"Email Nurture",referral,2023-06-19,conversion,480.00,243.30,5425,162,11
+794,404,"Social Media Push",social_media,2024-01-10,retention,0.00,339.40,5063,354,0
+795,404,"Content Marketing",social_media,2023-12-24,retention,0.00,202.40,2840,227,0
+796,405,"Brand Awareness",referral,2025-08-10,conversion,462.00,88.40,8956,895,66
+797,405,"Product Launch",direct,2025-08-20,conversion,424.00,378.10,3500,105,21
+798,406,"Q4 Growth",organic,2023-12-23,awareness,0.00,400.70,7462,746,0
+799,407,"Lead Gen Campaign",paid_search,2024-11-07,awareness,0.00,395.10,7223,794,0
+800,407,"Q4 Growth",social_media,2024-11-17,conversion,38.00,210.00,2602,78,12
+801,407,"Summer Sale 2024",direct,2024-11-08,consideration,0.00,342.20,8586,85,0
+802,408,"Retargeting Q1",email,2023-02-10,conversion,444.00,219.30,5014,150,11
+803,408,"Q4 Growth",paid_search,2023-02-20,retention,0.00,397.80,4566,456,0
+804,408,"Partnership Drive",referral,2023-02-19,conversion,338.00,479.20,6348,888,110
+805,409,"Referral Program",paid_search,2024-12-19,consideration,0.00,474.00,4599,643,0
+806,409,"Social Media Push",referral,2024-12-23,consideration,0.00,212.30,1593,223,0
+807,409,"Retargeting Q1",paid_search,2024-12-13,retention,0.00,464.80,3019,452,0
+808,410,"Holiday Special",paid_search,2024-11-16,conversion,121.00,45.50,4006,440,46
+809,410,"Social Media Push",email,2024-12-03,conversion,203.00,273.40,6593,923,130
+810,410,"Q4 Growth",email,2024-12-02,awareness,0.00,26.50,8506,765,0
+811,411,"Content Marketing",referral,2024-02-12,consideration,0.00,380.30,3316,265,0
+812,411,"Partnership Drive",referral,2024-01-31,awareness,0.00,399.40,3457,34,0
+813,412,"Retargeting Q1",social_media,2023-01-13,conversion,75.00,74.70,7045,281,36
+814,412,"Social Media Push",email,2023-01-19,consideration,0.00,444.60,6184,865,0
+815,413,"Content Marketing",email,2025-01-07,conversion,242.00,401.60,8735,786,99
+816,413,"Lead Gen Campaign",social_media,2025-01-13,consideration,0.00,78.50,6116,244,0
+817,414,"Q4 Growth",social_media,2023-06-05,conversion,276.00,450.50,9657,1062,98
+818,414,"Summer Sale 2024",email,2023-05-22,consideration,0.00,125.50,2565,153,0
+819,414,"Email Nurture",paid_search,2023-05-17,consideration,0.00,35.90,3338,467,0
+820,415,"Q4 Growth",organic,2025-04-02,retention,0.00,102.70,8603,1204,0
+821,415,"Social Media Push",direct,2025-03-31,awareness,0.00,63.80,9700,970,0
+822,416,"Brand Awareness",paid_search,2023-10-05,consideration,0.00,371.00,4751,285,0
+823,417,"Retargeting Q1",direct,2025-10-12,awareness,0.00,192.10,7455,969,0
+824,417,"Email Nurture",email,2025-10-20,awareness,0.00,294.60,3557,497,0
+825,417,"Summer Sale 2024",referral,2025-09-25,awareness,0.00,65.30,5337,426,0
+826,418,"Brand Awareness",referral,2024-07-20,conversion,345.00,241.40,7779,77,4
+827,418,"Content Marketing",social_media,2024-07-28,consideration,0.00,121.30,4845,436,0
+828,419,"Brand Awareness",email,2023-06-20,consideration,0.00,408.80,4225,591,0
+829,419,"Partnership Drive",social_media,2023-06-27,consideration,0.00,250.80,1313,105,0
+830,419,"Content Marketing",organic,2023-06-20,conversion,73.00,27.00,713,7,1
+831,420,"Holiday Special",email,2025-02-07,awareness,0.00,15.70,4538,136,0
+832,421,"Brand Awareness",email,2023-11-12,consideration,0.00,219.80,8006,240,0
+833,421,"Brand Awareness",social_media,2023-11-04,conversion,471.00,428.90,9668,1450,129
+834,421,"Holiday Special",direct,2023-11-14,consideration,0.00,198.50,2850,427,0
+835,422,"Retargeting Q1",organic,2025-02-12,retention,0.00,321.80,8256,495,0
+836,422,"Holiday Special",referral,2025-02-22,consideration,0.00,325.30,4976,646,0
+837,423,"Product Launch",referral,2023-11-10,awareness,0.00,402.70,6523,456,0
+838,423,"Lead Gen Campaign",email,2023-11-13,conversion,231.00,248.90,4266,341,54
+839,424,"Holiday Special",organic,2024-07-23,consideration,0.00,328.10,2413,72,0
+840,425,"Email Nurture",referral,2025-03-27,consideration,0.00,401.80,6559,262,0
+841,425,"Holiday Special",direct,2025-04-03,retention,0.00,377.50,8230,164,0
+842,425,"Referral Program",referral,2025-03-28,conversion,466.00,229.80,8796,351,6
+843,426,"Partnership Drive",organic,2025-03-30,conversion,184.00,329.30,6077,243,6
+844,427,"Partnership Drive",email,2025-02-12,awareness,0.00,350.20,5262,105,0
+845,427,"Social Media Push",organic,2025-02-28,conversion,174.00,384.90,6331,443,25
+846,427,"Content Marketing",paid_search,2025-03-04,awareness,0.00,426.00,6055,242,0
+847,428,"Social Media Push",paid_search,2025-05-03,awareness,0.00,255.90,5642,282,0
+848,428,"Q4 Growth",paid_search,2025-05-02,awareness,0.00,388.30,4306,645,0
+849,428,"Social Media Push",referral,2025-04-28,consideration,0.00,351.20,590,41,0
+850,429,"Social Media Push",organic,2023-02-08,retention,0.00,186.60,6288,943,0
+851,429,"Content Marketing",direct,2023-02-06,retention,0.00,464.70,437,4,0
+852,429,"Summer Sale 2024",paid_search,2023-02-11,conversion,404.00,172.50,1017,122,5
+853,430,"Q4 Growth",paid_search,2023-03-05,awareness,0.00,290.00,7015,701,0
+854,430,"Product Launch",paid_search,2023-03-15,conversion,288.00,267.70,825,24,3
+855,431,"Q4 Growth",organic,2024-01-19,consideration,0.00,184.40,5745,804,0
+856,431,"Product Launch",organic,2024-01-07,consideration,0.00,261.90,6777,813,0
+857,432,"Partnership Drive",social_media,2023-05-16,conversion,493.00,435.30,3955,79,6
+858,432,"Content Marketing",paid_search,2023-06-05,retention,0.00,324.90,6048,483,0
+859,433,"Lead Gen Campaign",paid_search,2024-11-02,conversion,146.00,441.20,4760,523,85
+860,433,"Retargeting Q1",paid_search,2024-10-08,conversion,162.00,354.60,5166,671,127
+861,434,"Referral Program",direct,2025-07-18,awareness,0.00,33.70,2456,24,0
+862,434,"Product Launch",paid_search,2025-06-22,awareness,0.00,96.60,5941,594,0
+863,435,"Q4 Growth",email,2024-10-16,consideration,0.00,131.20,3423,68,0
+864,435,"Content Marketing",email,2024-10-23,consideration,0.00,100.50,8176,735,0
+865,435,"Lead Gen Campaign",referral,2024-10-15,conversion,290.00,192.20,4852,194,12
+866,436,"Email Nurture",organic,2024-06-22,retention,0.00,24.00,3235,226,0
+867,437,"Partnership Drive",paid_search,2023-05-24,retention,0.00,263.80,367,29,0
+868,437,"Social Media Push",social_media,2023-06-02,consideration,0.00,133.00,1261,138,0
+869,437,"Q4 Growth",organic,2023-05-26,retention,0.00,241.60,1989,59,0
+870,438,"Email Nurture",direct,2025-06-23,retention,0.00,289.50,4131,413,0
+871,439,"Lead Gen Campaign",paid_search,2024-12-07,awareness,0.00,79.30,5387,161,0
+872,440,"Partnership Drive",social_media,2025-05-31,consideration,0.00,393.60,8097,1133,0
+873,440,"Summer Sale 2024",direct,2025-06-29,awareness,0.00,499.20,1075,86,0
+874,440,"Content Marketing",organic,2025-06-02,awareness,0.00,124.80,5354,107,0
+875,441,"Product Launch",direct,2024-09-24,conversion,0.00,220.20,505,60,0
+876,441,"Retargeting Q1",organic,2024-09-22,awareness,0.00,244.00,8341,1251,0
+877,441,"Product Launch",organic,2024-09-10,consideration,0.00,242.60,3875,155,0
+878,442,"Holiday Special",direct,2025-05-19,conversion,38.00,348.50,1504,105,11
+879,442,"Referral Program",email,2025-06-02,consideration,0.00,149.40,1919,134,0
+880,442,"Social Media Push",paid_search,2025-06-06,retention,0.00,427.40,1460,58,0
+881,443,"Product Launch",direct,2025-03-25,awareness,0.00,347.20,5262,420,0
+882,443,"Email Nurture",paid_search,2025-03-15,conversion,125.00,240.20,3603,360,41
+883,443,"Lead Gen Campaign",referral,2025-03-17,retention,0.00,457.10,5989,179,0
+884,444,"Summer Sale 2024",social_media,2023-12-13,retention,0.00,318.90,5595,503,0
+885,444,"Summer Sale 2024",direct,2023-12-21,conversion,119.00,243.10,8787,702,17
+886,445,"Summer Sale 2024",organic,2024-06-11,retention,0.00,349.50,7348,587,0
+887,445,"Q4 Growth",email,2024-06-07,awareness,0.00,427.90,4735,142,0
+888,445,"Partnership Drive",organic,2024-06-21,consideration,0.00,162.90,1768,176,0
+889,446,"Partnership Drive",email,2024-03-16,conversion,0.00,375.60,5460,218,0
+890,446,"Content Marketing",email,2024-04-02,awareness,0.00,17.60,7387,812,0
+891,446,"Brand Awareness",email,2024-03-12,conversion,365.00,274.10,9301,651,52
+892,447,"Content Marketing",organic,2023-04-24,consideration,0.00,88.20,7057,776,0
+893,447,"Social Media Push",email,2023-04-16,awareness,0.00,124.60,5068,152,0
+894,448,"Content Marketing",direct,2024-10-28,consideration,0.00,158.00,2682,160,0
+895,448,"Lead Gen Campaign",email,2024-11-19,consideration,0.00,86.30,1275,63,0
+896,448,"Lead Gen Campaign",email,2024-11-08,conversion,420.00,38.40,7401,814,85
+897,449,"Q4 Growth",referral,2024-04-03,awareness,0.00,63.40,7365,736,0
+898,449,"Retargeting Q1",social_media,2024-04-19,conversion,90.00,257.70,4885,97,14
+899,450,"Holiday Special",social_media,2023-09-15,consideration,0.00,287.90,5594,839,0
+900,450,"Social Media Push",social_media,2023-09-27,awareness,0.00,210.70,7164,788,0
+901,451,"Partnership Drive",organic,2024-06-04,conversion,426.00,274.30,8888,1066,12
+902,452,"Summer Sale 2024",organic,2023-01-21,retention,0.00,422.10,4884,341,0
+903,452,"Retargeting Q1",paid_search,2023-01-13,conversion,462.00,329.90,499,74,11
+904,452,"Email Nurture",email,2023-01-24,retention,0.00,240.60,8649,1037,0
+905,453,"Retargeting Q1",email,2024-07-26,retention,0.00,293.00,5912,650,0
+906,454,"Content Marketing",direct,2023-10-21,retention,0.00,154.40,6663,599,0
+907,454,"Email Nurture",direct,2023-10-14,conversion,469.00,261.20,8718,174,16
+908,454,"Referral Program",social_media,2023-10-25,retention,0.00,389.80,2487,149,0
+909,455,"Retargeting Q1",social_media,2024-05-03,awareness,0.00,193.50,5469,546,0
+910,456,"Q4 Growth",direct,2023-08-01,retention,0.00,15.70,5410,108,0
+911,457,"Retargeting Q1",email,2024-12-09,awareness,0.00,108.00,1760,158,0
+912,458,"Product Launch",direct,2023-11-09,consideration,0.00,312.00,3009,60,0
+913,459,"Content Marketing",referral,2024-11-03,awareness,0.00,352.70,4105,164,0
+914,459,"Brand Awareness",direct,2024-11-01,awareness,0.00,14.10,5560,500,0
+915,459,"Q4 Growth",direct,2024-10-29,consideration,0.00,205.20,9943,894,0
+916,460,"Social Media Push",organic,2025-05-07,conversion,225.00,205.90,3730,74,14
+917,460,"Retargeting Q1",direct,2025-05-17,consideration,0.00,242.60,6881,137,0
+918,460,"Holiday Special",referral,2025-05-24,retention,0.00,417.70,8183,490,0
+919,461,"Email Nurture",referral,2025-06-02,retention,0.00,388.10,736,110,0
+920,461,"Email Nurture",paid_search,2025-05-31,consideration,0.00,281.00,4037,161,0
+921,461,"Retargeting Q1",direct,2025-05-21,consideration,0.00,101.90,3612,361,0
+922,462,"Brand Awareness",organic,2025-08-24,conversion,391.00,230.00,1676,33,3
+923,462,"Partnership Drive",organic,2025-08-31,retention,0.00,359.30,6230,311,0
+924,463,"Summer Sale 2024",organic,2024-11-28,retention,0.00,330.50,2379,95,0
+925,463,"Q4 Growth",referral,2024-12-05,conversion,461.00,206.70,118,2,1
+926,463,"Holiday Special",email,2024-11-28,consideration,0.00,195.20,3441,240,0
+927,464,"Social Media Push",paid_search,2023-11-16,conversion,175.00,354.80,9629,288,43
+928,465,"Partnership Drive",referral,2023-10-27,consideration,0.00,348.80,8612,1205,0
+929,465,"Partnership Drive",paid_search,2023-10-24,consideration,0.00,159.70,8772,964,0
+930,466,"Referral Program",paid_search,2025-01-23,retention,0.00,218.00,743,7,0
+931,466,"Holiday Special",email,2025-01-20,conversion,0.00,46.50,2836,56,0
+932,466,"Email Nurture",organic,2025-01-24,awareness,0.00,58.30,6658,865,0
+933,467,"Partnership Drive",social_media,2024-05-01,conversion,472.00,310.30,4371,393,62
+934,467,"Email Nurture",referral,2024-04-08,consideration,0.00,373.00,4773,95,0
+935,467,"Holiday Special",email,2024-04-07,retention,0.00,471.40,5418,270,0
+936,468,"Social Media Push",email,2023-12-22,consideration,0.00,263.50,7877,472,0
+937,468,"Product Launch",referral,2023-12-26,conversion,187.00,154.90,8068,1048,135
+938,468,"Product Launch",paid_search,2024-01-04,conversion,65.00,155.80,752,22,1
+939,469,"Brand Awareness",social_media,2023-11-29,conversion,384.00,122.00,5469,492,1
+940,470,"Partnership Drive",direct,2023-07-13,awareness,0.00,330.40,8062,322,0
+941,471,"Brand Awareness",email,2023-04-02,awareness,0.00,316.70,2775,138,0
+942,471,"Social Media Push",paid_search,2023-03-19,awareness,0.00,278.90,1795,143,0
+943,471,"Content Marketing",direct,2023-03-29,consideration,0.00,119.70,7782,1011,0
+944,472,"Partnership Drive",email,2024-03-15,retention,0.00,443.10,2904,58,0
+945,473,"Retargeting Q1",referral,2025-08-22,consideration,0.00,485.70,4451,489,0
+946,473,"Product Launch",organic,2025-08-14,awareness,0.00,403.50,2498,374,0
+947,473,"Social Media Push",social_media,2025-08-25,conversion,67.00,300.20,3210,256,38
+948,474,"Product Launch",email,2024-06-28,conversion,84.00,123.00,7087,850,35
+949,474,"Content Marketing",direct,2024-06-20,retention,0.00,190.10,1479,133,0
+950,474,"Content Marketing",referral,2024-06-14,consideration,0.00,284.60,7060,211,0
+951,475,"Summer Sale 2024",organic,2024-02-27,awareness,0.00,179.10,9644,867,0
+952,475,"Brand Awareness",email,2024-02-16,awareness,0.00,498.80,6683,200,0
+953,476,"Brand Awareness",organic,2023-03-23,retention,0.00,116.00,7778,233,0
+954,477,"Email Nurture",direct,2025-01-05,retention,0.00,311.40,8411,1093,0
+955,477,"Q4 Growth",email,2024-12-16,retention,0.00,207.40,5469,328,0
+956,478,"Social Media Push",social_media,2023-09-13,retention,0.00,153.50,1847,36,0
+957,479,"Email Nurture",social_media,2024-05-16,conversion,489.00,366.30,6333,633,4
+958,479,"Product Launch",paid_search,2024-05-28,consideration,0.00,242.90,8835,530,0
+959,479,"Retargeting Q1",referral,2024-06-01,retention,0.00,470.80,5382,215,0
+960,480,"Content Marketing",social_media,2024-10-03,awareness,0.00,201.60,2866,85,0
+961,481,"Product Launch",referral,2023-10-18,awareness,0.00,225.80,9416,376,0
+962,481,"Partnership Drive",email,2023-10-23,awareness,0.00,274.70,8321,332,0
+963,482,"Holiday Special",direct,2024-12-28,retention,0.00,173.30,3096,92,0
+964,482,"Partnership Drive",organic,2024-12-09,awareness,0.00,45.30,3767,565,0
+965,483,"Summer Sale 2024",social_media,2024-07-25,awareness,0.00,445.30,1175,11,0
+966,484,"Referral Program",paid_search,2024-07-16,retention,0.00,224.60,9362,280,0
+967,485,"Partnership Drive",email,2025-03-05,awareness,0.00,83.30,6416,256,0
+968,485,"Q4 Growth",social_media,2025-02-09,awareness,0.00,37.20,7882,1103,0
+969,485,"Summer Sale 2024",organic,2025-02-22,awareness,0.00,13.00,9890,593,0
+970,486,"Q4 Growth",direct,2025-04-01,conversion,375.00,207.60,3186,223,20
+971,486,"Lead Gen Campaign",social_media,2025-03-14,consideration,0.00,75.20,4501,450,0
+972,487,"Referral Program",paid_search,2023-12-06,consideration,0.00,314.10,8882,1243,0
+973,488,"Email Nurture",direct,2025-01-12,consideration,0.00,25.80,5436,652,0
+974,489,"Holiday Special",email,2024-11-05,retention,0.00,416.60,2885,115,0
+975,490,"Lead Gen Campaign",direct,2023-03-10,awareness,0.00,247.90,5937,296,0
+976,491,"Q4 Growth",email,2023-11-13,retention,0.00,440.70,476,9,0
+977,492,"Brand Awareness",organic,2023-12-22,consideration,0.00,139.90,3705,481,0
+978,492,"Content Marketing",organic,2023-12-18,conversion,317.00,105.20,9831,786,62
+979,492,"Social Media Push",referral,2023-12-06,retention,0.00,482.10,6592,263,0
+980,493,"Content Marketing",direct,2024-05-17,awareness,0.00,218.10,3563,35,0
+981,493,"Product Launch",direct,2024-05-07,retention,0.00,337.40,5524,441,0
+982,494,"Social Media Push",social_media,2023-11-11,retention,0.00,110.00,6446,193,0
+983,494,"Lead Gen Campaign",referral,2023-10-25,awareness,0.00,334.70,1302,26,0
+984,495,"Lead Gen Campaign",social_media,2024-02-04,consideration,0.00,297.40,525,57,0
+985,495,"Product Launch",referral,2024-02-18,retention,0.00,219.30,7876,866,0
+986,496,"Referral Program",referral,2025-02-22,consideration,0.00,79.20,7080,849,0
+987,496,"Product Launch",direct,2025-02-09,awareness,0.00,454.50,6163,246,0
+988,496,"Brand Awareness",social_media,2025-02-06,consideration,0.00,11.40,5522,662,0
+989,497,"Retargeting Q1",direct,2025-03-10,retention,0.00,347.20,6779,813,0
+990,497,"Referral Program",email,2025-02-17,retention,0.00,375.50,7248,652,0
+991,497,"Content Marketing",email,2025-02-14,conversion,42.00,341.70,1601,224,1
+992,498,"Q4 Growth",organic,2025-08-19,awareness,0.00,360.90,9661,386,0
+993,498,"Email Nurture",email,2025-08-22,awareness,0.00,23.80,5938,712,0
+994,499,"Social Media Push",referral,2024-09-12,consideration,0.00,115.10,155,18,0
+995,499,"Email Nurture",paid_search,2024-09-16,retention,0.00,162.10,8390,503,0
+996,499,"Partnership Drive",paid_search,2024-09-02,consideration,0.00,386.90,6147,184,0
+997,500,"Brand Awareness",organic,2024-08-03,retention,0.00,153.10,4160,166,0
+998,500,"Content Marketing",email,2024-07-29,awareness,0.00,38.60,4153,539,0
+999,501,"Brand Awareness",direct,2023-12-12,awareness,0.00,59.10,4209,589,0
+1000,501,"Holiday Special",social_media,2023-12-20,conversion,137.00,315.80,3137,62,12
+1001,501,"Product Launch",social_media,2023-12-21,conversion,137.00,189.30,7314,585,5
+1002,502,"Lead Gen Campaign",email,2023-10-04,retention,0.00,257.90,1573,15,0
+1003,502,"Referral Program",email,2023-10-14,consideration,0.00,190.20,2120,275,0
+1004,502,"Holiday Special",social_media,2023-10-17,awareness,0.00,342.80,6753,607,0
+1005,503,"Summer Sale 2024",social_media,2024-09-03,consideration,0.00,292.60,6653,465,0
+1006,503,"Retargeting Q1",direct,2024-09-05,conversion,108.00,41.70,8537,512,83
+1007,503,"Brand Awareness",email,2024-09-03,conversion,254.00,32.10,1581,221,35
+1008,504,"Brand Awareness",direct,2024-06-20,conversion,406.00,222.10,7946,794,52
+1009,504,"Partnership Drive",email,2024-06-02,retention,0.00,382.30,9820,491,0
+1010,505,"Referral Program",organic,2023-10-29,retention,0.00,26.10,6197,619,0
+1011,506,"Content Marketing",email,2025-05-13,retention,0.00,489.80,6188,804,0
+1012,506,"Holiday Special",referral,2025-05-10,awareness,0.00,304.40,5282,52,0
+1013,506,"Social Media Push",paid_search,2025-05-06,retention,0.00,191.10,2690,269,0
+1014,507,"Partnership Drive",organic,2024-05-23,conversion,58.00,487.30,9689,968,140
+1015,507,"Email Nurture",paid_search,2024-05-10,retention,0.00,445.20,932,46,0
+1016,507,"Referral Program",email,2024-05-18,conversion,289.00,8.40,902,135,6
+1017,508,"Lead Gen Campaign",direct,2022-12-24,awareness,0.00,219.00,7374,221,0
+1018,508,"Brand Awareness",direct,2023-01-01,awareness,0.00,385.30,9912,1486,0
+1019,508,"Partnership Drive",social_media,2022-12-16,awareness,0.00,317.60,1385,41,0
+1020,509,"Brand Awareness",social_media,2024-07-15,conversion,194.00,15.10,5284,792,34
+1021,509,"Holiday Special",referral,2024-08-03,retention,0.00,127.70,3184,222,0
+1022,509,"Lead Gen Campaign",organic,2024-08-08,awareness,0.00,17.90,3370,370,0
+1023,510,"Partnership Drive",email,2024-09-21,consideration,0.00,417.50,1854,37,0
+1024,510,"Content Marketing",paid_search,2024-10-01,conversion,290.00,13.20,6703,67,3
+1025,510,"Retargeting Q1",email,2024-09-30,conversion,373.00,380.70,8237,658,57
+1026,511,"Content Marketing",referral,2023-01-09,conversion,232.00,343.60,546,81,9
+1027,512,"Email Nurture",social_media,2025-05-17,awareness,0.00,469.70,8308,1163,0
+1028,513,"Referral Program",social_media,2023-01-08,consideration,0.00,321.20,6194,433,0
+1029,514,"Retargeting Q1",direct,2023-10-16,consideration,0.00,420.80,4934,740,0
+1030,514,"Product Launch",social_media,2023-10-04,consideration,0.00,82.00,4750,285,0
+1031,514,"Summer Sale 2024",social_media,2023-09-30,conversion,180.00,75.80,6048,120,11
+1032,515,"Referral Program",paid_search,2025-06-20,awareness,0.00,477.30,735,110,0
+1033,516,"Summer Sale 2024",direct,2024-12-28,consideration,0.00,418.10,9107,819,0
+1034,517,"Holiday Special",organic,2024-07-07,retention,0.00,202.00,801,104,0
+1035,518,"Product Launch",organic,2023-06-21,retention,0.00,38.90,9755,1073,0
+1036,519,"Partnership Drive",referral,2023-11-09,conversion,133.00,411.70,4874,536,47
+1037,519,"Q4 Growth",referral,2023-10-28,consideration,0.00,151.70,7913,949,0
+1038,519,"Email Nurture",email,2023-10-29,consideration,0.00,126.80,5364,160,0
+1039,520,"Partnership Drive",paid_search,2025-01-21,retention,0.00,292.90,1827,200,0
+1040,520,"Partnership Drive",paid_search,2025-01-24,retention,0.00,366.40,3749,374,0
+1041,520,"Brand Awareness",organic,2025-02-15,retention,0.00,363.00,6692,1003,0
+1042,521,"Email Nurture",direct,2024-11-24,consideration,0.00,104.40,8785,878,0
+1043,521,"Summer Sale 2024",paid_search,2024-12-06,conversion,0.00,237.90,4885,146,0
+1044,522,"Holiday Special",paid_search,2023-10-01,retention,0.00,236.40,4647,464,0
+1045,522,"Holiday Special",email,2023-09-28,consideration,0.00,49.80,9105,910,0
+1046,523,"Holiday Special",paid_search,2025-07-13,conversion,127.00,328.60,3103,124,18
+1047,524,"Content Marketing",social_media,2023-09-20,consideration,0.00,301.30,7844,784,0
+1048,524,"Holiday Special",organic,2023-09-25,conversion,0.00,285.20,597,77,0
+1049,525,"Partnership Drive",paid_search,2024-03-02,awareness,0.00,237.30,1540,231,0
+1050,525,"Product Launch",direct,2024-02-09,conversion,369.00,176.30,4433,132,24
+1051,525,"Q4 Growth",referral,2024-02-14,conversion,35.00,350.80,3230,323,43
+1052,526,"Product Launch",social_media,2023-11-01,retention,0.00,422.70,7290,583,0
+1053,527,"Email Nurture",paid_search,2025-07-21,consideration,0.00,469.70,7632,228,0
+1054,527,"Lead Gen Campaign",email,2025-07-07,retention,0.00,289.50,3653,109,0
+1055,527,"Holiday Special",email,2025-07-22,consideration,0.00,137.90,2477,173,0
+1056,528,"Partnership Drive",email,2023-11-15,awareness,0.00,175.60,2063,20,0
+1057,528,"Lead Gen Campaign",social_media,2023-11-07,awareness,0.00,477.50,8421,842,0
+1058,528,"Lead Gen Campaign",paid_search,2023-11-25,retention,0.00,18.10,4504,270,0
+1059,529,"Product Launch",direct,2024-05-30,retention,0.00,328.40,9507,665,0
+1060,529,"Summer Sale 2024",social_media,2024-05-20,conversion,361.00,191.90,7299,656,1
+1061,529,"Social Media Push",referral,2024-06-06,awareness,0.00,468.80,130,16,0
+1062,530,"Content Marketing",organic,2024-06-01,retention,0.00,152.50,3374,101,0
+1063,530,"Summer Sale 2024",email,2024-06-12,retention,0.00,194.40,4290,257,0
+1064,531,"Email Nurture",social_media,2024-05-07,retention,0.00,61.50,2904,174,0
+1065,531,"Referral Program",direct,2024-05-04,retention,0.00,309.20,7079,424,0
+1066,532,"Email Nurture",social_media,2023-07-30,retention,0.00,23.40,2023,262,0
+1067,533,"Brand Awareness",direct,2024-02-22,consideration,0.00,161.30,5815,116,0
+1068,533,"Q4 Growth",referral,2024-02-14,retention,0.00,99.50,5086,457,0
+1069,533,"Holiday Special",organic,2024-02-19,awareness,0.00,20.90,6601,792,0
+1070,534,"Q4 Growth",direct,2025-08-26,conversion,222.00,447.60,6370,63,5
+1071,534,"Partnership Drive",organic,2025-08-21,consideration,0.00,225.90,3917,195,0
+1072,534,"Referral Program",email,2025-08-23,conversion,243.00,375.30,2796,83,7
+1073,535,"Retargeting Q1",organic,2022-12-26,conversion,372.00,262.40,7663,1072,104
+1074,535,"Product Launch",organic,2022-12-20,retention,0.00,338.10,2714,325,0
+1075,536,"Retargeting Q1",organic,2025-01-14,consideration,0.00,323.50,6144,245,0
+1076,536,"Content Marketing",paid_search,2025-02-06,retention,0.00,431.40,9113,637,0
+1077,537,"Retargeting Q1",referral,2025-09-21,consideration,0.00,67.80,1366,163,0
+1078,537,"Product Launch",organic,2025-09-03,consideration,0.00,321.80,2520,352,0
+1079,537,"Email Nurture",social_media,2025-09-13,conversion,167.00,265.50,8591,1030,110
+1080,538,"Email Nurture",referral,2024-01-09,awareness,0.00,199.50,409,32,0
+1081,538,"Q4 Growth",paid_search,2024-01-05,consideration,0.00,67.40,7185,1005,0
+1082,539,"Q4 Growth",social_media,2023-04-04,retention,0.00,195.80,8025,1123,0
+1083,539,"Content Marketing",social_media,2023-03-30,retention,0.00,60.90,8309,664,0
+1084,540,"Holiday Special",paid_search,2023-08-04,awareness,0.00,416.40,452,54,0
+1085,541,"Email Nurture",paid_search,2024-07-04,conversion,351.00,187.10,7689,76,13
+1086,541,"Summer Sale 2024",referral,2024-07-08,conversion,304.00,489.00,1677,50,7
+1087,542,"Social Media Push",direct,2024-03-21,consideration,0.00,103.90,6114,794,0
+1088,542,"Retargeting Q1",referral,2024-03-14,conversion,398.00,411.30,9043,1175,51
+1089,542,"Summer Sale 2024",email,2024-03-21,consideration,0.00,34.30,3353,167,0
+1090,543,"Summer Sale 2024",paid_search,2024-08-16,awareness,0.00,440.40,6614,925,0
+1091,544,"Summer Sale 2024",direct,2024-01-14,awareness,0.00,394.70,6701,737,0
+1092,545,"Product Launch",social_media,2024-06-10,conversion,383.00,210.60,6973,627,22
+1093,546,"Partnership Drive",direct,2025-01-25,consideration,0.00,193.20,4307,301,0
+1094,547,"Lead Gen Campaign",direct,2025-08-22,conversion,177.00,190.00,8312,332,65
+1095,547,"Holiday Special",direct,2025-07-26,retention,0.00,78.50,9597,1151,0
+1096,547,"Retargeting Q1",referral,2025-08-14,conversion,448.00,311.20,2442,122,13
+1097,548,"Content Marketing",direct,2025-05-14,retention,0.00,67.40,3423,513,0
+1098,548,"Brand Awareness",direct,2025-05-03,retention,0.00,425.20,6105,610,0
+1099,548,"Partnership Drive",referral,2025-05-13,conversion,380.00,308.90,2257,112,2
+1100,549,"Retargeting Q1",email,2024-04-29,conversion,182.00,262.20,8930,535,53
+1101,550,"Referral Program",referral,2024-08-21,consideration,0.00,222.20,3184,95,0
+1102,551,"Summer Sale 2024",social_media,2023-04-12,conversion,52.00,491.80,2845,56,5
+1103,551,"Retargeting Q1",direct,2023-04-03,awareness,0.00,233.00,4262,554,0
+1104,551,"Content Marketing",email,2023-03-19,awareness,0.00,374.60,1659,82,0
+1105,552,"Lead Gen Campaign",social_media,2025-05-05,awareness,0.00,234.80,7615,533,0
+1106,552,"Content Marketing",social_media,2025-05-22,consideration,0.00,145.30,3957,435,0
+1107,553,"Lead Gen Campaign",organic,2023-09-13,awareness,0.00,18.00,8987,1348,0
+1108,554,"Social Media Push",email,2023-11-04,awareness,0.00,413.80,1386,180,0
+1109,555,"Brand Awareness",direct,2022-12-08,awareness,0.00,287.70,1853,203,0
+1110,555,"Email Nurture",social_media,2022-12-07,retention,0.00,137.40,1226,49,0
+1111,555,"Email Nurture",organic,2022-12-13,awareness,0.00,44.70,3675,477,0
+1112,556,"Lead Gen Campaign",social_media,2024-09-05,awareness,0.00,368.20,8448,591,0
+1113,556,"Retargeting Q1",paid_search,2024-08-21,awareness,0.00,291.20,1698,33,0
+1114,556,"Lead Gen Campaign",organic,2024-08-18,retention,0.00,456.80,8534,1280,0
+1115,557,"Retargeting Q1",direct,2025-03-29,awareness,0.00,331.90,4046,606,0
+1116,558,"Content Marketing",email,2023-08-10,conversion,30.00,148.30,9191,459,56
+1117,559,"Referral Program",paid_search,2023-02-08,retention,0.00,220.30,2930,439,0
+1118,560,"Q4 Growth",organic,2025-01-29,consideration,0.00,480.80,2543,76,0
+1119,560,"Summer Sale 2024",direct,2025-01-08,retention,0.00,144.10,2661,53,0
+1120,561,"Product Launch",social_media,2025-08-24,retention,0.00,490.10,4089,490,0
+1121,562,"Retargeting Q1",paid_search,2023-09-15,awareness,0.00,393.70,3311,264,0
+1122,562,"Lead Gen Campaign",paid_search,2023-10-10,retention,0.00,463.20,8110,729,0
+1123,562,"Referral Program",social_media,2023-10-11,awareness,0.00,144.80,7123,71,0
+1124,563,"Summer Sale 2024",social_media,2024-10-06,awareness,0.00,203.10,7200,648,0
+1125,563,"Social Media Push",referral,2024-10-11,conversion,0.00,410.80,4839,48,0
+1126,564,"Content Marketing",email,2023-09-17,consideration,0.00,189.20,9583,670,0
+1127,565,"Summer Sale 2024",referral,2024-12-21,retention,0.00,142.50,2377,190,0
+1128,565,"Email Nurture",paid_search,2024-12-03,retention,0.00,103.30,5245,734,0
+1129,565,"Content Marketing",direct,2024-12-05,retention,0.00,124.40,2698,296,0
+1130,566,"Brand Awareness",email,2025-07-01,consideration,0.00,297.90,2425,48,0
+1131,566,"Lead Gen Campaign",organic,2025-06-26,retention,0.00,152.10,2345,93,0
+1132,566,"Retargeting Q1",email,2025-06-20,conversion,457.00,51.30,3619,289,38
+1133,567,"Retargeting Q1",referral,2024-12-14,awareness,0.00,108.40,177,12,0
+1134,567,"Brand Awareness",referral,2024-12-06,retention,0.00,57.90,2419,241,0
+1135,567,"Product Launch",email,2024-12-24,conversion,356.00,28.80,8676,954,123
+1136,568,"Retargeting Q1",referral,2025-02-01,conversion,187.00,323.50,7363,662,30
+1137,568,"Summer Sale 2024",paid_search,2025-02-08,conversion,150.00,479.30,8440,168,1
+1138,568,"Social Media Push",paid_search,2025-01-24,conversion,95.00,330.80,3988,478,23
+1139,569,"Product Launch",email,2023-07-03,awareness,0.00,101.50,7871,236,0
+1140,569,"Social Media Push",direct,2023-06-19,consideration,0.00,81.30,1185,130,0
+1141,569,"Product Launch",referral,2023-06-21,conversion,126.00,287.70,284,28,4
+1142,570,"Summer Sale 2024",social_media,2024-04-22,conversion,57.00,10.10,3833,191,34
+1143,571,"Lead Gen Campaign",email,2024-12-19,consideration,0.00,311.60,2291,297,0
+1144,572,"Product Launch",referral,2024-01-05,consideration,0.00,323.80,733,65,0
+1145,572,"Partnership Drive",direct,2024-01-11,awareness,0.00,189.50,8980,1257,0
+1146,573,"Content Marketing",email,2023-02-19,consideration,0.00,248.20,5750,460,0
+1147,574,"Email Nurture",direct,2024-07-25,consideration,0.00,108.50,5016,100,0
+1148,575,"Content Marketing",organic,2023-08-19,conversion,487.00,468.90,6178,370,21
+1149,576,"Holiday Special",social_media,2024-07-28,retention,0.00,109.90,3907,546,0
+1150,577,"Lead Gen Campaign",referral,2023-08-04,consideration,0.00,182.90,4590,45,0
+1151,577,"Product Launch",referral,2023-08-06,conversion,137.00,356.50,9081,1362,97
+1152,577,"Partnership Drive",email,2023-08-05,retention,0.00,180.70,3264,293,0
+1153,578,"Content Marketing",paid_search,2024-04-25,retention,0.00,239.60,9577,191,0
+1154,578,"Holiday Special",referral,2024-04-29,conversion,296.00,363.10,7324,805,13
+1155,579,"Content Marketing",organic,2023-12-05,awareness,0.00,390.80,3131,313,0
+1156,580,"Partnership Drive",social_media,2025-09-16,conversion,47.00,493.20,1628,146,15
+1157,581,"Content Marketing",email,2024-07-28,retention,0.00,437.10,5474,437,0
+1158,581,"Email Nurture",social_media,2024-07-21,conversion,323.00,29.70,529,79,7
+1159,581,"Brand Awareness",direct,2024-07-21,awareness,0.00,255.60,8768,263,0
+1160,582,"Product Launch",referral,2023-10-13,awareness,0.00,378.30,4292,128,0
+1161,583,"Brand Awareness",social_media,2023-03-29,awareness,0.00,18.80,2582,77,0
+1162,584,"Retargeting Q1",direct,2025-07-31,awareness,0.00,244.70,2140,64,0
+1163,584,"Brand Awareness",paid_search,2025-07-25,consideration,0.00,489.70,5533,608,0
+1164,585,"Content Marketing",organic,2025-06-13,retention,0.00,17.50,725,108,0
+1165,585,"Referral Program",referral,2025-06-08,consideration,0.00,268.80,6154,800,0
+1166,586,"Product Launch",referral,2023-01-15,consideration,0.00,441.80,9693,1260,0
+1167,587,"Retargeting Q1",direct,2025-08-08,conversion,439.00,426.60,5492,549,105
+1168,588,"Summer Sale 2024",social_media,2024-03-22,consideration,0.00,310.00,5621,337,0
+1169,589,"Retargeting Q1",email,2024-04-06,consideration,0.00,386.40,6107,732,0
+1170,589,"Q4 Growth",referral,2024-04-10,conversion,72.00,83.60,4936,592,24
+1171,590,"Lead Gen Campaign",paid_search,2024-03-27,consideration,0.00,256.20,9334,746,0
+1172,590,"Retargeting Q1",paid_search,2024-04-03,consideration,0.00,486.10,5062,50,0
+1173,590,"Email Nurture",organic,2024-03-16,consideration,0.00,440.10,8350,334,0
+1174,591,"Social Media Push",referral,2025-06-01,conversion,200.00,435.00,9353,1309,95
+1175,592,"Summer Sale 2024",paid_search,2024-11-12,retention,0.00,83.30,2234,223,0
+1176,592,"Social Media Push",email,2024-11-02,retention,0.00,311.20,689,103,0
+1177,593,"Email Nurture",referral,2023-09-28,retention,0.00,345.40,5261,420,0
+1178,593,"Q4 Growth",direct,2023-09-26,conversion,178.00,142.40,9591,95,6
+1179,593,"Lead Gen Campaign",direct,2023-09-25,conversion,105.00,200.50,9515,951,73
+1180,594,"Brand Awareness",direct,2023-10-20,conversion,153.00,322.80,7751,387,40
+1181,594,"Retargeting Q1",email,2023-11-11,conversion,212.00,239.50,6428,128,15
+1182,594,"Referral Program",paid_search,2023-10-29,awareness,0.00,443.90,6298,629,0
+1183,595,"Holiday Special",social_media,2024-01-01,retention,0.00,355.30,7102,213,0
+1184,595,"Content Marketing",referral,2024-01-02,retention,0.00,448.00,4882,537,0
+1185,595,"Holiday Special",referral,2024-01-06,consideration,0.00,22.40,1441,100,0
+1186,596,"Brand Awareness",direct,2023-05-19,retention,0.00,305.60,5009,450,0
+1187,596,"Retargeting Q1",referral,2023-06-07,retention,0.00,354.00,9024,1353,0
+1188,596,"Email Nurture",social_media,2023-05-17,conversion,311.00,375.60,2492,323,37
+1189,597,"Summer Sale 2024",paid_search,2023-05-28,retention,0.00,19.60,8876,266,0
+1190,597,"Q4 Growth",social_media,2023-05-17,retention,0.00,49.80,7296,583,0
+1191,597,"Retargeting Q1",organic,2023-05-15,conversion,120.00,113.20,4574,594,41
+1192,598,"Content Marketing",organic,2024-10-12,consideration,0.00,294.40,9358,467,0
+1193,598,"Brand Awareness",organic,2024-10-05,conversion,159.00,255.90,4266,42,3
+1194,598,"Retargeting Q1",email,2024-10-10,retention,0.00,442.50,8675,433,0
+1195,599,"Email Nurture",email,2024-07-20,consideration,0.00,96.00,3004,90,0
+1196,599,"Q4 Growth",organic,2024-07-20,retention,0.00,302.90,2791,55,0
+1197,599,"Retargeting Q1",direct,2024-07-08,consideration,0.00,190.60,2586,129,0
+1198,600,"Referral Program",direct,2023-04-01,retention,0.00,292.80,734,66,0
+1199,600,"Social Media Push",paid_search,2023-03-22,consideration,0.00,404.20,621,24,0
+1200,600,"Referral Program",organic,2023-03-24,awareness,0.00,307.60,2008,281,0

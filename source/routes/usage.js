@@ -9,16 +9,77 @@ router.get('/', (req, res) => {
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 50;
     const offset = (page - 1) * limit;
+    const metricDateFrom = req.query.metricDateFrom;
+    const metricDateTo = req.query.metricDateTo;
+    const loginCountMin = req.query.loginCountMin;
+    const loginCountMax = req.query.loginCountMax;
+    const featuresUsedMin = req.query.featuresUsedMin;
+    const featuresUsedMax = req.query.featuresUsedMax;
+    const ticketsOpenedMin = req.query.ticketsOpenedMin;
+    const ticketsOpenedMax = req.query.ticketsOpenedMax;
+    const sessionDurationMin = req.query.sessionDurationMin;
+    const sessionDurationMax = req.query.sessionDurationMax;
 
-    const usage = db.prepare(`
+    let query = `
       SELECT u.*, us.name as user_name, us.email as user_email
       FROM usage_metrics u
       JOIN users us ON u.user_id = us.id
-      ORDER BY u.metric_date DESC
-      LIMIT ? OFFSET ?
-    `).all(limit, offset);
+    `;
+    let countQuery = 'SELECT COUNT(*) as total FROM usage_metrics u';
+    const conditions = [];
+    const params = [];
 
-    const { total } = db.prepare('SELECT COUNT(*) as total FROM usage_metrics').get();
+    if (metricDateFrom) {
+      conditions.push('u.metric_date >= ?');
+      params.push(metricDateFrom);
+    }
+    if (metricDateTo) {
+      conditions.push('u.metric_date <= ?');
+      params.push(metricDateTo);
+    }
+    if (loginCountMin) {
+      conditions.push('u.login_count >= ?');
+      params.push(parseInt(loginCountMin));
+    }
+    if (loginCountMax) {
+      conditions.push('u.login_count <= ?');
+      params.push(parseInt(loginCountMax));
+    }
+    if (featuresUsedMin) {
+      conditions.push('u.features_used_count >= ?');
+      params.push(parseInt(featuresUsedMin));
+    }
+    if (featuresUsedMax) {
+      conditions.push('u.features_used_count <= ?');
+      params.push(parseInt(featuresUsedMax));
+    }
+    if (ticketsOpenedMin) {
+      conditions.push('u.support_tickets_opened >= ?');
+      params.push(parseInt(ticketsOpenedMin));
+    }
+    if (ticketsOpenedMax) {
+      conditions.push('u.support_tickets_opened <= ?');
+      params.push(parseInt(ticketsOpenedMax));
+    }
+    if (sessionDurationMin) {
+      conditions.push('u.session_duration_minutes >= ?');
+      params.push(parseFloat(sessionDurationMin));
+    }
+    if (sessionDurationMax) {
+      conditions.push('u.session_duration_minutes <= ?');
+      params.push(parseFloat(sessionDurationMax));
+    }
+
+    if (conditions.length > 0) {
+      const whereClause = ' WHERE ' + conditions.join(' AND ');
+      query += whereClause;
+      countQuery += whereClause;
+    }
+
+    query += ' ORDER BY u.metric_date DESC LIMIT ? OFFSET ?';
+
+    const usage = db.prepare(query).all(...params, limit, offset);
+    const { total } = db.prepare(countQuery).get(...params);
 
     res.json({
       data: usage,

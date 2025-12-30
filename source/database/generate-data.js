@@ -30,6 +30,7 @@ function formatDateTime(date) {
 const firstNames = ['John', 'Jane', 'Michael', 'Sarah', 'David', 'Emily', 'Robert', 'Lisa', 'James', 'Maria', 'William', 'Jennifer', 'Richard', 'Linda', 'Joseph', 'Patricia', 'Thomas', 'Barbara', 'Charles', 'Elizabeth', 'Daniel', 'Susan', 'Matthew', 'Jessica', 'Anthony', 'Karen', 'Mark', 'Nancy', 'Donald', 'Betty', 'Steven', 'Helen', 'Paul', 'Sandra', 'Andrew', 'Donna', 'Joshua', 'Carol', 'Kenneth', 'Ruth', 'Kevin', 'Sharon', 'Brian', 'Michelle', 'George', 'Laura', 'Edward', 'Amy', 'Ronald', 'Shirley'];
 const lastNames = ['Smith', 'Johnson', 'Williams', 'Brown', 'Jones', 'Garcia', 'Miller', 'Davis', 'Rodriguez', 'Martinez', 'Hernandez', 'Lopez', 'Gonzalez', 'Wilson', 'Anderson', 'Thomas', 'Taylor', 'Moore', 'Jackson', 'Martin', 'Lee', 'Thompson', 'White', 'Harris', 'Clark', 'Lewis', 'Robinson', 'Walker', 'Young', 'Allen', 'King', 'Wright', 'Scott', 'Torres', 'Nguyen', 'Hill', 'Flores', 'Green', 'Adams', 'Nelson', 'Baker', 'Hall', 'Rivera', 'Campbell', 'Mitchell', 'Carter', 'Roberts'];
 const companies = ['TechCorp', 'DataSystems', 'CloudVentures', 'InnovateLabs', 'DigitalWorks', 'SmartSolutions', 'NextGen Tech', 'WebDynamics', 'AppBuilders', 'CodeFactory', 'DevMasters', 'SoftwarePros', 'TechNova', 'ByteCraft', 'PixelPerfect', 'CloudScale', 'DataDrive', 'NetWorks', 'SysAdmin Inc', 'DevOps Solutions'];
+const locations = ['New York, NY', 'Los Angeles, CA', 'Chicago, IL', 'Houston, TX', 'Phoenix, AZ', 'Philadelphia, PA', 'San Antonio, TX', 'San Diego, CA', 'Dallas, TX', 'San Jose, CA', 'Austin, TX', 'Jacksonville, FL', 'San Francisco, CA', 'Columbus, OH', 'Indianapolis, IN', 'Seattle, WA', 'Denver, CO', 'Boston, MA', 'Portland, OR', 'Nashville, TN', 'Atlanta, GA', 'Miami, FL', 'Detroit, MI', 'Minneapolis, MN', 'Toronto, ON', 'Vancouver, BC', 'Montreal, QC', 'London, UK', 'Paris, France', 'Berlin, Germany', 'Tokyo, Japan', 'Sydney, Australia', 'Singapore', 'Dubai, UAE', 'Mumbai, India'];
 
 const subscriptionTiers = ['free', 'starter', 'professional', 'enterprise'];
 const churnStatuses = ['active', 'active', 'active', 'active', 'active', 'at_risk', 'churned']; // Weight towards active
@@ -61,6 +62,7 @@ for (let i = 1; i <= 600; i++) {
   const lastName = randomChoice(lastNames);
   const email = `${firstName.toLowerCase()}.${lastName.toLowerCase()}.${i}@example.com`;
   const name = `${firstName} ${lastName}`;
+  const location = randomChoice(locations);
   const signupDate = randomDate(startDate, endDate);
   const subscriptionTier = randomChoice(subscriptionTiers);
   const churnStatus = randomChoice(churnStatuses);
@@ -69,6 +71,7 @@ for (let i = 1; i <= 600; i++) {
     id: i,
     email,
     name,
+    location,
     signup_date: formatDateTime(signupDate),
     subscription_tier: subscriptionTier,
     churn_status: churnStatus
@@ -77,8 +80,8 @@ for (let i = 1; i <= 600; i++) {
 
 // Write users CSV
 const usersCSV = [
-  'id,email,name,signup_date,subscription_tier,churn_status',
-  ...users.map(u => `${u.id},"${u.email}","${u.name}","${u.signup_date}",${u.subscription_tier},${u.churn_status}`)
+  'id,email,name,location,signup_date,subscription_tier,churn_status',
+  ...users.map(u => `${u.id},"${u.email}","${u.name}","${u.location}","${u.signup_date}",${u.subscription_tier},${u.churn_status}`)
 ].join('\n');
 
 writeFileSync(join(__dirname, '../../input/users.csv'), usersCSV);
