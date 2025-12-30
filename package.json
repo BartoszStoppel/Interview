@@ -1,0 +1,34 @@
+{
+  "name": "saas-analytics-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Full-stack analytics dashboard for a fictional SaaS company",
+  "scripts": {
+    "init-db": "node source/database/init-db.js",
+    "generate-data": "node source/database/generate-data.js",
+    "load-data": "node source/database/load-data.js",
+    "setup-db": "npm run init-db && npm run generate-data && npm run load-data",
+    "api": "node source/api/server.js",
+    "dev:api": "node --watch source/api/server.js",
+    "dev:frontend": "vite --config source/vite.config.js",
+    "build": "vite build --config source/vite.config.js",
+    "preview": "vite preview --config source/vite.config.js"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.17.0",
+    "axios": "^1.13.2",
+    "better-sqlite3": "^11.10.0",
+    "cors": "^2.8.5",
+    "express": "^4.22.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.2",
+    "recharts": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^7.3.0"
+  }
+}
