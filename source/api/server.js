@@ -1,5 +1,7 @@
 import express from 'express';
 import cors from 'cors';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import { exec } from 'child_process';
 import { promisify } from 'util';
 import usersRouter from '../routes/users.js';
@@ -9,6 +11,8 @@ import marketingRouter from '../routes/marketing.js';
 import dashboardRouter from '../routes/dashboard.js';
 
 const execAsync = promisify(exec);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 3003;
@@ -48,6 +52,17 @@ app.use('/api/revenue', revenueRouter);
 app.use('/api/usage', usageRouter);
 app.use('/api/marketing', marketingRouter);
 app.use('/api/dashboard', dashboardRouter);
+
+// Serve static files in production
+if (process.env.NODE_ENV === 'production') {
+  // Serve frontend build files
+  app.use(express.static(path.join(__dirname, '../../dist')));
+  
+  // Serve index.html for any route not matched by API
+  app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../../dist/index.html'));
+  });
+}
 
 // Health check
 app.get('/health', (req, res) => {

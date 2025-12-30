@@ -12,7 +12,9 @@
     "dev:api": "node --watch source/api/server.js",
     "dev:frontend": "vite --config source/vite.config.js",
     "build": "vite build --config source/vite.config.js",
-    "preview": "vite preview --config source/vite.config.js"
+    "preview": "vite preview --config source/vite.config.js",
+    "start": "NODE_ENV=production node source/api/server.js",
+    "render-build": "npm install && npm run build && npm run setup-db"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.17.0",
